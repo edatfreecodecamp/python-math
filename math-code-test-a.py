@@ -344,4 +344,4 @@ def step26(code):
 def step27(code):
     print("If you didn't get a syntax error, you are ready for the project")
 
-// probably add 3 more steps
+# probably add 3 more steps
