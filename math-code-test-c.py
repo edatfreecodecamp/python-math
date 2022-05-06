@@ -219,7 +219,7 @@ def step16(code):
 def step17(b1,b2):
     import re
     print(" ")
-    code count = 0
+    code_count = 0
     if b1==4.13:
         code_count = code_count + 1
     else:
@@ -257,7 +257,7 @@ def step18(code):
 def step19(code):
     import re
     print(" ")
-    code count = 0
+    code_count = 0
     if re.search("x\s*=\s*math\.floor\(math\.log\(a\,\s*10\)\)", code):
         code_count = code_count + 1
     else:
