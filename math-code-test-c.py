@@ -59,7 +59,7 @@ def step05(code):
     if re.search("y\s*\=\s*a\*x\*\*3\s*\+\s*b\*x\*\*2\s*\+\s*c\*x\s*\+\s*d", code):
         code_count = code_count + 1
     else:
-    print("You should use y = a*x**3 + b*x**2 + c*x + d in your code")
+        print("You should use y = a*x**3 + b*x**2 + c*x + d in your code")
 
     if code_count==3:
         print("Code test passed")
