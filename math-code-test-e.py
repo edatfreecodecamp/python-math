@@ -170,7 +170,7 @@ def step13(code):
         print("You should use combined_prob = prob + prob + prob in your code")
 
 
-def step 14(code):
+def step14(code):
     import re
     print(" ")
     # starters = math.factorial(n)/(math.factorial(r)*math.factorial(n-r))
