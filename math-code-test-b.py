@@ -131,7 +131,7 @@ def step11(code):
         print("Code test passed")
         print("Go on to the next step")
     elif re.search("y2\s*\=\s*x\*\*2\s*\-\s*3", code):
-    print("Now change y2 and re-run the code.")
+        print("Now change y2 and re-run the code.")
     else:
         print("You should use y2 = -x2 - 3 in your code.")
 
@@ -155,8 +155,8 @@ def step14():
     print("If you didn't get a syntax error, code test passed")
 
 
-# 15 - maybe no test
-# 16 - no test
+# steps 15 and 16 re-use step01()
+
 
 def step17(code):
     import re
