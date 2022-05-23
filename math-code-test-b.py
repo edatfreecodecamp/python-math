@@ -32,6 +32,7 @@ def step03(code):
 def step04(code):
     import re
     print(" ")
+    code_count = 0
     #plt.plot([xmin,xmax],[0,0],'b') # blue x axis
     if re.search("plt\.plot\(\[xmin\,xmax\]\,\[0\,0\]\,\s*\'g\'\)", code):
         code_count = code_count+1
@@ -82,7 +83,7 @@ def step06(code):
         print("Go on to the next step")
 
 
-def setep07(code):
+def step07(code):
     import re
     code_count = 0
     print(" ")
@@ -133,7 +134,7 @@ def step11(code):
     elif re.search("y2\s*\=\s*x\*\*2\s*\-\s*3", code):
         print("Now change y2 and re-run the code.")
     else:
-        print("You should use y2 = -x2 - 3 in your code.")
+        print("You should use y2 = -x - 3 in your code.")
 
 
 def step12(code):
