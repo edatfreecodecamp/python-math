@@ -168,7 +168,7 @@ def step12(p,r,t,monthly,annuity):
         print("Code test passed")
         print("Go on to the next step")
     else:
-        print("You should use interest = annuity * r / t in your code.")
+        print("You should use interest = annuity * r / 12 in your code.")
 
 
 def step13(p,r,t,pmt):
