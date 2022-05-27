@@ -122,11 +122,11 @@ def step09(code):
 def step10(code):
     import re
     print(" ")
-    if re.search("a\s*\=\s*p\*\(1\s*\+\s*\(r\/n\)\)\*\*\(n\*t\)", code):
+    if re.search("annuity\s*\=\s*p\*\(1\s*\+\s*\(r\/n\)\)\*\*\(n\*t\)", code):
         print("Code test passed")
         print("Go on to the next step")
     else:
-        print("You should use a = p*(1+(r/n))**(n*t) in your code.")
+        print("You should use annuity = p*(1+(r/n))**(n*t) in your code.")
 
 
 def step11(code):
