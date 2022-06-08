@@ -19,7 +19,7 @@ def step01(code):
         print("You should use verts = [(0., 0.), (-1., 1.), (0., 2.), (2., 2.), (3., 1.), (2., 0.), (0., 0.),] in your code")
 
 
-def step03(code):
+def step02(code):
     import re
     print(" ")
     code_count = 0
@@ -109,22 +109,22 @@ def step05(code):
         print("Go on to the next step")
 
 
-def step07():
+def step06():
     print("Notice the description of each side")
     print("Go on to the next step")
 
 
-def step08():
+def step07():
     print("Notice how the description of each side changed")
     print("Go on to the next step")
 
 
-def step09():
+def step08():
     print("Notice the different ratios for A and B")
     print("Go on to the next step")
 
 
-def step10(code):
+def step09(code):
     import re
     print(" ")
     code_count = 0
@@ -135,12 +135,13 @@ def step10(code):
         print("You should use sinA = opp/hyp in your code")
 
 
-def step11():
+def step10():
+    print(" ")
     print("Notice the different ratios for A and B")
     print("Go on to the next step")
 
 
-def step12(code):
+def step11(code):
     import re
     print(" ")
     code_count = 0
@@ -151,13 +152,13 @@ def step12(code):
         print("You should use cosA = adj/hyp in your code")
 
 
-def step13():
+def step12():
     print(" ")
     print("Notice the different ratios for A and B")
-    print("Go to the next step")
+    print("Go on to the next step")
 
 
-def step14(code):
+def step13(code):
     import re
     print(" ")
     if re.search("tanA\s*\=\s*opp\/adj", code):
@@ -167,7 +168,7 @@ def step14(code):
         print("You should use tanA = opp/adj in your code")
 
 
-def step15(code):
+def step14(code):
     import re
     print(" ")
     code_count = 0
@@ -206,7 +207,7 @@ def step15(code):
         print("Go to the next step")
 
 
-def step16(code):
+def step15(code):
     import re
     print(" ")
     code_count = 0
@@ -216,21 +217,23 @@ def step16(code):
     else:
         print("Your code should include ratio_c = round(math.cos(math.radians(angle)),4)")
 
-# step 17 uses step00()
 
-def step18():
+# step 16  re-uses step 00
+
+
+def step17():
     print(" ")
     print("Look at the triangle and notice the pattern")
     print("Go to the next step")
     print(" ")
 
 
-def step19():
+def step18():
     print("See how the sin() and cos() relate to points on the circle")
     print("Go on to the next step")
 
 
-def step20(code):
+def step19(code):
     import re
     print(" ")
     code_count = 0
@@ -255,7 +258,7 @@ def step20(code):
         print("Go on to the next step")
 
 
-def step21(code):
+def step20(code):
     import re
     print(" ")
     code_count = 0
@@ -269,7 +272,7 @@ def step21(code):
         print("Your code should include sideC = sideA/math.sin(radian_angle)")
 
 
-def step22(code):
+def step21(code):
     import re
     print(" ")
     code_count = 0
@@ -283,7 +286,7 @@ def step22(code):
         print("Your code should include sideC = sideA/math.cos(radian_angle)")
 
 
-def step23(code):
+def step22(code):
     import re
     print(" ")
     code_count = 0
@@ -298,7 +301,7 @@ def step23(code):
         print("Your code should include sideC = sideA/math.cos(radian_angle)")
 
 
-def step24(code):
+def step23(code):
     import re
     print(" ")
     code_count = 0
@@ -313,7 +316,7 @@ def step24(code):
         print("Your code should include side_B = math.sin(math.radians(angle_B))*sideA/math.sin(math.radians(angleA))")
 
 
-def step25(code):
+def step24(code):
     import re
     print(" ")
     code_count = 0
@@ -329,7 +332,7 @@ def step25(code):
         print("Your code should include side_C = math.sqrt(sideA**2 + sideB**2 - 2*sideA*sideB*math.cos(math.radians(angle_C)))")
 
 
-def step26(code):
+def step25(code):
     import re
     print(" ")
     code_count = 0
@@ -344,36 +347,18 @@ def step26(code):
         print("Your code should include area = 0.5*sideA*sideB*math.sin(math.radians(angleC))")
 
 
+# no test for step 26
 
 
+def step27():
+    print("Notice the pattern, then go on to the next step")
+    print(" ")
 
 
+# no test for step 28
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+def step29():
+    print("Notice which frequency combinations produce more regular patterns \n")
 
 
