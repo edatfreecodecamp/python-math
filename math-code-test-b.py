@@ -36,7 +36,7 @@ def step04(code):
     #plt.plot([xmin,xmax],[0,0],'b') # blue x axis
     if re.search("plt\.plot\(\[xmin\,xmax\]\,\[0\,0\]\,\s*\'g\'\)", code):
         code_count = code_count+1
-    elif re.search("plt\.plot\(\[xmin\,xmax\]\,\[0\,0\]\,\s*\'b\')", code):
+    elif re.search("plt\.plot\(\[xmin\,xmax\]\,\[0\,0\]\,\s*\'b\'\)", code):
         print("Now change the 'b' to 'g' for each axis and re-run the code.")
     else:
         print("You should use plt.plot([xmin,xmax],[0,0],'g') in your code")
