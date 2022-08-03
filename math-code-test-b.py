@@ -87,7 +87,6 @@ def step07(code):
     import re
     code_count = 0
     print(" ")
-    code = In[-1].split('# Only change code above this line')[0];
     if re.search("plt.plot\(linex\,\s*liney\,\s*\'r\'\)", code):
         code_count = code_count + 1
     else:
