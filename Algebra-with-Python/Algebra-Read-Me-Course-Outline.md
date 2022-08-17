@@ -49,9 +49,8 @@ Practice assignment: create your own Colab notebook to graph a function from poi
 In this unit, you will learn how to find common factors and divide them out. This will be useful when simplifying fractions and factoring square roots<p>
 [video](error)<p>
 [Colab notebook to go along with video](Week-06-code.ipynb)<p>
-[Assignment: Foundational Math Certification 1notebook](Week_03 - practice)<p>
-[video - Extra problems](error)<p>
-[Colab notebook to go along with extra problems](Week_03 - xtra)<p>
+[Assignment: Foundational Math Certification 1](python-math/Foundational-Math-1.ipynb)<p>
+[Video - Certification 1 walkthrough](error)<p>
 
 ## Week 7
 intro text<p>
