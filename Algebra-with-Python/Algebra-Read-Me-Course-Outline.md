@@ -61,31 +61,30 @@ This unit will focus on graphing two equations on the same coordinate plane.<p>
 [Colab notebook to go along with video](Week-07-code.ipynb)<p>
 [Practice in Colab notebook](Week_03 - practice)<p>
 [video - Extra problems](error)<p>
-[Colab notebook to go along with extra problems](Week_03 - xtra)<p>
+[Colab notebook to go along with extra problems](Week-07-xtra.ipynb)<p>
 
-## Week 8
-intro text<p>
+## Week 8 - Solving Systems of Equations
+In this unit, you will learn how to solve a system of two equations (with two variables) without graphing. You will also learn how to solve and graph the system with one block of code.<p>
 [video](error)<p>
-[Colab notebook to go along with video](Week_04 - code)<p>
-[Practice in Colab notebook](Week_04 - practice)<p>
+[Colab notebook to go along with video](Week-08-code.ipynb)<p>
+Assignment: Create your own Colab notebook to solve and graph systems of equations<p>
 [video - Extra problems](error)<p>
 [Colab notebook to go along with extra problems](Week_04 - xtra)<p>
 
-## Week 9
-intro text<p>
+## Week 9 - Applications of Linear Systems
+In this unit, you will see how you can use the Algebra you learned so far to solve real world problems.<p>
 [video](error)<p>
-[Colab notebook to go along with video](Week_03 - code)<p>
-[Practice in Colab notebook](Week_03 - practice)<p>
+[Colab notebook to go along with video](error)<p>
+[Practice in Colab notebook](error)<p>
 [video - Extra problems](error)<p>
-[Colab notebook to go along with extra problems](Week_03 - xtra)<p>
+[Colab notebook to go along with extra problems](error)<p>
 
-## Week 10
-intro text<p>
+## Week 10 - Quadratic Functions
+This unit will go beyond linear equations, to graph parabolas. You will learn how to find key points in quadratic graphs and how to solve quadratic equations.<p>
 [video](error)<p>
-[Colab notebook to go along with video](Week_03 - code)<p>
-[Practice in Colab notebook](Week_03 - practice)<p>
-[video - Extra problems](error)<p>
-[Colab notebook to go along with extra problems](Week_03 - xtra)<p>
+[Colab notebook to go along with video](Week-10-code.ipynb)<p>
+Assignment: [Founcational Math Certification 2](../Foundational-Math-2)<p>
+[video - Certification 2 walkthrough](error)<p>
 
 ## Week 11
 intro text<p>
