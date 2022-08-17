@@ -30,13 +30,12 @@ This unit will focus on converting decimals to fractions and percents.<p>
 [video - Extra problems](error)<p>
 [Colab notebook to go along with extra problems](Week-03-xtra.ipynb)<p>
 
-## Week 4
+## Week 4 - Functions
 This unit will focus on math functions. This will include some reference to Python functions and an introduction to graphing functions.<p>
 [video](error)<p>
-[Colab notebook to go along with video](Week_04 - code)<p>
-[Practice in Colab notebook](Week_04 - practice)<p>
+[Colab notebook to go along with video](Week-04-code.ipynb)<p>
 [video - Extra problems](error)<p>
-[Colab notebook to go along with extra problems](Week_04 - xtra)<p>
+[Colab notebook to go along with extra problems](Week-04-xtra.ipynb)<p>
 
 ## Week 5
 intro text<p>
