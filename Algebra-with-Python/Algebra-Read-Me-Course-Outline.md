@@ -10,8 +10,8 @@ This outline contains links and resources for the full course. Most of this cour
 This will include an introduction to the course, how it will work, and how to use Google Colab. The math and code content will involve ratios, proportions, and solving for variables. As you go throught each part of this outline in sequence, watching each video and working through each Colab notebook, you will gain a full understanding of Algebra and how to write Python code to solve your Algebra problems. This will give you the foundation for deeper math, including data science.<p>
 [video 1 - Intro and set-up](error)<p>
 [video 2 - Solving proportions](error)<p>
-[Colab notebook to go along with video](Week_01 - code)<p>
-[Practice in Colab notebook 1](Week_01 - practice)<p>
+[Colab notebook to go along with video](Week-01-code.ipynb)<p>
+[Practice in Colab notebook 1](Week-01-practice.ipynb)<p>
 [video 3 - Extra problems](error)<p>
 
 ## Week 2 - Solving for X
