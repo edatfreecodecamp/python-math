@@ -1,7 +1,9 @@
 ## Under construction, not complete yet! Check back soon
 
 # Algebra with Python
-This syllabus is the full course, with all of the links and resources you need listed here in order. Most of this course will involve videos and Google Colaboratory notebooks. As you go throught each part of this outline in sequence, watching each video and working through each Colab notebook, you will gain a full understanding of Algebra and how to write Python code to solve your Algebra problems. This will give you the foundation for deeper math, including data science. Some videos will reference problems from textbooks, so here are the two textbooks we will use:<p>
+This syllabus is the full course, with all of the links and resources you need listed here in order. Most of this course will involve videos and Google Colaboratory notebooks. As you go throught each part of this outline in sequence, watching each video and working through each Colab notebook, you will gain a full understanding of Algebra and how to write Python code to solve your Algebra problems. This will give you the foundation for deeper math, including data science.<p>
+
+Some videos will reference problems from textbooks, so here are the two textbooks we will use:<br>
 
 1. Business Math, a Step-by-Step Handbook (2021) by Jean-Paul Oliver<br>
     [Link to the online PDF you can download](https://lyryx.com/subjects/business/business-mathematics/)<br>
