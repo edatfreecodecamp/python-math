@@ -17,10 +17,10 @@ This will include an introduction to the course, how it will work, and how to us
 ## Week 2 - Solving for X
 This week will focus on how to solve for an unknown number (often referred to as "x") using written Algebra and Python code.<p>
 [video](error)<p>
-[Colab notebook to go along with video](Week-02-code)<p>
-[Practice in Colab notebook](Week-02-practice)<p>
+[Colab notebook to go along with video](Week-02-code.ipynb)<p>
+[Practice in Colab notebook](Week-02-practice.ipynb)<p>
 [video - Extra problems](error)<p>
-[Colab notebook to go along with extra problems](Week-02-xtra)<p>
+[Colab notebook to go along with extra problems](Week-02-xtra.ipynb)<p>
 
 ## Week 3
 intro text<p>
