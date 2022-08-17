@@ -37,19 +37,19 @@ This unit will focus on math functions. This will include some reference to Pyth
 [video - Extra problems](error)<p>
 [Colab notebook to go along with extra problems](Week-04-xtra.ipynb)<p>
 
-## Week 5
-intro text<p>
+## Week 5 - Linear Functions
+This unit will show you how to develop linear equations from two points. You will also learn how to graph linear functions and see how an equation, a graph, and a table of (x,y) values are all connected.<p>
 [video](error)<p>
-[Colab notebook to go along with video](Week_03 - code)<p>
-[Practice in Colab notebook](Week_03 - practice)<p>
+[Colab notebook to go along with video](Week-05-code.ipynb)<p>
+Practice assignment: create your own Colab notebook to graph a function from points or from equation input<p> 
 [video - Extra problems](error)<p>
-[Colab notebook to go along with extra problems](Week_03 - xtra)<p>
+[Colab notebook to go along with extra problems](Week-05-xtra.ipynb)<p>
 
-## Week 6
-intro text<p>
+## Week 6 - Common Factors and Square Roots
+In this unit, you will learn how to find common factors and divide them out. This will be useful when simplifying fractions and factoring square roots<p>
 [video](error)<p>
-[Colab notebook to go along with video](Week_03 - code)<p>
-[Practice in Colab notebook](Week_03 - practice)<p>
+[Colab notebook to go along with video](Week-06-code.ipynb)<p>
+[Assignment: Foundational Math Certification 1notebook](Week_03 - practice)<p>
 [video - Extra problems](error)<p>
 [Colab notebook to go along with extra problems](Week_03 - xtra)<p>
 
