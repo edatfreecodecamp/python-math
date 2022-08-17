@@ -69,7 +69,6 @@ In this unit, you will learn how to solve a system of two equations (with two va
 [Colab notebook to go along with video](Week-08-code.ipynb)<p>
 Assignment: Create your own Colab notebook to solve and graph systems of equations<p>
 [video - Extra problems](error)<p>
-[Colab notebook to go along with extra problems](Week_04 - xtra)<p>
 
 ## Week 9 - Applications of Linear Systems
 In this unit, you will see how you can use the Algebra you learned so far to solve real world problems.<p>
@@ -83,7 +82,7 @@ In this unit, you will see how you can use the Algebra you learned so far to sol
 This unit will go beyond linear equations, to graph parabolas. You will learn how to find key points in quadratic graphs and how to solve quadratic equations.<p>
 [video](error)<p>
 [Colab notebook to go along with video](Week-10-code.ipynb)<p>
-Assignment: [Founcational Math Certification 2](../Foundational-Math-2)<p>
+Assignment: [Foundational Math Certification 2](../Foundational-Math-2.ipynb)<p>
 [video - Certification 2 walkthrough](error)<p>
 
 ## Week 11
