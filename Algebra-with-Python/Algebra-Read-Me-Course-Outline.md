@@ -4,7 +4,6 @@
 This syllabus is the full course, with all of the links and resources you need listed here in order. Most of this course will involve videos and Google Colaboratory notebooks. As you go throught each part of this outline in sequence, watching each video and working through each Colab notebook, you will gain a full understanding of Algebra and how to write Python code to solve your Algebra problems. This will give you the foundation for deeper math, including data science.<p>
 
 Some videos will reference problems from textbooks, so here are the two textbooks we will use:<br>
-
 1. Business Math, a Step-by-Step Handbook (2021) by Jean-Paul Oliver<br>
     [Link to the online PDF you can download](https://lyryx.com/subjects/business/business-mathematics/)<br>
 2. Algebra and Trigonometry by Jay Abramson<br>
@@ -80,14 +79,14 @@ In this unit, you will see how you can use the Algebra you learned so far to sol
 [video - Extra problems](error)<p>
 [Colab notebook to go along with extra problems](error)<p>
 
-## Week 10 - Quadratic Functions
+## Week 10 - Quadratic Equations
 This unit will go beyond linear equations, to graph parabolas. You will learn how to find key points in quadratic graphs and how to solve quadratic equations.<p>
 [video](error)<p>
 [Colab notebook to go along with video](Week-10-code.ipynb)<p>
 Assignment: [Foundational Math Certification 2](../Foundational-Math-2.ipynb)<p>
 [video - Certification 2 walkthrough](error)<p>
 
-## Week 11
+## Week 11 - Parent Graphs and Polynomials
 intro text<p>
 [video](error)<p>
 [Colab notebook to go along with video](Week_03 - code)<p>
@@ -95,7 +94,7 @@ intro text<p>
 [video - Extra problems](error)<p>
 [Colab notebook to go along with extra problems](Week_03 - xtra)<p>
 
-## Week 12
+## Week 12 - Business Applications
 intro text<p>
 [video](error)<p>
 [Colab notebook to go along with video](Week_04 - code)<p>
@@ -103,7 +102,7 @@ intro text<p>
 [video - Extra problems](error)<p>
 [Colab notebook to go along with extra problems](Week_04 - xtra)<p>
 
-## Week 13
+## Week 13 - Simple and Compound Interest
 intro text<p>
 [video](error)<p>
 [Colab notebook to go along with video](Week_03 - code)<p>
@@ -111,7 +110,7 @@ intro text<p>
 [video - Extra problems](error)<p>
 [Colab notebook to go along with extra problems](Week_03 - xtra)<p>
 
-## Week 14
+## Week 14 - Exponents and Logarithms
 intro text<p>
 [video](error)<p>
 [Colab notebook to go along with video](Week_03 - code)<p>
@@ -119,7 +118,7 @@ intro text<p>
 [video - Extra problems](error)<p>
 [Colab notebook to go along with extra problems](Week_03 - xtra)<p>
 
-## Week 15
+## Week 15 - Spreadsheets and Additional Resources
 intro text<p>
 [video](error)<p>
 [Colab notebook to go along with video](Week_03 - code)<p>
