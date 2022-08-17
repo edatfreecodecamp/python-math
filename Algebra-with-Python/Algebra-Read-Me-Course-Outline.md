@@ -25,10 +25,10 @@ This unit will focus on how to solve for an unknown number (often referred to as
 ## Week 3 - Fractions, Decimals, and Percents
 This unit will focus on converting decimals to fractions and percents.<p>
 [video](error)<p>
-[Colab notebook to go along with video](Week_03 - code)<p>
-[Practice in Colab notebook](Week_03 - practice)<p>
+[Colab notebook to go along with video](Week-03-code.ipynb)<p>
+[Practice in Colab notebook](Week-03-practice.ipynb)<p>
 [video - Extra problems](error)<p>
-[Colab notebook to go along with extra problems](Week_03 - xtra)<p>
+[Colab notebook to go along with extra problems](Week-03-xtra.ipynb)<p>
 
 ## Week 4
 This unit will focus on math functions. This will include some reference to Python functions and an introduction to graphing functions.<p>
