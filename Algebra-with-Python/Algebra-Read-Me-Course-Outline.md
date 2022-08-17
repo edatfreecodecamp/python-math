@@ -7,7 +7,7 @@ This outline contains links and resources for the full course. Most of this cour
     [Link to the online PDF you can download](https://openstax.org/details/books/algebra-and-trigonometry)<p>
 
 ## Week 1 - Ratios and Proportions
-This will include an introduction to the course, how it will work, and how to use Google Colab. The math and code content will involve ratios, proportions, and solving for variables. As you go throught each part of this outline in sequence, watching each video and working through each Colab notebook, you will gain a full understanding of Algebra and how to write Python code to solve your Algebra problems. This will give you the foundation for deeper math, including data science.<p>
+This unit include an introduction to the course, how it will work, and how to use Google Colab. The math and code content will involve ratios, proportions, and solving for variables. As you go throught each part of this outline in sequence, watching each video and working through each Colab notebook, you will gain a full understanding of Algebra and how to write Python code to solve your Algebra problems. This will give you the foundation for deeper math, including data science.<p>
 [video 1 - Intro and set-up](error)<p>
 [video 2 - Solving proportions](error)<p>
 [Colab notebook to go along with video](Week-01-code.ipynb)<p>
@@ -15,15 +15,15 @@ This will include an introduction to the course, how it will work, and how to us
 [video 3 - Extra problems](error)<p>
 
 ## Week 2 - Solving for X
-This week will focus on how to solve for an unknown number (often referred to as "x") using written Algebra and Python code.<p>
+This unit will focus on how to solve for an unknown number (often referred to as "x") using written Algebra and Python code.<p>
 [video](error)<p>
 [Colab notebook to go along with video](Week-02-code.ipynb)<p>
 [Practice in Colab notebook](Week-02-practice.ipynb)<p>
 [video - Extra problems](error)<p>
 [Colab notebook to go along with extra problems](Week-02-xtra.ipynb)<p>
 
-## Week 3
-intro text<p>
+## Week 3 - Fractions, Decimals, and Percents
+This unit will focus on converting decimals to fractions and percents.<p>
 [video](error)<p>
 [Colab notebook to go along with video](Week_03 - code)<p>
 [Practice in Colab notebook](Week_03 - practice)<p>
@@ -31,7 +31,7 @@ intro text<p>
 [Colab notebook to go along with extra problems](Week_03 - xtra)<p>
 
 ## Week 4
-intro text<p>
+This unit will focus on math functions. This will include some reference to Python functions and an introduction to graphing functions.<p>
 [video](error)<p>
 [Colab notebook to go along with video](Week_04 - code)<p>
 [Practice in Colab notebook](Week_04 - practice)<p>
