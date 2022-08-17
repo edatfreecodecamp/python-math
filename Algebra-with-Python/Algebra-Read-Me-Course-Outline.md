@@ -11,16 +11,16 @@ This will include an introduction to the course, how it will work, and how to us
 [video 1 - Intro and set-up](error)<p>
 [video 2 - Solving proportions](error)<p>
 [Colab notebook to go along with video](Week-01-code.ipynb)<p>
-[Practice in Colab notebook 1](Week-01-practice.ipynb)<p>
+[Practice in Colab notebook](Week-01-practice.ipynb)<p>
 [video 3 - Extra problems](error)<p>
 
 ## Week 2 - Solving for X
 This week will focus on how to solve for an unknown number (often referred to as "x") using written Algebra and Python code.<p>
 [video](error)<p>
-[Colab notebook to go along with video](Week_02 - code)<p>
-[Practice in Colab notebook](Week_02 - practice)<p>
+[Colab notebook to go along with video](Week-02-code)<p>
+[Practice in Colab notebook](Week-02-practice)<p>
 [video - Extra problems](error)<p>
-[Colab notebook to go along with extra problems](Week_02 - xtra)<p>
+[Colab notebook to go along with extra problems](Week-02-xtra)<p>
 
 ## Week 3
 intro text<p>
