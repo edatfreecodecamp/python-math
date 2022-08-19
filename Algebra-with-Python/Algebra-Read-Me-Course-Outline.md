@@ -90,9 +90,8 @@ Assignment: [Foundational Math Certification 2](../Foundational-Math-2.ipynb)<p>
 This unit will show you the different types of graphs, the basic patterns that make up more complicated graphs. Polynomials are mathematical expressions with "multiple things" - the more complicated equations that are built with basic patterns.<p>
 [video](error)<p>
 [Colab notebook to go along with video](Week-11-code.ipynb)<p>
-[Practice in Colab notebook](Week_03 - practice)<p>
 [video - Extra problems](error)<p>
-[Colab notebook to go along with extra problems](Week-11-xtra.ipnb)<p>
+[Colab notebook to go along with extra problems](Week-11-xtra.ipynb)<p>
 
 ## Week 12 - Business Applications
 intro text<p>
