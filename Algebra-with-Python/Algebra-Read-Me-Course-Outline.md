@@ -12,7 +12,7 @@ Some videos will reference problems from textbooks, so here are the two textbook
 ## Week 1 - Ratios and Proportions
 This unit include an introduction to the course, how it will work, and how to use Google Colab. The math and code content will involve ratios, proportions, and solving for variables.<p>
 [video 1 - Intro and set-up](https://www.youtube.com/watch?v=bO3Sn10-XNw)<p>
-[video 2 - Solving proportions](error)<p>
+[video 2 - Solving proportions](https://www.youtube.com/watch?v=61A3PNx1hjY)<p>
 [Colab notebook to go along with video](Week-01-code.ipynb)<p>
 Assignment: [Practice in Colab notebook](Week-01-practice.ipynb)<p>
 [video 3 - Extra problems](error)<p>
