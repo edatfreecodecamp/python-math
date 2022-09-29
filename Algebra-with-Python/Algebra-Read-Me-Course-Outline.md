@@ -30,19 +30,23 @@ If you have not done it yet, set up your Algebra Colab notebook and add the foll
 <hr>
 <p>
 Run the next Colab notebook to get practice solving proportions. As a bonus, take a look at the code that creates these practice problems.<p>
-Assignment: [Practice in Colab notebook](Week-01-practice.ipynb)<p>
+Assignment: [Practice in Colab notebook](https://colab.research.google.com/drive/1Gl0dofhOrO1gdyUF1VtVTARxu-uuRCon?usp=sharing)<p>
 <p>
 <hr>
 <p>
 This next video will show you how to use proportions in other applications, such as currency exchange rates and unit conversion. It will also show you more about setting up your notebook and working throught the practice assignment.<p>
-[video 3 - Extra problems and applications]([https://www.youtube.com/embed/6o0SsdyUf2U](https://www.youtube.com/watch?v=NMVg8mTtSzw)<p>
+[video 3 - Extra problems and applications](https://www.youtube.com/watch?v=NMVg8mTtSzw)<p>
 <p>
 <hr>
 <p>
 ## Week 2 - Solving for X
 This unit will focus on how to solve for an unknown number (often referred to as "x") using written Algebra and Python code.<p>
-[video](error)<p>
-[Colab notebook to go along with video](Week-02-code.ipynb)<p>
+[video - solving for x](https://www.youtube.com/watch?v=SAVDhkGst6Y)<p>
+<p>
+<hr>
+<p>
+Now it's your turn to write code to solve for x. Here is the notebook used in the video. Use this code. Change it if you want. Test it and compare it to paper-and-pencil solving. Remember the equation input needs to be in Python syntax.<p>
+[Colab notebook to go along with video](https://colab.research.google.com/drive/11Zi77gs1FKoEqfPqYa2HtTENiWZyQAO2?usp=sharing)<p>
 Assignment: [Practice in Colab notebook](Week-02-practice.ipynb)<p>
 [video - Extra problems](error)<p>
 [Colab notebook to go along with extra problems](Week-02-xtra.ipynb)<p>
