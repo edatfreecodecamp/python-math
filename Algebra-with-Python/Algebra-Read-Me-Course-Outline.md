@@ -25,7 +25,7 @@ Now we get to the math content. This video will show you how to solve proportion
 <hr>
 <p>
 If you have not done it yet, set up your Algebra Colab notebook and add the following code to it.<p>
-[Colab notebook to go along with video](Week-01-code.ipynb)<p>
+[Colab notebook to go along with video](https://colab.research.google.com/drive/1Q7nCcbrnoYttkwiHB_nQ-X1JuLpUmtRD?usp=sharing)<p>
 <p>
 <hr>
 <p>
@@ -34,8 +34,8 @@ Assignment: [Practice in Colab notebook](Week-01-practice.ipynb)<p>
 <p>
 <hr>
 <p>
-This next video will show you how to use proportions in other applications, such as currency exchange rates and unit conversion. It will also show you more about setting up your notebook and working throught the practice assignment.
-[video 3 - Extra problems and applications]([https://www.youtube.com/embed/6o0SsdyUf2U](https://www.youtube.com/watch?v=NMVg8mTtSzw))<p>
+This next video will show you how to use proportions in other applications, such as currency exchange rates and unit conversion. It will also show you more about setting up your notebook and working throught the practice assignment.<p>
+[video 3 - Extra problems and applications]([https://www.youtube.com/embed/6o0SsdyUf2U](https://www.youtube.com/watch?v=NMVg8mTtSzw)<p>
 <p>
 <hr>
 <p>
