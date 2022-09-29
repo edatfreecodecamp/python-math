@@ -2,25 +2,43 @@
 
 # Algebra with Python
 This syllabus is the full course, designed as a one-semester college course, with all of the links and resources you need listed here in order. Most of this course will involve videos and Google Colaboratory notebooks. As you go throught each part of this course in sequence, watching each video and working through each Colab notebook, you will gain a full understanding of Algebra and how to write Python code to solve your Algebra problems. Throughout this course, you will also build your own Algebra notebook that you will be able to use as your custom super calculator. This course (and the code you write here) will give you the foundation for deeper math, including data science.<p>
-
+<p>
+<hr>
+<p>
 Some videos will reference problems from textbooks, so here are the two textbooks we will use:<br>
 1. Business Math, a Step-by-Step Handbook (2021) by Jean-Paul Oliver<br>
     [Link to the online PDF you can download](https://lyryx.com/subjects/business/business-mathematics/)<br>
 2. Algebra and Trigonometry by Jay Abramson<br>
     [Link to the online PDF you can download](https://openstax.org/details/books/algebra-and-trigonometry)<p>
-
+<p>
+<hr>
+<p>
 ## Week 1 - Ratios and Proportions
 Your journey begins here as you learn the math, learn the code, and build your notebook. After the videos, you will see links to the Google Colab notebooks used in those videos. Copy and use whatever code you need to enhance your notebook. This first video includes an introduction to the course, how it will work, and how to use Google Colab. The math and code content will come next.<p>
 [video 1 - Intro and set-up](https://www.youtube.com/watch?v=bO3Sn10-XNw)<p>
+<p>
+<hr>
+<p>
 Now we get to the math content. This video will show you how to solve proportions and write code to solve for variables.<p>
 [video 2 - Solving proportions](https://www.youtube.com/watch?v=61A3PNx1hjY)<p>
+<p>
+<hr>
+<p>
 If you have not done it yet, set up your Algebra Colab notebook and add the following code to it.<p>
 [Colab notebook to go along with video](Week-01-code.ipynb)<p>
+<p>
+<hr>
+<p>
 Run the next Colab notebook to get practice solving proportions. As a bonus, take a look at the code that creates these practice problems.<p>
 Assignment: [Practice in Colab notebook](Week-01-practice.ipynb)<p>
+<p>
+<hr>
+<p>
 This next video will show you how to use proportions in other applications, such as currency exchange rates and unit conversion. It will also show you more about setting up your notebook and working throught the practice assignment.
-[video 3 - Extra problems and applications](error)<p>
-
+[video 3 - Extra problems and applications]([https://www.youtube.com/embed/6o0SsdyUf2U](https://www.youtube.com/watch?v=NMVg8mTtSzw))<p>
+<p>
+<hr>
+<p>
 ## Week 2 - Solving for X
 This unit will focus on how to solve for an unknown number (often referred to as "x") using written Algebra and Python code.<p>
 [video](error)<p>
