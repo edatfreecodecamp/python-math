@@ -14,10 +14,12 @@ Your journey begins here as you learn the math, learn the code, and build your n
 [video 1 - Intro and set-up](https://www.youtube.com/watch?v=bO3Sn10-XNw)<p>
 Now we get to the math content. This video will show you how to solve proportions and write code to solve for variables.<p>
 [video 2 - Solving proportions](https://www.youtube.com/watch?v=61A3PNx1hjY)<p>
- 
+If you have not done it yet, set up your Algebra Colab notebook and add the following code to it.<p>
 [Colab notebook to go along with video](Week-01-code.ipynb)<p>
+Run the next Colab notebook to get practice solving proportions. As a bonus, take a look at the code that creates these practice problems.<p>
 Assignment: [Practice in Colab notebook](Week-01-practice.ipynb)<p>
-[video 3 - Extra problems](error)<p>
+This next video will show you how to use proportions in other applications, such as currency exchange rates and unit conversion. It will also show you more about setting up your notebook and working throught the practice assignment.
+[video 3 - Extra problems and applications](error)<p>
 
 ## Week 2 - Solving for X
 This unit will focus on how to solve for an unknown number (often referred to as "x") using written Algebra and Python code.<p>
