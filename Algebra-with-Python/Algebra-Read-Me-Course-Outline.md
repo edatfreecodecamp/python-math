@@ -1,7 +1,7 @@
 ## Under construction, not complete yet! Check back soon
 
 # Algebra with Python
-This syllabus is the full course, with all of the links and resources you need listed here in order. Most of this course will involve videos and Google Colaboratory notebooks. As you go throught each part of this outline in sequence, watching each video and working through each Colab notebook, you will gain a full understanding of Algebra and how to write Python code to solve your Algebra problems. This will give you the foundation for deeper math, including data science.<p>
+This syllabus is the full course, designed as a one-semester college course, with all of the links and resources you need listed here in order. Most of this course will involve videos and Google Colaboratory notebooks. As you go throught each part of this course in sequence, watching each video and working through each Colab notebook, you will gain a full understanding of Algebra and how to write Python code to solve your Algebra problems. Throughout this course, you will also build your own Algebra notebook that you will be able to use as your custom super calculator. This course (and the code you write here) will give you the foundation for deeper math, including data science.<p>
 
 Some videos will reference problems from textbooks, so here are the two textbooks we will use:<br>
 1. Business Math, a Step-by-Step Handbook (2021) by Jean-Paul Oliver<br>
@@ -10,9 +10,11 @@ Some videos will reference problems from textbooks, so here are the two textbook
     [Link to the online PDF you can download](https://openstax.org/details/books/algebra-and-trigonometry)<p>
 
 ## Week 1 - Ratios and Proportions
-This unit include an introduction to the course, how it will work, and how to use Google Colab. The math and code content will involve ratios, proportions, and solving for variables.<p>
+Your journey begins here as you learn the math, learn the code, and build your notebook. After the videos, you will see links to the Google Colab notebooks used in those videos. Copy and use whatever code you need to enhance your notebook. This first video includes an introduction to the course, how it will work, and how to use Google Colab. The math and code content will come next.<p>
 [video 1 - Intro and set-up](https://www.youtube.com/watch?v=bO3Sn10-XNw)<p>
+Now we get to the math content. This video will show you how to solve proportions and write code to solve for variables.<p>
 [video 2 - Solving proportions](https://www.youtube.com/watch?v=61A3PNx1hjY)<p>
+ 
 [Colab notebook to go along with video](Week-01-code.ipynb)<p>
 Assignment: [Practice in Colab notebook](Week-01-practice.ipynb)<p>
 [video 3 - Extra problems](error)<p>
