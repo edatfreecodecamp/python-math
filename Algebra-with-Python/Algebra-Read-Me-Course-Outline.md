@@ -65,7 +65,7 @@ The next video will go deeper, with more examples of how to use SymPy solve. It 
 <hr>
 <p>
 Here is the Colab notebook to go along with extra problems. Use it to add more to your Algebra Colab notebook that you are building.  
-[Colab notebook to go along with extra problems](Week-02-xtra.ipynb)<p>
+[Notebook link: ](https://colab.research.google.com/drive/1Jv6WxW93J_1GZao8DkNb4X0D93oVibbs)<p>
 <p>
 <hr>
 <p>
