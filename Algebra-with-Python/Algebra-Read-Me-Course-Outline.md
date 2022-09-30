@@ -15,7 +15,7 @@ Some videos will reference problems from textbooks, so here are the two textbook
 <p>
 <hr>
 <p>
-## Week 1 - Ratios and Proportions
+## Week 1 - Ratios and Proportions<p>
 Your journey begins here as you learn the math, learn the code, and build your notebook. After the videos, you will see links to the Google Colab notebooks used in those videos. Copy and use whatever code you need to enhance your notebook. This first video includes an introduction to the course, how it will work, and how to use Google Colaboratory. The math and code content will come next.<p>
 [video 1 - Intro and set-up](https://www.youtube.com/watch?v=bO3Sn10-XNw)<p>
 <p>
@@ -43,7 +43,7 @@ This next video will show you how to use proportions in other applications, such
 <p>
 <hr>
 <p>
-## Week 2 - Solving for X
+## Week 2 - Solving for X<p>
 This unit will focus on how to solve for an unknown number (often referred to as "x") using written Algebra and Python code. This first video will show you the essence of Algebra and then how Python code does the same task in a different way.<p>
 [video - solving for x](https://www.youtube.com/watch?v=SAVDhkGst6Y)<p>
 <p>
@@ -59,19 +59,19 @@ Assignment: [Practice in Colab notebook](https://colab.research.google.com/drive
 <p>
 <hr>
 <p>
-The next video will go deeper, with more examples of how to use SymPy solve. It will also explain how the practice functions generate the random problems. 
+The next video will go deeper, with more examples of how to use SymPy solve. It will also explain how the practice functions generate the random problems.<p> 
 [video - Extra problems](https://www.youtube.com/watch?v=lFTCVUCbNoM)<p>
 <p>
 <hr>
 <p>
-Here is the Colab notebook to go along with extra problems. Use it to add more to your Algebra Colab notebook that you are building.  
+Here is the Colab notebook to go along with extra problems. Use it to add more to your Algebra Colab notebook that you are building.<p>  
 [Notebook link: ](https://colab.research.google.com/drive/1Jv6WxW93J_1GZao8DkNb4X0D93oVibbs)<p>
 <p>
 <hr>
 <p>
 <hr>
 <p> 
-## Week 3 - Fractions, Decimals, and Percents
+## Week 3 - Fractions, Decimals, and Percents<p>
 This unit will focus on converting decimals to fractions and percents.<p>
 [video](error)<p>
 [Colab notebook to go along with video](Week-03-code.ipynb)<p>
