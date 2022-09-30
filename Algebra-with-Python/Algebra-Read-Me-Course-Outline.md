@@ -13,23 +13,25 @@ Some videos will reference problems from textbooks, so here are the two textbook
 <p>
 <hr>
 <p>
+<hr>
+<p>
 ## Week 1 - Ratios and Proportions
-Your journey begins here as you learn the math, learn the code, and build your notebook. After the videos, you will see links to the Google Colab notebooks used in those videos. Copy and use whatever code you need to enhance your notebook. This first video includes an introduction to the course, how it will work, and how to use Google Colab. The math and code content will come next.<p>
+Your journey begins here as you learn the math, learn the code, and build your notebook. After the videos, you will see links to the Google Colab notebooks used in those videos. Copy and use whatever code you need to enhance your notebook. This first video includes an introduction to the course, how it will work, and how to use Google Colaboratory. The math and code content will come next.<p>
 [video 1 - Intro and set-up](https://www.youtube.com/watch?v=bO3Sn10-XNw)<p>
 <p>
 <hr>
 <p>
-Now we get to the math content. This video will show you how to solve proportions and write code to solve for variables.<p>
+Now we get to the math content. This video will show you how to set up and solve proportions and write code to solve for variables.<p>
 [video 2 - Solving proportions](https://www.youtube.com/watch?v=61A3PNx1hjY)<p>
 <p>
 <hr>
 <p>
-If you have not done it yet, set up your Algebra Colab notebook and add the following code to it.<p>
-[Colab notebook to go along with video](https://colab.research.google.com/drive/1Q7nCcbrnoYttkwiHB_nQ-X1JuLpUmtRD?usp=sharing)<p>
+This is the Colab notebook to go along with the video. If you have not done it yet, set up your Algebra Colab notebook and add the following code to it.<p>
+[Link:](https://colab.research.google.com/drive/1Q7nCcbrnoYttkwiHB_nQ-X1JuLpUmtRD?usp=sharing)<p>
 <p>
 <hr>
 <p>
-Run the next Colab notebook to get practice solving proportions. As a bonus, take a look at the code that creates these practice problems.<p>
+Run the next Colab notebook to practice solving proportions. As a bonus, take a look at the code that creates these practice problems.<p>
 Assignment: [Practice in Colab notebook](https://colab.research.google.com/drive/1Gl0dofhOrO1gdyUF1VtVTARxu-uuRCon?usp=sharing)<p>
 <p>
 <hr>
@@ -39,18 +41,36 @@ This next video will show you how to use proportions in other applications, such
 <p>
 <hr>
 <p>
+<hr>
+<p>
 ## Week 2 - Solving for X
-This unit will focus on how to solve for an unknown number (often referred to as "x") using written Algebra and Python code.<p>
+This unit will focus on how to solve for an unknown number (often referred to as "x") using written Algebra and Python code. This first video will show you the essence of Algebra and then how Python code does the same task in a different way.<p>
 [video - solving for x](https://www.youtube.com/watch?v=SAVDhkGst6Y)<p>
 <p>
 <hr>
 <p>
 Now it's your turn to write code to solve for x. Here is the notebook used in the video. Use this code. Change it if you want. Test it and compare it to paper-and-pencil solving. Remember the equation input needs to be in Python syntax.<p>
 [Colab notebook to go along with video](https://colab.research.google.com/drive/11Zi77gs1FKoEqfPqYa2HtTENiWZyQAO2?usp=sharing)<p>
-Assignment: [Practice in Colab notebook](Week-02-practice.ipynb)<p>
-[video - Extra problems](error)<p>
+<p>
+<hr>
+<p>
+Use the following Colab notebook to practice solving one-step algebra problems. As a bonus, look at the code that generates the practice problems.<p>
+Assignment: [Practice in Colab notebook](https://colab.research.google.com/drive/1XjmHoERFKcvol7FPidQE-wgdvR82HV45)<p>
+<p>
+<hr>
+<p>
+The next video will go deeper, with more examples of how to use SymPy solve. It will also explain how the practice functions generate the random problems. 
+[video - Extra problems](https://www.youtube.com/watch?v=lFTCVUCbNoM)<p>
+<p>
+<hr>
+<p>
+Here is the Colab notebook to go along with extra problems. Use it to add more to your Algebra Colab notebook that you are building.  
 [Colab notebook to go along with extra problems](Week-02-xtra.ipynb)<p>
-
+<p>
+<hr>
+<p>
+<hr>
+<p> 
 ## Week 3 - Fractions, Decimals, and Percents
 This unit will focus on converting decimals to fractions and percents.<p>
 [video](error)<p>
