@@ -72,13 +72,19 @@ Here is the Colab notebook to go along with extra problems. Use it to add more t
 <hr>
 <p> 
 ## Week 3 - Fractions, Decimals, and Percents<p>
-This unit will focus on converting decimals to fractions and percents.<p>
-[video](error)<p>
-[Colab notebook to go along with video](Week-03-code.ipynb)<p>
-Assignment: [Practice in Colab notebook](Week-03-practice.ipynb)<p>
-[video - Extra problems](error)<p>
+This unit will focus on converting decimals to fractions and percents. The first video will show you how to do this on paper, and then show you how to do it with Python code.<p>
+[video](https://www.youtube.com/watch?v=hVHWr4KXZn0&t=1s)<p>
+Here is the Colab notebook used in the video. Use this code as a model, and write your own code to convert fractions and decimals.<p>
+[Colab notebook to go along with video](https://colab.research.google.com/drive/1dgeEEODP7cwm_96_JqbjxxJhVpZcFfGe?usp=sharing#scrollTo=NkMTAVF0BlqE)<p>
+Run the code in the following notebook to get practice converting fractions and decimals. As a bonus, look at the code used to generate the practice problems.<p>
+Assignment: [Practice in Colab notebook](https://colab.research.google.com/drive/1qON4GYbMkaZJA7MYd7-RcDROOkuuBJg9?usp=sharing)<p>
+[video - Extra problems](https://www.youtube.com/watch?v=YHVA6cYIglM)<p>
 [Colab notebook to go along with extra problems](Week-03-xtra.ipynb)<p>
-
+<p>
+<hr>
+<p>
+<hr>
+<p> 
 ## Week 4 - Functions
 This unit will focus on math functions. This will include some reference to Python functions and an introduction to graphing functions.<p>
 [video](error)<p>
