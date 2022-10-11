@@ -101,7 +101,7 @@ Here is the Colab notebook used in the video, so you can use it as a model.
 <p> 
 ## Week 4 - Functions
 This unit will focus on math functions. This will include some reference to Python functions and an introduction to graphing functions.<p>
-[video](error)<p>
+[video](<iframe width="414" height="256" src="https://www.youtube.com/embed/rYg12-omcGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)<p>
 [Colab notebook to go along with video](Week-04-code.ipynb)<p>
 Assignment: Create Python functions for the decimal-to-fraction conversions from Week 3<p>
 [video - Extra problems](error)<p>
