@@ -87,38 +87,77 @@ Assignment: [Practice in Colab notebook](https://colab.research.google.com/drive
 <p>
 <hr>
 <p>
-The following video will show you one way to set up your Google Colaboratory notebook, so that you can continue to build your personalized Algebra calculator.
-[video - Extra problems](https://www.youtube.com/watch?v=YHVA6cYIglM)<p>
+The following video will show you one way to set up your Google Colaboratory notebook, so that you can continue to build your personalized Algebra calculator.<p>
+[video - Extra](https://www.youtube.com/watch?v=YHVA6cYIglM)<p>
 <p>
 <hr>
 <p>
-Here is the Colab notebook used in the video, so you can use it as a model.
+Here is the Colab notebook used in the video, so you can use it as a model.<p>
 [Colab notebook to go along with extra problems](Week-03-xtra.ipynb)<p>
 <p>
 <hr>
 <p>
 <hr>
 <p> 
-## Week 4 - Functions
-This unit will focus on math functions. This will include some reference to Python functions and an introduction to graphing functions.<p>
+## Week 4 - Functions<p>
+This unit will teach you about math functions. The first video will show you what it means to be a function, and then it will show you how math functions and Python functions are similar.<p>
 [video](https://www.youtube.com/embed/rYg12-omcGg)<p>
 <p>
 <hr>
 <p> 
-[Colab notebook to go along with video](Week-04-code.ipynb)<p>
-Assignment: Create Python functions for the decimal-to-fraction conversions from Week 3<p>
-[video - Extra problems](error)<p>
-[Colab notebook to go along with extra problems](Week-04-xtra.ipynb)<p>
-
-## Week 5 - Linear Functions
-This unit will show you how to develop linear equations from two points. You will also learn how to graph linear functions and see how an equation, a graph, and a table of (x,y) values are all connected.<p>
-[video](error)<p>
-[Colab notebook to go along with video](Week-05-code.ipynb)<p>
+You will get the Colab notebook used in the video after the next part. Now it's time to practice making your own functions in your Colab notebook. Here is your assignment: Create Python functions for the decimal-to-fraction conversions from Week 3<p>
+<p>
+<hr>
+<p> 
+This next video will show you the connection between functions and graphing. Notice how the graph is a way to represent the inputs and outputs of a function. Then the video will show you how to graph a function with Python.<p> 
+[video](https://www.youtube.com/embed/vUefCkh8-wc)<p>
+<p>
+<hr>
+<p> 
+Here is the Colab notebook with the function code and basic graphing code, so you can start making your own graphs.<p>
+[Function and graphing code](https://colab.research.google.com/drive/1d0e55NoKjKILIum34POv04h0OLpE_pkn)<p>
+<p>
+<hr>
+<p> 
+This video will give you a deeper dive and show you more about how to customize graphs in Python.<p>
+[video - Extra](https://www.youtube.com/embed/vUefCkh8-wc)<p>
+<p>
+<hr>
+<p> 
+Here is the Colab notebook from the last video, so you can copy the little details.<p>
+[Graphing notebook](https://colab.research.google.com/drive/1UYorWd9-Btf_ZQyA9YdUzxzKR8rnVrSV)<p>
+<p>
+<hr>
+<p> 
+<p>
+<hr>
+<p> 
+## Week 5 - Linear Functions<p>
+This unit will show you how to develop linear equations from two points. You will also learn how to graph linear functions and see how an equation, a graph, and a table of (x,y) values are all connected. The first video will focus on the slope of a line and how to calculate it.<p>
+[video](https://www.youtube.com/embed/nURsz7SR5aM)<p>
+<p>
+<hr>
+<p> 
+Here is a video to show you the math behind finding the y-intercept in a linear function, so you can develop the whole equation. Then the video will show you how to graph the whole function. You will also see how to do the whole process with Python code.<p>
+[video](https://www.youtube.com/embed/u0bgovPh4ME)<p>
+<p>
+<hr>
+<p> 
+Here is the Colab notebook to to along with the videos, so you can see the formulas again.
+[Colab notebook link](Week-05-code.ipynb)<p>
+<p>
+<hr>
+<p> 
 Assignment: create your own Colab notebook to graph a function from points or from equation input<p> 
 [video - Extra problems](error)<p>
 [Colab notebook to go along with extra problems](Week-05-xtra.ipynb)<p>
-
-## Week 6 - Common Factors and Square Roots
+<p>
+<hr>
+<p> 
+<p>
+<hr>
+<p> 
+## Week 6 - Common Factors and Square Roots<p>
 In this unit, you will learn how to find common factors and divide them out. This will be useful when simplifying fractions and factoring square roots.<p>
 [video](error)<p>
 [Colab notebook to go along with video](Week-06-code.ipynb)<p>
