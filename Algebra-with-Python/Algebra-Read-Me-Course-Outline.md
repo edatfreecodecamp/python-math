@@ -74,11 +74,25 @@ Here is the Colab notebook to go along with extra problems. Use it to add more t
 ## Week 3 - Fractions, Decimals, and Percents<p>
 This unit will focus on converting decimals to fractions and percents. The first video will show you how to do this on paper, and then show you how to do it with Python code.<p>
 [video](https://www.youtube.com/watch?v=hVHWr4KXZn0&t=1s)<p>
+<p>
+<hr>
+<p>
 Here is the Colab notebook used in the video. Use this code as a model, and write your own code to convert fractions and decimals.<p>
 [Colab notebook to go along with video](https://colab.research.google.com/drive/1dgeEEODP7cwm_96_JqbjxxJhVpZcFfGe?usp=sharing#scrollTo=NkMTAVF0BlqE)<p>
+<p>
+<hr>
+<p>
 Run the code in the following notebook to get practice converting fractions and decimals. As a bonus, look at the code used to generate the practice problems.<p>
 Assignment: [Practice in Colab notebook](https://colab.research.google.com/drive/1qON4GYbMkaZJA7MYd7-RcDROOkuuBJg9?usp=sharing)<p>
+<p>
+<hr>
+<p>
+The following video will show you one way to set up your Google Colaboratory notebook, so that you can continue to build your personalized Algebra calculator.
 [video - Extra problems](https://www.youtube.com/watch?v=YHVA6cYIglM)<p>
+<p>
+<hr>
+<p>
+Here is the Colab notebook used in the video, so you can use it as a model.
 [Colab notebook to go along with extra problems](Week-03-xtra.ipynb)<p>
 <p>
 <hr>
