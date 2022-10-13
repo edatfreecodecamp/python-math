@@ -78,12 +78,12 @@ This unit will focus on converting decimals to fractions and percents. The first
 <hr>
 <p>
 Here is the Colab notebook used in the video. Use this code as a model, and write your own code to convert fractions and decimals.<p>
-[Colab notebook to go along with video](https://colab.research.google.com/drive/1dgeEEODP7cwm_96_JqbjxxJhVpZcFfGe?usp=sharing#scrollTo=NkMTAVF0BlqE)<p>
+[Fractions and Decimals notebook](https://colab.research.google.com/drive/1dgeEEODP7cwm_96_JqbjxxJhVpZcFfGe?usp=sharing#scrollTo=NkMTAVF0BlqE)<p>
 <p>
 <hr>
 <p>
 Run the code in the following notebook to get practice converting fractions and decimals. As a bonus, look at the code used to generate the practice problems.<p>
-Assignment: [Practice in Colab notebook](https://colab.research.google.com/drive/1qON4GYbMkaZJA7MYd7-RcDROOkuuBJg9?usp=sharing)<p>
+Assignment: [Practice notebook](https://colab.research.google.com/drive/1qON4GYbMkaZJA7MYd7-RcDROOkuuBJg9?usp=sharing)<p>
 <p>
 <hr>
 <p>
@@ -93,7 +93,7 @@ The following video will show you one way to set up your Google Colaboratory not
 <hr>
 <p>
 Here is the Colab notebook used in the video, so you can use it as a model.<p>
-[Colab notebook to go along with extra problems](Week-03-xtra.ipynb)<p>
+[Week 3 sample notebook](https://colab.research.google.com/drive/1ND_gULby6RWU4Zs27Z7V5WK2g7fHPk1b?usp=sharing)<p>
 <p>
 <hr>
 <p>
@@ -115,7 +115,7 @@ This next video will show you the connection between functions and graphing. Not
 <hr>
 <p> 
 Here is the Colab notebook with the function code and basic graphing code, so you can start making your own graphs.<p>
-[Function and graphing code](https://colab.research.google.com/drive/1d0e55NoKjKILIum34POv04h0OLpE_pkn)<p>
+[Function and graphing notebook](https://colab.research.google.com/drive/1d0e55NoKjKILIum34POv04h0OLpE_pkn)<p>
 <p>
 <hr>
 <p> 
@@ -144,13 +144,17 @@ Here is a video to show you the math behind finding the y-intercept in a linear 
 <hr>
 <p> 
 Here is the Colab notebook to to along with the videos, so you can see the formulas again.
-[Colab notebook link](Week-05-code.ipynb)<p>
+[Linear function notebook](https://colab.research.google.com/drive/1UJ1w-XFTuCfK6FI3H2GT0lbxd2HO3tQ6?usp=sharing)<p>
 <p>
 <hr>
 <p> 
-Assignment: create your own Colab notebook to graph a function from points or from equation input<p> 
+Assignment: Create your own Colab notebook to graph a function from points or from equation input<p> 
+<p>
+<hr>
+<p> 
+This video will give you a deeper look into developing equations from word problems (so then you can write the code to solve or graph those equations). The video will also begin to look at data points as (x,y) coordinates. With this, you will begin to see the connection between Algebra and data science.
 [video - Extra problems](error)<p>
-[Colab notebook to go along with extra problems](Week-05-xtra.ipynb)<p>
+[Colab notebook to go along with extra problems](https://colab.research.google.com/drive/1OzC7gqCNWNzwv50ziNeG2IJhbXm88-XK?usp=sharing)<p>
 <p>
 <hr>
 <p> 
