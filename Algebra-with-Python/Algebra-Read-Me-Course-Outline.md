@@ -17,12 +17,12 @@ Some videos will reference problems from textbooks, so here are the two textbook
 <p>
 ## Week 1 - Ratios and Proportions<p>
 Your journey begins here as you learn the math, learn the code, and build your notebook. After the videos, you will see links to the Google Colab notebooks used in those videos. Copy and use whatever code you need to enhance your notebook. This first video includes an introduction to the course, how it will work, and how to use Google Colaboratory. The math and code content will come next.<p>
-[video 1 - Intro and set-up](https://www.youtube.com/watch?v=bO3Sn10-XNw)<p>
+[video 1 - Intro and set-up](https://www.youtube.com/embed/bO3Sn10-XNw)<p>
 <p>
 <hr>
 <p>
 Now we get to the math content. This video will show you how to set up and solve proportions and write code to solve for variables.<p>
-[video 2 - Solving proportions](https://www.youtube.com/watch?v=61A3PNx1hjY)<p>
+[video 2 - Solving proportions](https://www.youtube.com/embed/61A3PNx1hjY)<p>
 <p>
 <hr>
 <p>
@@ -37,7 +37,7 @@ Assignment: [Practice in Colab notebook](https://colab.research.google.com/drive
 <hr>
 <p>
 This next video will show you how to use proportions in other applications, such as currency exchange rates and unit conversion. It will also show you more about setting up your notebook and working throught the practice assignment.<p>
-[video 3 - Extra problems and applications](https://www.youtube.com/watch?v=NMVg8mTtSzw)<p>
+[video 3 - Extra problems and applications](https://www.youtube.com/embed/NMVg8mTtSzw)<p>
 <p>
 <hr>
 <p>
@@ -45,7 +45,7 @@ This next video will show you how to use proportions in other applications, such
 <p>
 ## Week 2 - Solving for X<p>
 This unit will focus on how to solve for an unknown number (often referred to as "x") using written Algebra and Python code. This first video will show you the essence of Algebra and then how Python code does the same task in a different way.<p>
-[video - solving for x](https://www.youtube.com/watch?v=SAVDhkGst6Y)<p>
+[video - solving for x](https://www.youtube.com/embed/SAVDhkGst6Y)<p>
 <p>
 <hr>
 <p>
@@ -60,7 +60,7 @@ Assignment: [Practice in Colab notebook](https://colab.research.google.com/drive
 <hr>
 <p>
 The next video will go deeper, with more examples of how to use SymPy solve. It will also explain how the practice functions generate the random problems.<p> 
-[video - Extra problems](https://www.youtube.com/watch?v=lFTCVUCbNoM)<p>
+[video - Extra problems](https://www.youtube.com/embed/lFTCVUCbNoM)<p>
 <p>
 <hr>
 <p>
@@ -73,7 +73,7 @@ Here is the Colab notebook to go along with extra problems. Use it to add more t
 <p> 
 ## Week 3 - Fractions, Decimals, and Percents<p>
 This unit will focus on converting decimals to fractions and percents. The first video will show you how to do this on paper, and then show you how to do it with Python code.<p>
-[video](https://www.youtube.com/watch?v=hVHWr4KXZn0&t=1s)<p>
+[video](https://www.youtube.com/embed/hVHWr4KXZn0&t=1s)<p>
 <p>
 <hr>
 <p>
@@ -88,8 +88,7 @@ Assignment: [Practice notebook](https://colab.research.google.com/drive/1qON4GYb
 <hr>
 <p>
 The following video will show you one way to set up your Google Colaboratory notebook, so that you can continue to build your personalized Algebra calculator.<p>
-[video - Extra](https://www.youtube.com/watch?v=YHVA6cYIglM)<p>
-    [video - Extra](https://www.youtube.com/embed/YHVA6cYIglM)<p>
+[video - Extra](https://www.youtube.com/embed/YHVA6cYIglM)<p>
 <p>
 <hr>
 <p>
@@ -154,8 +153,12 @@ Assignment: Create your own Colab notebook to graph a function from points or fr
 <hr>
 <p> 
 This video will give you a deeper look into developing equations from word problems (so then you can write the code to solve or graph those equations). The video will also begin to look at data points as (x,y) coordinates. With this, you will begin to see the connection between Algebra and data science.
-[video - Extra problems](error)<p>
-[Colab notebook to go along with extra problems](https://colab.research.google.com/drive/1OzC7gqCNWNzwv50ziNeG2IJhbXm88-XK?usp=sharing)<p>
+[video - Word problems](https://www.youtube.com/embed/Emeex5gi5uA)<p>
+<p>
+<hr>
+<p> 
+Here is the Colab notebook to go along with the previous video. The code in it should be familiar to you.
+[Word problem notebook](https://colab.research.google.com/drive/1OzC7gqCNWNzwv50ziNeG2IJhbXm88-XK?usp=sharing)<p>
 <p>
 <hr>
 <p> 
@@ -163,11 +166,11 @@ This video will give you a deeper look into developing equations from word probl
 <hr>
 <p> 
 ## Week 6 - Common Factors and Square Roots<p>
-In this unit, you will learn how to find common factors and divide them out. This will be useful when simplifying fractions and factoring square roots.<p>
+In this unit, you will learn how to find common factors and divide them out. This will be useful when simplifying fractions and factoring square roots. The first video will show you how to do this - in writing, then in code. The larger assignment in this unit is first Foundational Math notebook.<p>
 [video](error)<p>
 [Colab notebook to go along with video](Week-06-code.ipynb)<p>
-Assignment: [Foundational Math Certification 1](../Foundational-Math-1.ipynb)<p>
-[Video - Certification 1 walkthrough](error)<p>
+Assignment: [Foundational Math Certification 1](https://colab.research.google.com/drive/1jT7atuRCOnkdPyDmlgKVJqxouDSx7Ioh?usp=sharing)<p>
+[Video - Certification 1 walkthrough](https://www.youtube.com/embed/PdsvcZNPEEs)<p>
 
 ## Week 7 - Graphing Systems of Equations
 This unit will focus on graphing two equations on the same coordinate plane.<p>
