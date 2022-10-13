@@ -89,6 +89,7 @@ Assignment: [Practice notebook](https://colab.research.google.com/drive/1qON4GYb
 <p>
 The following video will show you one way to set up your Google Colaboratory notebook, so that you can continue to build your personalized Algebra calculator.<p>
 [video - Extra](https://www.youtube.com/watch?v=YHVA6cYIglM)<p>
+    [video - Extra](https://www.youtube.com/embed/YHVA6cYIglM)<p>
 <p>
 <hr>
 <p>
