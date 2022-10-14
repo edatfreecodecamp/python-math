@@ -1,5 +1,5 @@
  
-#Algebra with Python<p>
+# Algebra with Python<p>
 This syllabus is the full course, designed as a one-semester college course, with all of the links and resources you need listed here in order. Most of this course will involve videos and Google Colaboratory notebooks. As you go throught each part of this course in sequence, watching each video and working through each Colab notebook, you will gain a full understanding of Algebra and how to write Python code to solve your Algebra problems. Throughout this course, you will also build your own Algebra notebook that you will be able to use as your custom super calculator. This course (and the code you write here) will give you the foundation for deeper math, including data science.<p>
 <p>
 <hr>
