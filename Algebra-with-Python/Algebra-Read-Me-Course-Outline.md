@@ -105,7 +105,8 @@ This unit will teach you about math functions. The first video will show you wha
 <p>
 <hr>
 <p> 
-You will get the Colab notebook used in the video after the next part. Now it's time to practice making your own functions in your Colab notebook. Here is your assignment: Create Python functions for the decimal-to-fraction conversions from Week 3<p>
+Now it's time to practice making your own functions in your Colab notebook.<p>
+Assignment: Create Python functions for the decimal-to-fraction conversions from Week 3<p>
 <p>
 <hr>
 <p> 
@@ -143,7 +144,7 @@ Here is a video to show you the math behind finding the y-intercept in a linear 
 <p>
 <hr>
 <p> 
-Here is the Colab notebook to to along with the videos, so you can see the formulas again.
+Here is the Colab notebook to to along with the videos, so you can see the formulas again.<p>
 [Linear function notebook](https://colab.research.google.com/drive/1UJ1w-XFTuCfK6FI3H2GT0lbxd2HO3tQ6?usp=sharing)<p>
 <p>
 <hr>
@@ -152,12 +153,12 @@ Assignment: Create your own Colab notebook to graph a function from points or fr
 <p>
 <hr>
 <p> 
-This video will give you a deeper look into developing equations from word problems (so then you can write the code to solve or graph those equations). The video will also begin to look at data points as (x,y) coordinates. With this, you will begin to see the connection between Algebra and data science.
+This video will give you a deeper look into developing equations from word problems (so then you can write the code to solve or graph those equations). The video will also begin to look at data points as (x,y) coordinates. With this, you will begin to see the connection between Algebra and data science.<p>
 [video - Word problems](https://www.youtube.com/embed/Emeex5gi5uA)<p>
 <p>
 <hr>
 <p> 
-Here is the Colab notebook to go along with the previous video. The code in it should be familiar to you.
+Here is the Colab notebook to go along with the previous video. The code in it should be familiar to you.<p>
 [Word problem notebook](https://colab.research.google.com/drive/1OzC7gqCNWNzwv50ziNeG2IJhbXm88-XK?usp=sharing)<p>
 <p>
 <hr>
@@ -166,22 +167,59 @@ Here is the Colab notebook to go along with the previous video. The code in it s
 <hr>
 <p> 
 ## Week 6 - Common Factors and Square Roots<p>
-In this unit, you will learn how to find common factors and divide them out. This will be useful when simplifying fractions and factoring square roots. The first video will show you how to do this - in writing, then in code. The larger assignment in this unit is first Foundational Math notebook.<p>
-[video](error)<p>
-[Colab notebook to go along with video](Week-06-code.ipynb)<p>
+In this unit, you will learn how to find common factors and divide them out. This will be useful when simplifying fractions and factoring square roots. The first video will show you how to do this - in writing, then in code using loops and modulus operations. The larger assignment in this unit is first Foundational Math notebook.<p>
+[video](https://www.youtube.com/embed/Puyp_-ZYA54)<p>
+<p>
+<hr>
+<p> 
+Since that video included many little details, here is the Colab notebook so that you can copy and modify some of the code<p>
+[Factor video](https://colab.research.google.com/drive/1tB7N3QqHEbGk33v0BdTwZTVkS9ju9yn6?usp=sharing)<p>
+<p>
+<hr>
+<p> 
+Now you are ready to complete the first Foundational Math Certification notebook.<p>
 Assignment: [Foundational Math Certification 1](https://colab.research.google.com/drive/1jT7atuRCOnkdPyDmlgKVJqxouDSx7Ioh?usp=sharing)<p>
-[Video - Certification 1 walkthrough](https://www.youtube.com/embed/PdsvcZNPEEs)<p>
-
+<p>
+<hr>
+<p> 
+Work through the certifation assignment first. If you are really stuck or need more guidance, this video is a walkthrough of the whole certification.<p>
+[Certification 1 walkthrough](https://www.youtube.com/embed/PdsvcZNPEEs)<p>
+<p>
+<hr>
+<p> 
+<p>
+<hr>
+<p> 
 ## Week 7 - Graphing Systems of Equations
-This unit will focus on graphing two equations on the same coordinate plane.<p>
-[video](error)<p>
-[Colab notebook to go along with video](Week-07-code.ipynb)<p>
-[Practice in Colab notebook](Week_03 - practice)<p>
-[video - Extra problems](error)<p>
-[Colab notebook to go along with extra problems](Week-07-xtra.ipynb)<p>
-
+This unit will focus on graphing two equations on the same coordinate plane, so that you can see where the lines intersect. The first video, like usual, will show you how do do this with written math, then how to do this with code<p>
+[video](https://www.youtube.com/embed/FxSIFR4zsrE)<p>
+<p>
+<hr>
+<p> 
+Here is the Colab notebook to go along with the video<p>
+[Graphing systems notebook](https://colab.research.google.com/drive/1N1JEZJctODxsntROnmg0VqMSHXYdIlFD?usp=sharing)<p>
+<p>
+<hr>
+<p> 
+Assignment: Add that code to the Algebra notebook you are building, and test it with different functions<p>
+<p>
+<hr>
+<p> 
+This next video will give you a deeper dive into what you can do with graphing systems of equations, graphing inequalities, and shading above or below the line. You will also see how to download the graph to your computer or your Google Drive.<p> 
+[Extra graphing video](https://www.youtube.com/embed/q8ad1tTFqns)<p>
+<p>
+<hr>
+<p> 
+So that you can go back and reference the code, here is the notebook used in the previous video<p>
+[Colab notebook](https://colab.research.google.com/drive/1m5oG62NzUHRzBghGCPRfr1SzvbywRWPV?usp=sharing)<p>
+<p>
+<hr>
+<p> 
+<p>
+<hr>
+<p> 
 ## Week 8 - Solving Systems of Equations
-In this unit, you will learn how to solve a system of two equations (with two variables) without graphing. You will also learn how to solve and graph the system with one block of code.<p>
+In this unit, you will learn how to solve a system of two equations (with two variables) without graphing. You will then learn how to solve and graph the system with one block of code.<p>
 [video](error)<p>
 [Colab notebook to go along with video](Week-08-code.ipynb)<p>
 Assignment: Create your own Colab notebook to solve and graph systems of equations<p>
