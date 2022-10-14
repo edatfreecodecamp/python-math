@@ -30,7 +30,7 @@ Now we get to the math content. This video will show you how to set up and solve
 <p>
  
 This is the Colab notebook to go along with the video. If you have not done it yet, set up your Algebra Colab notebook and add the following code to it.<p>
-[Link:](https://colab.research.google.com/drive/1Q7nCcbrnoYttkwiHB_nQ-X1JuLpUmtRD?usp=sharing)<p>
+[Link to Colab notebook](https://colab.research.google.com/drive/1Q7nCcbrnoYttkwiHB_nQ-X1JuLpUmtRD?usp=sharing)<p>
 <p>
 <hr>
 <p>
@@ -75,7 +75,7 @@ The next video will go deeper, with more examples of how to use SymPy solve. It 
 <p>
  
 Here is the Colab notebook to go along with extra problems. Use it to add more to your Algebra Colab notebook that you are building.<p>  
-[Notebook link: ](https://colab.research.google.com/drive/1Jv6WxW93J_1GZao8DkNb4X0D93oVibbs)<p>
+[Notebook link](https://colab.research.google.com/drive/1Jv6WxW93J_1GZao8DkNb4X0D93oVibbs)<p>
 <p>
 <hr>
 <p>
@@ -117,26 +117,31 @@ This unit will teach you about math functions. The first video will show you wha
 <p>
 <hr>
 <p> 
+ 
 Now it's time to practice making your own functions in your Colab notebook.<p>
 Assignment: Create Python functions for the decimal-to-fraction conversions from Week 3<p>
 <p>
 <hr>
 <p> 
+ 
 This next video will show you the connection between functions and graphing. Notice how the graph is a way to represent the inputs and outputs of a function. Then the video will show you how to graph a function with Python.<p> 
 [video](https://www.youtube.com/embed/vUefCkh8-wc)<p>
 <p>
 <hr>
 <p> 
+ 
 Here is the Colab notebook with the function code and basic graphing code, so you can start making your own graphs.<p>
 [Function and graphing notebook](https://colab.research.google.com/drive/1d0e55NoKjKILIum34POv04h0OLpE_pkn)<p>
 <p>
 <hr>
 <p> 
+ 
 This video will give you a deeper dive and show you more about how to customize graphs in Python.<p>
 [video - Extra](https://www.youtube.com/embed/vUefCkh8-wc)<p>
 <p>
 <hr>
 <p> 
+ 
 Here is the Colab notebook from the last video, so you can copy the little details.<p>
 [Graphing notebook](https://colab.research.google.com/drive/1UYorWd9-Btf_ZQyA9YdUzxzKR8rnVrSV)<p>
 <p>
@@ -152,25 +157,30 @@ This unit will show you how to develop linear equations from two points. You wil
 <p>
 <hr>
 <p> 
+ 
 Here is a video to show you the math behind finding the y-intercept in a linear function, so you can develop the whole equation. Then the video will show you how to graph the whole function. You will also see how to do the whole process with Python code.<p>
 [video](https://www.youtube.com/embed/u0bgovPh4ME)<p>
 <p>
 <hr>
 <p> 
+ 
 Here is the Colab notebook to to along with the videos, so you can see the formulas again.<p>
 [Linear function notebook](https://colab.research.google.com/drive/1UJ1w-XFTuCfK6FI3H2GT0lbxd2HO3tQ6?usp=sharing)<p>
 <p>
 <hr>
 <p> 
+ 
 Assignment: Create your own Colab notebook to graph a function from points or from equation input<p> 
 <p>
 <hr>
 <p> 
+ 
 This video will give you a deeper look into developing equations from word problems (so then you can write the code to solve or graph those equations). The video will also begin to look at data points as (x,y) coordinates. With this, you will begin to see the connection between Algebra and data science.<p>
 [video - Word problems](https://www.youtube.com/embed/Emeex5gi5uA)<p>
 <p>
 <hr>
 <p> 
+ 
 Here is the Colab notebook to go along with the previous video. The code in it should be familiar to you.<p>
 [Word problem notebook](https://colab.research.google.com/drive/1OzC7gqCNWNzwv50ziNeG2IJhbXm88-XK?usp=sharing)<p>
 <p>
@@ -186,16 +196,19 @@ In this unit, you will learn how to find common factors and divide them out. Thi
 <p>
 <hr>
 <p> 
+ 
 Since that video included many little details, here is the Colab notebook so that you can copy and modify some of the code<p>
 [Factor video](https://colab.research.google.com/drive/1tB7N3QqHEbGk33v0BdTwZTVkS9ju9yn6?usp=sharing)<p>
 <p>
 <hr>
 <p> 
+ 
 Now you are ready to complete the first Foundational Math Certification notebook.<p>
 Assignment: [Foundational Math Certification 1](https://colab.research.google.com/drive/1jT7atuRCOnkdPyDmlgKVJqxouDSx7Ioh?usp=sharing)<p>
 <p>
 <hr>
 <p> 
+ 
 Work through the certifation assignment first. If you are really stuck or need more guidance, this video is a walkthrough of the whole certification.<p>
 [Certification 1 walkthrough](https://www.youtube.com/embed/PdsvcZNPEEs)<p>
 <p>
@@ -211,20 +224,24 @@ This unit will focus on graphing two equations on the same coordinate plane, so 
 <p>
 <hr>
 <p> 
+ 
 Here is the Colab notebook to go along with the video<p>
 [Graphing systems notebook](https://colab.research.google.com/drive/1N1JEZJctODxsntROnmg0VqMSHXYdIlFD?usp=sharing)<p>
 <p>
 <hr>
 <p> 
+ 
 Assignment: Add that code to the Algebra notebook you are building, and test it with different functions<p>
 <p>
 <hr>
 <p> 
+ 
 This next video will give you a deeper dive into what you can do with graphing systems of equations, graphing inequalities, and shading above or below the line. You will also see how to download the graph to your computer or your Google Drive.<p> 
 [Extra graphing video](https://www.youtube.com/embed/q8ad1tTFqns)<p>
 <p>
 <hr>
 <p> 
+ 
 So that you can go back and reference the code, here is the notebook used in the previous video<p>
 [Colab notebook](https://colab.research.google.com/drive/1m5oG62NzUHRzBghGCPRfr1SzvbywRWPV?usp=sharing)<p>
 <p>
@@ -240,21 +257,25 @@ In this unit, you will learn how to solve a system of two equations (with two va
 <p>
 <hr>
 <p>
+ 
 Becuae that might be a lot, and the little details matter, here is the Colab notebook to go along with the video. Use this code as a reference.<b>
 [SymPy solve notebook](https://drive.google.com/file/d/1UfyQiXCedAAv5kcqgi_pGYV-HkSgN8YD/view?usp=sharing)<p>
 <p>
 <hr>
 <p>
+ 
 Here is where you will continue to build your Algebra Colab calculator.<p>
 Assignment: Create your own Colab notebook to solve and graph systems of equations<p>
 <p>
 <hr>
 <p>
+ 
 This video will show you one way to create your super calculator that solves and graphs. It will also show you how to zoom in or zoom out on the graph (and write the code to build that feature).<p>
 [Extra solving and graphing](https://www.youtube.com/embed/856p7t2V9NY)<p>
 <p>
 <hr>
 <p> 
+ 
 Here us the Colab notebook to go along with the video. This will also give you a good example of what your notebook could look like so far.<p>
 [Example notebook](https://colab.research.google.com/drive/1a_RtRtVfeO0m2528T4V-bCXozWf3HpM7?usp=sharing)<p>
 <p>
@@ -266,18 +287,21 @@ Here us the Colab notebook to go along with the video. This will also give you a
  
 ## Week 9 - Applications of Linear Systems<p>
 In this unit, you will see how you can use the Algebra you learned so far to solve real world problems. The first video will look at key words that tell you what math operation to use. Then you will see how to apply some of your code to different problems.<p>
-[video](error)<p>
+[video - not here yet](error)<p>
 <p>
 <hr>
 <p>
+ 
 This unit does not have an extra Colab notebook because it's all about how to use your existing notebook code to solve new problems.<p>
 <p>
 <hr>
 <p>
+ 
 Assignment: Problems from textbook pages<p>
 <p>
 <hr>
 <p>
+The next video and Colab notebook are not here yet
 [video - Extra problems](error)<p>
 [Colab notebook to go along with extra problems](error)<p>
 <p>
@@ -288,19 +312,54 @@ Assignment: Problems from textbook pages<p>
 <p>
  
 ## Week 10 - Quadratic Equations<p>
-This unit will go beyond linear equations, to graph parabolas. You will learn how to find key points in parabolas and how to solve quadratic equations.<p>
+This unit will go beyond linear equations, to work with exponents and graph parabolas. You will learn how to find key points in parabolas and how to solve quadratic equations.<p>
 [video](error)<p>
+<p>
+<hr>
+<p>
+ 
 [Colab notebook to go along with video](Week-10-code.ipynb)<p>
+<p>
+<hr>
+<p>
+ 
 Assignment: [Foundational Math Certification 2](../Foundational-Math-2.ipynb)<p>
+<p>
+<hr>
+<p>
+ 
 [video - Certification 2 walkthrough](error)<p>
+<p>
+<hr>
+<p>
+<p>
+<hr>
+<p>
 
 ## Week 11 - Parent Graphs and Polynomials<p>
 This unit will show you the different types of graphs, the basic patterns that make up more complicated graphs. Polynomials are mathematical expressions with "multiple things" - the more complicated equations that are built with basic patterns.<p>
 [video](error)<p>
-[Colab notebook to go along with video](Week-11-code.ipynb)<p>
-[video - Extra problems](error)<p>
-[Colab notebook to go along with extra problems](Week-11-xtra.ipynb)<p>
+<p>
+<hr>
+<p>
 
+[Colab notebook to go along with video](Week-11-code.ipynb)<p>
+<p>
+<hr>
+<p>
+ 
+[video - Extra problems](error)<p>
+<p>
+<hr>
+<p>
+[Colab notebook to go along with extra problems](Week-11-xtra.ipynb)<p>
+<p>
+<hr>
+<p>
+<p>
+<hr>
+<p>
+ 
 ## Week 12 - Business Applications<p>
 intro text<p>
 [video](error)<p>
