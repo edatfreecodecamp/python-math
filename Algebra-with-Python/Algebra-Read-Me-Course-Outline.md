@@ -190,7 +190,7 @@ Work through the certifation assignment first. If you are really stuck or need m
 <p>
 <hr>
 <p> 
-## Week 7 - Graphing Systems of Equations
+## Week 7 - Graphing Systems of Equations<p>
 This unit will focus on graphing two equations on the same coordinate plane, so that you can see where the lines intersect. The first video, like usual, will show you how do do this with written math, then how to do this with code<p>
 [video](https://www.youtube.com/embed/FxSIFR4zsrE)<p>
 <p>
@@ -218,14 +218,14 @@ So that you can go back and reference the code, here is the notebook used in the
 <p>
 <hr>
 <p> 
-## Week 8 - Solving Systems of Equations
+## Week 8 - Solving Systems of Equations<p>
 In this unit, you will learn how to solve a system of two equations (with two variables) without graphing. You will then learn how to solve and graph the system with one block of code.<p>
 [video](error)<p>
 [Colab notebook to go along with video](Week-08-code.ipynb)<p>
 Assignment: Create your own Colab notebook to solve and graph systems of equations<p>
 [video - Extra problems](error)<p>
 
-## Week 9 - Applications of Linear Systems
+## Week 9 - Applications of Linear Systems<p>
 In this unit, you will see how you can use the Algebra you learned so far to solve real world problems.<p>
 [video](error)<p>
 [Colab notebook to go along with video](error)<p>
@@ -233,21 +233,21 @@ In this unit, you will see how you can use the Algebra you learned so far to sol
 [video - Extra problems](error)<p>
 [Colab notebook to go along with extra problems](error)<p>
 
-## Week 10 - Quadratic Equations
+## Week 10 - Quadratic Equations<p>
 This unit will go beyond linear equations, to graph parabolas. You will learn how to find key points in parabolas and how to solve quadratic equations.<p>
 [video](error)<p>
 [Colab notebook to go along with video](Week-10-code.ipynb)<p>
 Assignment: [Foundational Math Certification 2](../Foundational-Math-2.ipynb)<p>
 [video - Certification 2 walkthrough](error)<p>
 
-## Week 11 - Parent Graphs and Polynomials
+## Week 11 - Parent Graphs and Polynomials<p>
 This unit will show you the different types of graphs, the basic patterns that make up more complicated graphs. Polynomials are mathematical expressions with "multiple things" - the more complicated equations that are built with basic patterns.<p>
 [video](error)<p>
 [Colab notebook to go along with video](Week-11-code.ipynb)<p>
 [video - Extra problems](error)<p>
 [Colab notebook to go along with extra problems](Week-11-xtra.ipynb)<p>
 
-## Week 12 - Business Applications
+## Week 12 - Business Applications<p>
 intro text<p>
 [video](error)<p>
 [Colab notebook to go along with video](Week_04 - code)<p>
@@ -255,7 +255,7 @@ intro text<p>
 [video - Extra problems](error)<p>
 [Colab notebook to go along with extra problems](Week_04 - xtra)<p>
 
-## Week 13 - Simple and Compound Interest
+## Week 13 - Simple and Compound Interest<p>
 intro text<p>
 [video](error)<p>
 [Colab notebook to go along with video](Week_03 - code)<p>
@@ -263,7 +263,7 @@ intro text<p>
 [video - Extra problems](error)<p>
 [Colab notebook to go along with extra problems](Week_03 - xtra)<p>
 
-## Week 14 - Exponents and Logarithms
+## Week 14 - Exponents and Logarithms<p>
 intro text<p>
 [video](error)<p>
 [Colab notebook to go along with video](Week_03 - code)<p>
@@ -271,7 +271,7 @@ intro text<p>
 [video - Extra problems](error)<p>
 [Colab notebook to go along with extra problems](Week_03 - xtra)<p>
 
-## Week 15 - Spreadsheets and Additional Resources
+## Week 15 - Spreadsheets and Additional Resources<p>
 intro text<p>
 [video](error)<p>
 [Colab notebook to go along with video](Week_03 - code)<p>
