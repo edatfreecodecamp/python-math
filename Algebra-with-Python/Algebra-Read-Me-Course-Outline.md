@@ -1,5 +1,5 @@
  
-# Algebra with Python
+#Algebra with Python<p>
 This syllabus is the full course, designed as a one-semester college course, with all of the links and resources you need listed here in order. Most of this course will involve videos and Google Colaboratory notebooks. As you go throught each part of this course in sequence, watching each video and working through each Colab notebook, you will gain a full understanding of Algebra and how to write Python code to solve your Algebra problems. Throughout this course, you will also build your own Algebra notebook that you will be able to use as your custom super calculator. This course (and the code you write here) will give you the foundation for deeper math, including data science.<p>
 <p>
 <hr>
@@ -14,7 +14,7 @@ Some videos will reference problems from textbooks, so here are the two textbook
 <p>
 <hr>
 <p>
-## Week 1 - Ratios and Proportions<p>
+##Week 1 - Ratios and Proportions<p>
 Your journey begins here as you learn the math, learn the code, and build your notebook. After the videos, you will see links to the Google Colab notebooks used in those videos. Copy and use whatever code you need to enhance your notebook. This first video includes an introduction to the course, how it will work, and how to use Google Colaboratory. The math and code content will come next.<p>
 [video 1 - Intro and set-up](https://www.youtube.com/embed/bO3Sn10-XNw)<p>
 <p>
@@ -42,7 +42,7 @@ This next video will show you how to use proportions in other applications, such
 <p>
 <hr>
 <p>
-## Week 2 - Solving for X<p>
+##Week 2 - Solving for X<p>
 This unit will focus on how to solve for an unknown number (often referred to as "x") using written Algebra and Python code. This first video will show you the essence of Algebra and then how Python code does the same task in a different way.<p>
 [video - solving for x](https://www.youtube.com/embed/SAVDhkGst6Y)<p>
 <p>
