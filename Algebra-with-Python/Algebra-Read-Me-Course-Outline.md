@@ -4,6 +4,7 @@ This syllabus is the full course, designed as a one-semester college course, wit
 <p>
 <hr>
 <p>
+ 
 Some videos will reference problems from textbooks, so here are the two textbooks we will use:<br>
 1. Business Math, a Step-by-Step Handbook (2021) by Jean-Paul Oliver<br>
     [Link to the online PDF you can download](https://lyryx.com/subjects/business/business-mathematics/)<br>
@@ -43,6 +44,7 @@ This next video will show you how to use proportions in other applications, such
 <p>
 <hr>
 <p>
+ 
 ##Week 2 - Solving for X<p>
 This unit will focus on how to solve for an unknown number (often referred to as "x") using written Algebra and Python code. This first video will show you the essence of Algebra and then how Python code does the same task in a different way.<p>
 [video - solving for x](https://www.youtube.com/embed/SAVDhkGst6Y)<p>
@@ -71,6 +73,7 @@ Here is the Colab notebook to go along with extra problems. Use it to add more t
 <p>
 <hr>
 <p> 
+ 
 ## Week 3 - Fractions, Decimals, and Percents<p>
 This unit will focus on converting decimals to fractions and percents. The first video will show you how to do this on paper, and then show you how to do it with Python code.<p>
 [video](https://www.youtube.com/embed/hVHWr4KXZn0&t=1s)<p>
@@ -99,6 +102,7 @@ Here is the Colab notebook used in the video, so you can use it as a model.<p>
 <p>
 <hr>
 <p> 
+ 
 ## Week 4 - Functions<p>
 This unit will teach you about math functions. The first video will show you what it means to be a function, and then it will show you how math functions and Python functions are similar.<p>
 [video](https://www.youtube.com/embed/rYg12-omcGg)<p>
@@ -133,6 +137,7 @@ Here is the Colab notebook from the last video, so you can copy the little detai
 <p>
 <hr>
 <p> 
+ 
 ## Week 5 - Linear Functions<p>
 This unit will show you how to develop linear equations from two points. You will also learn how to graph linear functions and see how an equation, a graph, and a table of (x,y) values are all connected. The first video will focus on the slope of a line and how to calculate it.<p>
 [video](https://www.youtube.com/embed/nURsz7SR5aM)<p>
@@ -166,6 +171,7 @@ Here is the Colab notebook to go along with the previous video. The code in it s
 <p>
 <hr>
 <p> 
+ 
 ## Week 6 - Common Factors and Square Roots<p>
 In this unit, you will learn how to find common factors and divide them out. This will be useful when simplifying fractions and factoring square roots. The first video will show you how to do this - in writing, then in code using loops and modulus operations. The larger assignment in this unit is first Foundational Math notebook.<p>
 [video](https://www.youtube.com/embed/Puyp_-ZYA54)<p>
@@ -190,6 +196,7 @@ Work through the certifation assignment first. If you are really stuck or need m
 <p>
 <hr>
 <p> 
+ 
 ## Week 7 - Graphing Systems of Equations<p>
 This unit will focus on graphing two equations on the same coordinate plane, so that you can see where the lines intersect. The first video, like usual, will show you how do do this with written math, then how to do this with code<p>
 [video](https://www.youtube.com/embed/FxSIFR4zsrE)<p>
@@ -218,6 +225,7 @@ So that you can go back and reference the code, here is the notebook used in the
 <p>
 <hr>
 <p> 
+ 
 ## Week 8 - Solving Systems of Equations<p>
 In this unit, you will learn how to solve a system of two equations (with two variables) without graphing. You will see how you can factor an equation and solve eor a certain variable in Python. By the end of this unit, you will be able to solve and graph the system with one block of code. The first video will show you the math behind this process, and then how Python handlses it.<p>
 [video](https://www.youtube.com/embed/CNGUQzXfC6c)<p>
