@@ -14,7 +14,8 @@ Some videos will reference problems from textbooks, so here are the two textbook
 <p>
 <hr>
 <p>
-##Week 1 - Ratios and Proportions<p>
+ 
+## Week 1 - Ratios and Proportions<p>
 Your journey begins here as you learn the math, learn the code, and build your notebook. After the videos, you will see links to the Google Colab notebooks used in those videos. Copy and use whatever code you need to enhance your notebook. This first video includes an introduction to the course, how it will work, and how to use Google Colaboratory. The math and code content will come next.<p>
 [video 1 - Intro and set-up](https://www.youtube.com/embed/bO3Sn10-XNw)<p>
 <p>
@@ -246,6 +247,7 @@ Here us the Colab notebook to go along with the video. This will also give you a
 <p>
 <hr>
 <p>
+ 
 ## Week 9 - Applications of Linear Systems<p>
 In this unit, you will see how you can use the Algebra you learned so far to solve real world problems. The first video will look at key words that tell you what math operation to use. Then you will see how to apply some of your code to different problems.<p>
 [video](error)<p>
@@ -268,6 +270,7 @@ Assignment: Problems from textbook pages<p>
 <p>
 <hr>
 <p>
+ 
 ## Week 10 - Quadratic Equations<p>
 This unit will go beyond linear equations, to graph parabolas. You will learn how to find key points in parabolas and how to solve quadratic equations.<p>
 [video](error)<p>
