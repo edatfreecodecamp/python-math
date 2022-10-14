@@ -22,21 +22,25 @@ Your journey begins here as you learn the math, learn the code, and build your n
 <p>
 <hr>
 <p>
+ 
 Now we get to the math content. This video will show you how to set up and solve proportions and write code to solve for variables.<p>
 [video 2 - Solving proportions](https://www.youtube.com/embed/61A3PNx1hjY)<p>
 <p>
 <hr>
 <p>
+ 
 This is the Colab notebook to go along with the video. If you have not done it yet, set up your Algebra Colab notebook and add the following code to it.<p>
 [Link:](https://colab.research.google.com/drive/1Q7nCcbrnoYttkwiHB_nQ-X1JuLpUmtRD?usp=sharing)<p>
 <p>
 <hr>
 <p>
+ 
 Run the next Colab notebook to practice solving proportions. As a bonus, take a look at the code that creates these practice problems.<p>
 Assignment: [Practice in Colab notebook](https://colab.research.google.com/drive/1Gl0dofhOrO1gdyUF1VtVTARxu-uuRCon?usp=sharing)<p>
 <p>
 <hr>
 <p>
+ 
 This next video will show you how to use proportions in other applications, such as currency exchange rates and unit conversion. It will also show you more about setting up your notebook and working throught the practice assignment.<p>
 [video 3 - Extra problems and applications](https://www.youtube.com/embed/NMVg8mTtSzw)<p>
 <p>
@@ -51,21 +55,25 @@ This unit will focus on how to solve for an unknown number (often referred to as
 <p>
 <hr>
 <p>
+ 
 Now it's your turn to write code to solve for x. Here is the notebook used in the video. Use this code. Change it if you want. Test it and compare it to paper-and-pencil solving. Remember the equation input needs to be in Python syntax.<p>
 [Colab notebook to go along with video](https://colab.research.google.com/drive/11Zi77gs1FKoEqfPqYa2HtTENiWZyQAO2?usp=sharing)<p>
 <p>
 <hr>
 <p>
+ 
 Use the following Colab notebook to practice solving one-step algebra problems. As a bonus, look at the code that generates the practice problems.<p>
 Assignment: [Practice in Colab notebook](https://colab.research.google.com/drive/1XjmHoERFKcvol7FPidQE-wgdvR82HV45)<p>
 <p>
 <hr>
 <p>
+ 
 The next video will go deeper, with more examples of how to use SymPy solve. It will also explain how the practice functions generate the random problems.<p> 
 [video - Extra problems](https://www.youtube.com/embed/lFTCVUCbNoM)<p>
 <p>
 <hr>
 <p>
+ 
 Here is the Colab notebook to go along with extra problems. Use it to add more to your Algebra Colab notebook that you are building.<p>  
 [Notebook link: ](https://colab.research.google.com/drive/1Jv6WxW93J_1GZao8DkNb4X0D93oVibbs)<p>
 <p>
