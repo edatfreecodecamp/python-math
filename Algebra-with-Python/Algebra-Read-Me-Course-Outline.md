@@ -51,30 +51,35 @@ This next video will show you how to use proportions in other applications, such
  
 ##Week 2 - Solving for X<p>
 This unit will focus on how to solve for an unknown number (often referred to as "x") using written Algebra and Python code. This first video will show you the essence of Algebra and then how Python code does the same task in a different way.<p>
+ 
 [video - solving for x](https://www.youtube.com/embed/SAVDhkGst6Y)<p>
 <p>
 <hr>
 <p>
  
 Now it's your turn to write code to solve for x. Here is the notebook used in the video. Use this code. Change it if you want. Test it and compare it to paper-and-pencil solving. Remember the equation input needs to be in Python syntax.<p>
+ 
 [Colab notebook to go along with video](https://colab.research.google.com/drive/11Zi77gs1FKoEqfPqYa2HtTENiWZyQAO2?usp=sharing)<p>
 <p>
 <hr>
 <p>
  
 Use the following Colab notebook to practice solving one-step algebra problems. As a bonus, look at the code that generates the practice problems.<p>
+ 
 Assignment: [Practice in Colab notebook](https://colab.research.google.com/drive/1XjmHoERFKcvol7FPidQE-wgdvR82HV45)<p>
 <p>
 <hr>
 <p>
  
 The next video will go deeper, with more examples of how to use SymPy solve. It will also explain how the practice functions generate the random problems.<p> 
+ 
 [video - Extra problems](https://www.youtube.com/embed/lFTCVUCbNoM)<p>
 <p>
 <hr>
 <p>
  
 Here is the Colab notebook to go along with extra problems. Use it to add more to your Algebra Colab notebook that you are building.<p>  
+ 
 [Notebook link](https://colab.research.google.com/drive/1Jv6WxW93J_1GZao8DkNb4X0D93oVibbs)<p>
 <p>
 <hr>
@@ -84,26 +89,32 @@ Here is the Colab notebook to go along with extra problems. Use it to add more t
  
 ## Week 3 - Fractions, Decimals, and Percents<p>
 This unit will focus on converting decimals to fractions and percents. The first video will show you how to do this on paper, and then show you how to do it with Python code.<p>
+ 
 [video](https://www.youtube.com/embed/hVHWr4KXZn0&t=1s)<p>
 <p>
 <hr>
 <p>
 Here is the Colab notebook used in the video. Use this code as a model, and write your own code to convert fractions and decimals.<p>
+ 
 [Fractions and Decimals notebook](https://colab.research.google.com/drive/1dgeEEODP7cwm_96_JqbjxxJhVpZcFfGe?usp=sharing#scrollTo=NkMTAVF0BlqE)<p>
 <p>
 <hr>
 <p>
 Run the code in the following notebook to get practice converting fractions and decimals. As a bonus, look at the code used to generate the practice problems.<p>
+ 
 Assignment: [Practice notebook](https://colab.research.google.com/drive/1qON4GYbMkaZJA7MYd7-RcDROOkuuBJg9?usp=sharing)<p>
 <p>
 <hr>
 <p>
 The following video will show you one way to set up your Google Colaboratory notebook, so that you can continue to build your personalized Algebra calculator.<p>
+ 
 [video - Extra](https://www.youtube.com/embed/YHVA6cYIglM)<p>
 <p>
 <hr>
 <p>
+ 
 Here is the Colab notebook used in the video, so you can use it as a model.<p>
+ 
 [Week 3 sample notebook](https://colab.research.google.com/drive/1ND_gULby6RWU4Zs27Z7V5WK2g7fHPk1b?usp=sharing)<p>
 <p>
 <hr>
@@ -113,6 +124,7 @@ Here is the Colab notebook used in the video, so you can use it as a model.<p>
  
 ## Week 4 - Functions<p>
 This unit will teach you about math functions. The first video will show you what it means to be a function, and then it will show you how math functions and Python functions are similar.<p>
+ 
 [video](https://www.youtube.com/embed/rYg12-omcGg)<p>
 <p>
 <hr>
@@ -125,6 +137,7 @@ Assignment: Create Python functions for the decimal-to-fraction conversions from
 <p> 
  
 This next video will show you the connection between functions and graphing. Notice how the graph is a way to represent the inputs and outputs of a function. Then the video will show you how to graph a function with Python.<p> 
+ 
 [video](https://www.youtube.com/embed/vUefCkh8-wc)<p>
 <p>
 <hr>
