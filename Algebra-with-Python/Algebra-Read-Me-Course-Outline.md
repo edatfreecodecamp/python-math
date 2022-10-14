@@ -219,20 +219,56 @@ So that you can go back and reference the code, here is the notebook used in the
 <hr>
 <p> 
 ## Week 8 - Solving Systems of Equations<p>
-In this unit, you will learn how to solve a system of two equations (with two variables) without graphing. You will then learn how to solve and graph the system with one block of code.<p>
-[video](error)<p>
-[Colab notebook to go along with video](Week-08-code.ipynb)<p>
+In this unit, you will learn how to solve a system of two equations (with two variables) without graphing. You will see how you can factor an equation and solve eor a certain variable in Python. By the end of this unit, you will be able to solve and graph the system with one block of code. The first video will show you the math behind this process, and then how Python handlses it.<p>
+[video](https://www.youtube.com/embed/CNGUQzXfC6c)<p>
+<p>
+<hr>
+<p>
+Becuae that might be a lot, and the little details matter, here is the Colab notebook to go along with the video. Use this code as a reference.<b>
+[SymPy solve notebook](https://drive.google.com/file/d/1UfyQiXCedAAv5kcqgi_pGYV-HkSgN8YD/view?usp=sharing)<p>
+<p>
+<hr>
+<p>
+Here is where you will continue to build your Algebra Colab calculator.<p>
 Assignment: Create your own Colab notebook to solve and graph systems of equations<p>
-[video - Extra problems](error)<p>
-
+<p>
+<hr>
+<p>
+This video will show you one way to create your super calculator that solves and graphs. It will also show you how to zoom in or zoom out on the graph (and write the code to build that feature).<p>
+[Extra solving and graphing](https://www.youtube.com/embed/856p7t2V9NY)<p>
+<p>
+<hr>
+<p> 
+Here us the Colab notebook to go along with the video. This will also give you a good example of what your notebook could look like so far.<p>
+[Example notebook](https://colab.research.google.com/drive/1a_RtRtVfeO0m2528T4V-bCXozWf3HpM7?usp=sharing)<p>
+<p>
+<hr>
+<p>
+<p>
+<hr>
+<p>
 ## Week 9 - Applications of Linear Systems<p>
-In this unit, you will see how you can use the Algebra you learned so far to solve real world problems.<p>
+In this unit, you will see how you can use the Algebra you learned so far to solve real world problems. The first video will look at key words that tell you what math operation to use. Then you will see how to apply some of your code to different problems.<p>
 [video](error)<p>
-[Colab notebook to go along with video](error)<p>
-[Practice in Colab notebook](error)<p>
+<p>
+<hr>
+<p>
+This unit does not have an extra Colab notebook because it's all about how to use your existing notebook code to solve new problems.<p>
+<p>
+<hr>
+<p>
+Assignment: Problems from textbook pages<p>
+<p>
+<hr>
+<p>
 [video - Extra problems](error)<p>
 [Colab notebook to go along with extra problems](error)<p>
-
+<p>
+<hr>
+<p>
+<p>
+<hr>
+<p>
 ## Week 10 - Quadratic Equations<p>
 This unit will go beyond linear equations, to graph parabolas. You will learn how to find key points in parabolas and how to solve quadratic equations.<p>
 [video](error)<p>
