@@ -49,7 +49,7 @@ This next video will show you how to use proportions in other applications, such
 <hr>
 <p>
  
-##Week 2 - Solving for X<p>
+## Week 2 - Solving for X<p>
 This unit will focus on how to solve for an unknown number (often referred to as "x") using written Algebra and Python code. This first video will show you the essence of Algebra and then how Python code does the same task in a different way.<p>
  
 [video - solving for x](https://www.youtube.com/embed/SAVDhkGst6Y)<p>
@@ -65,21 +65,18 @@ Now it's your turn to write code to solve for x. Here is the notebook used in th
 <p>
  
 Use the following Colab notebook to practice solving one-step algebra problems. As a bonus, look at the code that generates the practice problems.<p>
- 
 Assignment: [Practice in Colab notebook](https://colab.research.google.com/drive/1XjmHoERFKcvol7FPidQE-wgdvR82HV45)<p>
 <p>
 <hr>
 <p>
  
 The next video will go deeper, with more examples of how to use SymPy solve. It will also explain how the practice functions generate the random problems.<p> 
- 
 [video - Extra problems](https://www.youtube.com/embed/lFTCVUCbNoM)<p>
 <p>
 <hr>
 <p>
  
 Here is the Colab notebook to go along with extra problems. Use it to add more to your Algebra Colab notebook that you are building.<p>  
- 
 [Notebook link](https://colab.research.google.com/drive/1Jv6WxW93J_1GZao8DkNb4X0D93oVibbs)<p>
 <p>
 <hr>
