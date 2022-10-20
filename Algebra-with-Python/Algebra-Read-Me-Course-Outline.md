@@ -351,22 +351,26 @@ Work through the certification notebook first, then if you are stuck the followi
 <p>
 
 ## Week 11 - Parent Graphs and Polynomials<p>
-This unit will show you the different types of graphs, the basic patterns that make up more complicated graphs. Polynomials are mathematical expressions with "multiple things" - the more complicated equations that are built with basic patterns.<p>
+This unit will show you many different types of "parent" graphs, the basic patterns that make up more complicated graphs. Polynomials are mathematical expressions with "multiple things" - the more complicated equations that are built with basic patterns. You will see what these graphs look like, how to modify them, and how to do this all with Python code.<p>
 [video](error)<p>
 <p>
 <hr>
 <p>
 
-[Colab notebook to go along with video](Week-11-code.ipynb)<p>
+Here is the Colab notebook to go along with the video:<p>
+[Parent graph notebook](https://colab.research.google.com/drive/1uwKuaHCC2WCUFKmXW-5NqWUlEP9ak7Pz?usp=sharing)<p>
 <p>
 <hr>
 <p>
  
+This next video will show you how to add sliders to your graphs, to see them change in real time. You will also see ways to use loops to find the roots of a graph, and how this method is different from factoring.<p>
 [video - Extra problems](error)<p>
 <p>
 <hr>
 <p>
-[Colab notebook to go along with extra problems](Week-11-xtra.ipynb)<p>
+ 
+Here is the Colab notebook to go along with the last video:<p>
+[Sliders and loops notebook](https://colab.research.google.com/drive/1bspkmQVcKOXUuk-Orb0Mwl0GUGbqMpka?usp=sharing)<p>
 <p>
 <hr>
 <p>
@@ -375,15 +379,21 @@ This unit will show you the different types of graphs, the basic patterns that m
 <p>
  
 ## Week 12 - Business Applications<p>
-intro text<p>
+This unit will show you how to apply your solving and graphing skills to find cost, revenue, and profit.<p>
 [video](error)<p>
 [Colab notebook to go along with video](Week_04 - code)<p>
 [Practice in Colab notebook](Week_04 - practice)<p>
 [video - Extra problems](error)<p>
 [Colab notebook to go along with extra problems](Week_04 - xtra)<p>
+<p>
+<hr>
+<p>
+<p>
+<hr>
+<p>
 
 ## Week 13 - Simple and Compound Interest<p>
-intro text<p>
+This unit will show you how to calculate interest, loan payments, and the estimated value of investments. Because these formulas tend to get complicated, you will appreciate having the code where you can just modify a few values. First, you will get to understand the equations and what it all means.<p>
 [video](error)<p>
 [Colab notebook to go along with video](Week_03 - code)<p>
 [Practice in Colab notebook](Week_03 - practice)<p>
