@@ -307,13 +307,14 @@ This unit does not have an extra Colab notebook because it's all about how to us
 <hr>
 <p>
  
-Assignment: Problems from textbook pages<p>
+For additional practice, use the Colab calculator you are building to solve application problems.<p>
+Assignment: Problems from textbook 1 pages 63, 75, 85, 118, problems from textbook 2 pages 304, 308, 321<p>
 <p>
 <hr>
 <p>
-The next video and Colab notebook are not here yet
+ 
+The next video contains more examples of how to set up equations and use your Colab notebook to solve them.<p>
 [video - Extra problems](error)<p>
-[Colab notebook to go along with extra problems](error)<p>
 <p>
 <hr>
 <p>
@@ -322,22 +323,25 @@ The next video and Colab notebook are not here yet
 <p>
  
 ## Week 10 - Quadratic Equations<p>
-This unit will go beyond linear equations, to work with exponents and graph parabolas. You will learn how to find key points in parabolas and how to solve quadratic equations.<p>
+This unit will go beyond linear equations, to work with exponents and graph parabolas. You will learn how to find key points in parabolas and how to solve quadratic equations. This video will also explain the coefficients ("A," "B," and "C") in the standard form and how to use them to find the roots and vertex.<p>
 [video](error)<p>
 <p>
 <hr>
 <p>
  
-[Colab notebook to go along with video](Week-10-code.ipynb)<p>
+Here is the Colab notebook to go along with video:<p>
+[Quadratic notebook](https://colab.research.google.com/drive/1jr_k4awSSW1CBs9ma9oS_WnDblDjX3pc?usp=sharing)<p>
+<p>
+<hr>
+<p>
+
+Now you are ready to complete the second Foundational Math certification.<p>
+Assignment: [Foundational Math Certification 2](https://colab.research.google.com/drive/1BHKshb67jWVVZQ9VlzQOpdFA-gzJkSUF?usp=sharing)<p>
 <p>
 <hr>
 <p>
  
-Assignment: [Foundational Math Certification 2](../Foundational-Math-2.ipynb)<p>
-<p>
-<hr>
-<p>
- 
+Work through the certification notebook first, then if you are stuck the following video is a walkthrough of that assignment.<p>
 [video - Certification 2 walkthrough](error)<p>
 <p>
 <hr>
