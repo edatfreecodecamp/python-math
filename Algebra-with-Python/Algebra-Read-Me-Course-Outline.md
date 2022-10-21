@@ -314,7 +314,7 @@ Assignment: Problems from textbook 1 pages 63, 75, 85, 118, problems from textbo
 <p>
  
 The next video contains more examples of how to set up equations and use your Colab notebook to solve them.<p>
-[video - Extra problems](error)<p>
+[video - not here yet](error)<p>
 <p>
 <hr>
 <p>
@@ -324,7 +324,7 @@ The next video contains more examples of how to set up equations and use your Co
  
 ## Week 10 - Quadratic Equations<p>
 This unit will go beyond linear equations, to work with exponents and graph parabolas. You will learn how to find key points in parabolas and how to solve quadratic equations. This video will also explain the coefficients ("A," "B," and "C") in the standard form and how to use them to find the roots and vertex.<p>
-[video](error)<p>
+[video - not here yet](error)<p>
 <p>
 <hr>
 <p>
@@ -342,7 +342,7 @@ Assignment: [Foundational Math Certification 2](https://colab.research.google.co
 <p>
  
 Work through the certification notebook first, then if you are stuck the following video is a walkthrough of that assignment.<p>
-[video - Certification 2 walkthrough](error)<p>
+[video - Certification 2 walkthrough - not here yet](error)<p>
 <p>
 <hr>
 <p>
@@ -352,11 +352,16 @@ Work through the certification notebook first, then if you are stuck the followi
 
 ## Week 11 - Parent Graphs and Polynomials<p>
 This unit will show you many different types of "parent" graphs, the basic patterns that make up more complicated graphs. Polynomials are mathematical expressions with "multiple things" - the more complicated equations that are built with basic patterns. You will see what these graphs look like, how to modify them, and how to do this all with Python code.<p>
-[video](error)<p>
+[video - not here yet](error)<p>
 <p>
 <hr>
 <p>
-
+ 
+ ## under construction beyond this point<p>
+<p>
+<hr>
+<p>
+ 
 Here is the Colab notebook to go along with the video:<p>
 [Parent graph notebook](https://colab.research.google.com/drive/1uwKuaHCC2WCUFKmXW-5NqWUlEP9ak7Pz?usp=sharing)<p>
 <p>
@@ -364,7 +369,7 @@ Here is the Colab notebook to go along with the video:<p>
 <p>
  
 This next video will show you how to add sliders to your graphs, to see them change in real time. You will also see ways to use loops to find the roots of a graph, and how this method is different from factoring.<p>
-[video - Extra problems](error)<p>
+[video - not here yet](error)<p>
 <p>
 <hr>
 <p>
@@ -380,7 +385,11 @@ Here is the Colab notebook to go along with the last video:<p>
  
 ## Week 12 - Business Applications<p>
 This unit will show you how to apply your solving and graphing skills to find cost, revenue, and profit.<p>
-[video](error)<p>
+[video - not here yet](error)<p>
+<p>
+<hr>
+<p>
+
 [Colab notebook to go along with video](Week_04 - code)<p>
 [Practice in Colab notebook](Week_04 - practice)<p>
 [video - Extra problems](error)<p>
