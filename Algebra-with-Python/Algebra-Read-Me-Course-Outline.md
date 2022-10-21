@@ -375,7 +375,7 @@ Here is the Colab notebook to go along with the last video:<p>
 <hr>
 <p>
 
- ## still under construction beyond this point
+ ## ~ Still under construction beyond this point ~
  
  <p>
 <hr>
@@ -389,10 +389,23 @@ This unit will show you how to apply your solving and graphing skills to find co
 <hr>
 <p>
 
-[Colab notebook to go along with video](Week_04 - code)<p>
-[Practice in Colab notebook](Week_04 - practice)<p>
+[Colab notebook to go along with video](https://colab.research.google.com/drive/1foxkSd90q1tHCSqyY6NFAEnMfH0nNwXe?usp=sharing)<p>
+<p>
+<hr>
+<p>
+
+Assignment: Practice problems<p>
+<p>
+<hr>
+<p>
+
+Additional applications...<p>
 [video - Extra problems](error)<p>
-[Colab notebook to go along with extra problems](Week_04 - xtra)<p>
+<p>
+<hr>
+<p>
+
+[Colab notebook to go along with extra problems](error)<p>
 <p>
 <hr>
 <p>
@@ -403,10 +416,32 @@ This unit will show you how to apply your solving and graphing skills to find co
 ## Week 13 - Simple and Compound Interest<p>
 This unit will show you how to calculate interest, loan payments, and the estimated value of investments. Because these formulas tend to get complicated, you will appreciate having the code where you can just modify a few values. First, you will get to understand the equations and what it all means.<p>
 [video](error)<p>
-[Colab notebook to go along with video](Week_03 - code)<p>
-[Practice in Colab notebook](Week_03 - practice)<p>
+<p>
+<hr>
+<p>
+
+[Colab notebook to go along with video](error)<p>
+<p>
+<hr>
+<p>
+
+[Practice in Colab notebook](error)<p>
+<p>
+<hr>
+<p>
+
 [video - Extra problems](error)<p>
-[Colab notebook to go along with extra problems](Week_03 - xtra)<p>
+<p>
+<hr>
+<p>
+
+[Colab notebook to go along with extra problems](error)<p>
+<p>
+<hr>
+<p>
+<p>
+<hr>
+<p>
 
 ## Week 14 - Exponents and Logarithms<p>
 intro text<p>
@@ -415,6 +450,12 @@ intro text<p>
 [Practice in Colab notebook](Week_03 - practice)<p>
 [video - Extra problems](error)<p>
 [Colab notebook to go along with extra problems](Week_03 - xtra)<p>
+<p>
+<hr>
+<p>
+<p>
+<hr>
+<p>
 
 ## Week 15 - Spreadsheets and Additional Resources<p>
 intro text<p>
