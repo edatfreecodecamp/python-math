@@ -357,11 +357,6 @@ This unit will show you many different types of "parent" graphs, the basic patte
 <hr>
 <p>
  
- ## under construction beyond this point<p>
-<p>
-<hr>
-<p>
- 
 Here is the Colab notebook to go along with the video:<p>
 [Parent graph notebook](https://colab.research.google.com/drive/1uwKuaHCC2WCUFKmXW-5NqWUlEP9ak7Pz?usp=sharing)<p>
 <p>
@@ -379,9 +374,13 @@ Here is the Colab notebook to go along with the last video:<p>
 <p>
 <hr>
 <p>
-<p>
+
+ ## still under construction beyond this point
+ 
+ <p>
 <hr>
 <p>
+ 
  
 ## Week 12 - Business Applications<p>
 This unit will show you how to apply your solving and graphing skills to find cost, revenue, and profit.<p>
