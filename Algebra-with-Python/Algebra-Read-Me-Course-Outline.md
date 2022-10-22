@@ -286,7 +286,7 @@ This video will show you one way to create your super calculator that solves and
 <hr>
 <p> 
  
-Here us the Colab notebook to go along with the video. This will also give you a good example of what your notebook could look like so far.<p>
+Here is a sample Colab notebook to go along with the video. This will give you an example of what your notebook could look like so far, as you have some functions in there and create headings for the next few functions.<p>
 [Example notebook](https://colab.research.google.com/drive/1a_RtRtVfeO0m2528T4V-bCXozWf3HpM7?usp=sharing)<p>
 <p>
 <hr>
@@ -297,7 +297,7 @@ Here us the Colab notebook to go along with the video. This will also give you a
  
 ## Week 9 - Applications of Linear Systems<p>
 In this unit, you will see how you can use the Algebra you learned so far to solve real world problems. The first video will look at key words that tell you what math operation to use. Then you will see how to apply some of your code to different problems.<p>
-[video - not here yet](error)<p>
+[video](https://www.youtube.com/embed/3ZM3XMn1QYo)<p>
 <p>
 <hr>
 <p>
@@ -314,7 +314,7 @@ Assignment: Problems from textbook 1 pages 63, 75, 85, 118, problems from textbo
 <p>
  
 The next video contains more examples of how to set up equations and use your Colab notebook to solve them.<p>
-[video - not here yet](error)<p>
+[video](https://www.youtube.com/embed/ZtypoUnNdAY)<p>
 <p>
 <hr>
 <p>
@@ -324,7 +324,7 @@ The next video contains more examples of how to set up equations and use your Co
  
 ## Week 10 - Quadratic Equations<p>
 This unit will go beyond linear equations, to work with exponents and graph parabolas. You will learn how to find key points in parabolas and how to solve quadratic equations. This video will also explain the coefficients ("A," "B," and "C") in the standard form and how to use them to find the roots and vertex.<p>
-[video - not here yet](error)<p>
+[video](https://www.youtube.com/embed/pPLBL3L0OGg)<p>
 <p>
 <hr>
 <p>
@@ -352,7 +352,7 @@ Work through the certification notebook first, then if you are stuck the followi
 
 ## Week 11 - Parent Graphs and Polynomials<p>
 This unit will show you many different types of "parent" graphs, the basic patterns that make up more complicated graphs. Polynomials are mathematical expressions with "multiple things" - the more complicated equations that are built with basic patterns. You will see what these graphs look like, how to modify them, and how to do this all with Python code.<p>
-[video - not here yet](error)<p>
+[video](https://www.youtube.com/embed/6S2QhY8rIcw)<p>
 <p>
 <hr>
 <p>
@@ -364,7 +364,7 @@ Here is the Colab notebook to go along with the video:<p>
 <p>
  
 This next video will show you how to add sliders to your graphs, to see them change in real time. You will also see ways to use loops to find the roots of a graph, and how this method is different from factoring.<p>
-[video - not here yet](error)<p>
+[video](https://www.youtube.com/embed/YDlXmmRgQJI)<p>
 <p>
 <hr>
 <p>
@@ -383,8 +383,8 @@ Here is the Colab notebook to go along with the last video:<p>
  
  
 ## Week 12 - Business Applications<p>
-This unit will show you how to apply your solving and graphing skills to find cost, revenue, and profit.<p>
-[video - not here yet](error)<p>
+This unit will show you how to apply your solving and graphing skills to find cost, revenue, and profit. You will write code to develop a demand function from two points. You will see how price affects the profit graph and how all of these equations relate to each other.<p>
+[video](https://www.youtube.com/embed/8PIZmiMFmfk)<p>
 <p>
 <hr>
 <p>
@@ -394,7 +394,7 @@ This unit will show you how to apply your solving and graphing skills to find co
 <hr>
 <p>
 
-Assignment: Practice problems<p>
+Assignment: Practice problems from textbook 1 pages 155 and <p>
 <p>
 <hr>
 <p>
