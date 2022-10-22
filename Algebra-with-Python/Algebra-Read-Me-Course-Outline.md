@@ -269,7 +269,7 @@ In this unit, you will learn how to solve a system of two equations (with two va
 <p>
  
 Becuae that might be a lot, and the little details matter, here is the Colab notebook to go along with the video. Use this code as a reference.<b>
-[SymPy solve notebook](https://drive.google.com/file/d/1UfyQiXCedAAv5kcqgi_pGYV-HkSgN8YD/view?usp=sharing)<p>
+[SymPy solve notebook](https://colab.research.google.com/drive/1UfyQiXCedAAv5kcqgi_pGYV-HkSgN8YD?usp=sharing)<p>
 <p>
 <hr>
 <p>
@@ -280,7 +280,7 @@ Assignment: Create your own Colab notebook to solve and graph systems of equatio
 <hr>
 <p>
  
-This video will show you one way to create your super calculator that solves and graphs. It will also show you how to zoom in or zoom out on the graph (and write the code to build that feature).<p>
+This video will show you one way to create your super calculator that solves and graphs. It will also show you how to zoom in or zoom out on the graph and write the code to build that feature.<p>
 [Extra solving and graphing](https://www.youtube.com/embed/856p7t2V9NY)<p>
 <p>
 <hr>
