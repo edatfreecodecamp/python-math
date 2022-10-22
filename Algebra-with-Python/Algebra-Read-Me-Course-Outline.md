@@ -369,19 +369,15 @@ This next video will show you how to add sliders to your graphs, to see them cha
 <hr>
 <p>
  
-Here is the Colab notebook to go along with the last video:<p>
+So that you can copy the code for sliders and things here is the Colab notebook to go along with the last video:<p>
 [Sliders and loops notebook](https://colab.research.google.com/drive/1bspkmQVcKOXUuk-Orb0Mwl0GUGbqMpka?usp=sharing)<p>
 <p>
 <hr>
 <p>
-
- ## ~ Still under construction beyond this point ~
- 
- <p>
+<p>
 <hr>
 <p>
- 
- 
+  
 ## Week 12 - Business Applications<p>
 This unit will show you how to apply your solving and graphing skills to find cost, revenue, and profit. You will write code to develop a demand function from two points. You will see how price affects the profit graph and how all of these equations relate to each other.<p>
 [video](https://www.youtube.com/embed/8PIZmiMFmfk)<p>
@@ -394,18 +390,7 @@ This unit will show you how to apply your solving and graphing skills to find co
 <hr>
 <p>
 
-Assignment: Practice problems from textbook 1 pages 155 and <p>
-<p>
-<hr>
-<p>
-
-Additional applications...<p>
-[video - Extra problems](error)<p>
-<p>
-<hr>
-<p>
-
-[Colab notebook to go along with extra problems](error)<p>
+Assignment: Practice problems from textbook 1 pages 155 and 163<p>
 <p>
 <hr>
 <p>
@@ -414,28 +399,24 @@ Additional applications...<p>
 <p>
 
 ## Week 13 - Simple and Compound Interest<p>
-This unit will show you how to calculate interest, loan payments, and the estimated value of investments. Because these formulas tend to get complicated, you will appreciate having the code where you can just modify a few values. First, you will get to understand the equations and what it all means.<p>
-[video](error)<p>
+This unit will show you how to calculate interest, loan payments, and the estimated value of investments. You will see the math formula and turn that into code. Because these formulas tend to get complicated, you will appreciate having the code where you can just modify a few values. First, you will get to understand the equations and what it all means.<p>
+[video](https://www.youtube.com/embed/iMPFK7wXNPg)<p>
 <p>
 <hr>
 <p>
 
-[Colab notebook to go along with video](error)<p>
+[Colab notebook to go along with video](https://colab.research.google.com/drive/1IVBaeX84arJXS73raRROaxbz4qMyFVb6?usp=sharing)<p>
 <p>
 <hr>
 <p>
 
-[Practice in Colab notebook](error)<p>
+[video - Extra problems - maybe](error)<p>
 <p>
 <hr>
 <p>
 
-[video - Extra problems](error)<p>
-<p>
-<hr>
-<p>
-
-[Colab notebook to go along with extra problems](error)<p>
+Here is a Colab notebook that shows you one way to put many of these interest and payment forumals into Python functions. Also you will see an example of using some formulas to output results, notice a trend, and follow up with other formulas to analyze patterns 
+[Interest formulas with sliders](https://colab.research.google.com/drive/1-HWYmzKn6HmEUWMBv7G525CpoQpm8TnN?usp=sharing)<p>
 <p>
 <hr>
 <p>
@@ -444,15 +425,20 @@ This unit will show you how to calculate interest, loan payments, and the estima
 <p>
 
 ## Week 14 - Exponents and Logarithms<p>
-intro text<p>
-[video](error)<p>
-[Colab notebook to go along with video](Week_03 - code)<p>
-[Practice in Colab notebook](Week_03 - practice)<p>
-[video - Extra problems](error)<p>
-[Colab notebook to go along with extra problems](Week_03 - xtra)<p>
+This unit will show you how exponents and logarithms are inverse functions, and how you can use these functions in various applications<p>
+[video](https://www.youtube.com/embed/LhzmzugFFu8)<p>
 <p>
 <hr>
 <p>
+ 
+[Colab notebook to go along with video](https://colab.research.google.com/drive/1hg7ecxGT20B8HR2mV75HzMylj9SHIWH8?usp=sharing)<p>
+[Practice in Colab notebook](Week_03 - practice)<p>
+<p>
+<hr>
+<p>
+ 
+ ## ~ Still under construction beyond this point ~
+ 
 <p>
 <hr>
 <p>
