@@ -410,11 +410,6 @@ This unit will show you how to calculate interest, loan payments, and the estima
 <hr>
 <p>
 
-[video - Extra problems - maybe](error)<p>
-<p>
-<hr>
-<p>
-
 Here is a Colab notebook that shows you one way to put many of these interest and payment forumals into Python functions. Also you will see an example of using some formulas to output results, notice a trend, and follow up with other formulas to analyze patterns 
 [Interest formulas with sliders](https://colab.research.google.com/drive/1-HWYmzKn6HmEUWMBv7G525CpoQpm8TnN?usp=sharing)<p>
 <p>
@@ -431,8 +426,14 @@ This unit will show you how exponents and logarithms are inverse functions, and 
 <hr>
 <p>
  
+Here is the notebook so that you can reference the code from the video:<p>
 [Colab notebook to go along with video](https://colab.research.google.com/drive/1hg7ecxGT20B8HR2mV75HzMylj9SHIWH8?usp=sharing)<p>
-[Practice in Colab notebook](Week_03 - practice)<p>
+<p>
+<hr>
+<p>
+
+Now you are ready for the Foundational Math Certification 3<p>
+Assignment: [Certification Colab](https://colab.research.google.com/drive/1zUAVAkwyjat4Z-8nfrajM1ut9UcO18We?usp=sharing)<p>
 <p>
 <hr>
 <p>
@@ -444,7 +445,7 @@ This unit will show you how exponents and logarithms are inverse functions, and 
 <p>
 
 ## Week 15 - Spreadsheets and Additional Resources<p>
-intro text<p>
+This will be the last unit in this course. We are just working on the last finishing touches now<p>
 [video](error)<p>
 [Colab notebook to go along with video](Week_03 - code)<p>
 [Practice in Colab notebook](Week_03 - practice)<p>
