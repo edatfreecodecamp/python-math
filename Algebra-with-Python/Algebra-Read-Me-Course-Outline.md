@@ -447,10 +447,12 @@ Assignment: [Certification Colab](https://colab.research.google.com/drive/1zUAVA
 ## Week 15 - Spreadsheets and Additional Resources<p>
 This will be the last unit in this course. We are just working on the last finishing touches now<p>
 [video](error)<p>
-[Colab notebook to go along with video](Week_03 - code)<p>
-[Practice in Colab notebook](Week_03 - practice)<p>
+[Colab notebook to go along with video](code)<p>
+[Practice in Colab notebook](practice)<p>
 [video - Extra problems](error)<p>
-[Colab notebook to go along with extra problems](Week_03 - xtra)<p>
+[Colab notebook to go along with extra problems](xtra)<p>
+Last video here<p>
+
 
 
 
