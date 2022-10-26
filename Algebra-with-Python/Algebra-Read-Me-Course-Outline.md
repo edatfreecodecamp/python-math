@@ -342,7 +342,7 @@ Assignment: [Foundational Math Certification 2](https://colab.research.google.co
 <p>
  
 Work through the certification notebook first, then if you are stuck the following video is a walkthrough of that assignment.<p>
-[video - Certification 2 walkthrough - not here yet](error)<p>
+[video - Certification 2 walkthrough](https://www.youtube.com/embed/EM0yNdZBdfQ)<p>
 <p>
 <hr>
 <p>
@@ -433,26 +433,23 @@ Here is the notebook so that you can reference the code from the video:<p>
 <p>
 
 Now you are ready for the Foundational Math Certification 3<p>
-Assignment: [Certification Colab](https://colab.research.google.com/drive/1zUAVAkwyjat4Z-8nfrajM1ut9UcO18We?usp=sharing)<p>
+Assignment: [Certification 3 Colab](https://colab.research.google.com/drive/1zUAVAkwyjat4Z-8nfrajM1ut9UcO18We?usp=sharing)<p>
 <p>
 <hr>
 <p>
- 
- ## ~ Still under construction beyond this point ~
- 
 <p>
 <hr>
 <p>
 
-## Week 15 - Spreadsheets and Additional Resources<p>
-This will be the last unit in this course. We are just working on the last finishing touches now<p>
-[video](error)<p>
-[Colab notebook to go along with video](code)<p>
-[Practice in Colab notebook](practice)<p>
-[video - Extra problems](error)<p>
-[Colab notebook to go along with extra problems](xtra)<p>
-Last video here<p>
+## Week 15 - Conclusion and Additional Resources<p>
+This will be the last unit in this course. This brief video will show you some of the resources available to you in Google Colab notebooks. <p>
+[video - here soon](error)<p>
+<p>
+<hr>
+<p>
 
+The next course will build upon the skills you learned here. You will learn more ways to get data and more mathematical operations to transform and analyze that data. Continue to build your personal Colab notebook, adding new formulas and functions.<p>
+[Last video - here soon](error)<p>
 
 
 
