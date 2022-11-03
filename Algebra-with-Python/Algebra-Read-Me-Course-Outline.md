@@ -443,13 +443,31 @@ Assignment: [Certification 3 Colab](https://colab.research.google.com/drive/1zUA
 
 ## Week 15 - Conclusion and Additional Resources<p>
 This will be the last unit in this course. This brief video will show you some of the resources available to you in Google Colab notebooks. <p>
-[video - here soon](error)<p>
+[Link to video](https://www.youtube.com/embed/HNFrRHqpck4)<p>
 <p>
 <hr>
 <p>
 
 The next course will build upon the skills you learned here. You will learn more ways to get data and more mathematical operations to transform and analyze that data. Continue to build your personal Colab notebook, adding new formulas and functions.<p>
-[Last video - here soon](error)<p>
+[Last video](https://www.youtube.com/embed/L5hh3Og9RCU)<p>
+<p>
+<hr>
+<p>
+
+The course will be on the freeCodeCamp website soon. The video course (all of the videos here, merged into one long video) will be on the freeCodeCamp YouTube channel soon. Please contact me if you have any questions or comments about this course or the materials. Thank you <br>
+ -Ed Pratowski<br>
+  ed@freeCodeCamp.org<br>
+<p>
+<hr>
+<p>
+<p>
+<hr>
+<p>
+<p>
+<hr>
+<p>
+ 
+
 
 
 
