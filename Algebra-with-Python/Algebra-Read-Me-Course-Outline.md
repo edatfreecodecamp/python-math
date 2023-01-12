@@ -394,6 +394,12 @@ Assignment: Practice problems from textbook 1 pages 155 and 163<p>
 <p>
 <hr>
 <p>
+
+Here is a video showing you some economics applications, creating graphs and formulas:
+[video](https://www.youtube.com/embed/9n_ZybF0Phc)<p> 
+<p>
+<hr>
+<p>
 <p>
 <hr>
 <p>
