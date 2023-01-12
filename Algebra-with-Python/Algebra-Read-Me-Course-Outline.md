@@ -395,7 +395,7 @@ Assignment: Practice problems from textbook 1 pages 155 and 163<p>
 <hr>
 <p>
 
-Here is a video showing you some economics applications, creating graphs and formulas:
+Here is a video showing you some economics applications, creating graphs and formulas:<p>
 [video](https://www.youtube.com/embed/9n_ZybF0Phc)<p> 
 <p>
 <hr>
@@ -416,7 +416,7 @@ This unit will show you how to calculate interest, loan payments, and the estima
 <hr>
 <p>
 
-Here is a Colab notebook that shows you one way to put many of these interest and payment forumals into Python functions. Also you will see an example of using some formulas to output results, notice a trend, and follow up with other formulas to analyze patterns 
+Here is a Colab notebook that shows you one way to put many of these interest and payment forumals into Python functions. Also you will see an example of using some formulas to output results, notice a trend, and follow up with other formulas to analyze patterns:<p> 
 [Interest formulas with sliders](https://colab.research.google.com/drive/1-HWYmzKn6HmEUWMBv7G525CpoQpm8TnN?usp=sharing)<p>
 <p>
 <hr>
@@ -443,6 +443,12 @@ Assignment: [Certification 3 Colab](https://colab.research.google.com/drive/1zUA
 <p>
 <hr>
 <p>
+
+If you had any questions or if you wanted some deeper insight into everything in the Certification 3 notebook, here is a video of a complete walkthrough with additional comments and explanations:<p>
+[Certification 3 walkthrough video](https://www.youtube.com/embed/c2AhGd6srJ0)<p>
+<p>
+<hr>
+<p>
 <p>
 <hr>
 <p>
@@ -454,6 +460,13 @@ This will be the last unit in this course. This brief video will show you some o
 <hr>
 <p>
 
+This video will show you how to get data from other sources, then transform it so that you can graph it:<p>
+[Graphing external data video](https://www.youtube.com/embed/JH9Uk2mi3Dc)<p>
+<p>
+<hr>
+<p>
+
+ 
 The next course will build upon the skills you learned here. You will learn more ways to get data and more mathematical operations to transform and analyze that data. Continue to build your personal Colab notebook, adding new formulas and functions.<p>
 [Last video](https://www.youtube.com/embed/L5hh3Og9RCU)<p>
 <p>
