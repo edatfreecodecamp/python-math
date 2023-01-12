@@ -454,20 +454,19 @@ If you had any questions or if you wanted some deeper insight into everything in
 <p>
 
 ## Week 15 - Conclusion and Additional Resources<p>
-This will be the last unit in this course. This brief video will show you some of the resources available to you in Google Colab notebooks. <p>
-[Link to video](https://www.youtube.com/embed/HNFrRHqpck4)<p>
-<p>
-<hr>
-<p>
-
-This video will show you how to get data from other sources, then transform it so that you can graph it:<p>
+This will be the last unit in this course. Let's look at how you can connect your Math and Python knowledge with external data. This video will show you how to get data from other sources, then transform it so that you can graph it and interpret it:<p>
 [Graphing external data video](https://www.youtube.com/embed/JH9Uk2mi3Dc)<p>
 <p>
 <hr>
 <p>
 
- 
-The next course will build upon the skills you learned here. You will learn more ways to get data and more mathematical operations to transform and analyze that data. Continue to build your personal Colab notebook, adding new formulas and functions.<p>
+One more thing... This brief video will show you some of the resources available to you in Google Colab notebooks. <p>
+[Link to video](https://www.youtube.com/embed/HNFrRHqpck4)<p>
+<p>
+<hr>
+<p>
+
+The next course will build upon the skills you learned here. You will learn more ways to get data and more mathematical operations to transform and analyze that data in different ways. Continue to build your personal Colab notebook, adding new formulas and functions.<p>
 [Last video](https://www.youtube.com/embed/L5hh3Og9RCU)<p>
 <p>
 <hr>
