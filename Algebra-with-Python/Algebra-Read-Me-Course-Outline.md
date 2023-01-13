@@ -421,6 +421,12 @@ Here is a Colab notebook that shows you one way to put many of these interest an
 <p>
 <hr>
 <p>
+
+Here is a detour from the Python code, as this video shows you how to create mortgage payment amortization tables in Google Sheets. You will also learn about how to use a very similar setup to estimate retirement account investment returns. This is the video that shows you where your money is going.<p>
+[Video](https://www.youtube.com/embed/2cbrstoKNSc)<p>
+<p>
+<hr>
+<p>
 <p>
 <hr>
 <p>
