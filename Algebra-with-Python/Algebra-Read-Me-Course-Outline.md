@@ -358,6 +358,20 @@ Assignment: [Foundational Math Certification 2](https://colab.research.google.co
 <hr>
 <p>
  
+ ## Project 2 - Build a graphing calculator that does the following:
+<ul>
+<li> Graph one or more functions</li>
+<li>Create a table of (x,y) values</li>
+<li>Shade above or below the line</li>
+<li>Solve and graph a system of equations</li>
+<li>Zoom in or out on a graph</li>
+<li>Solve quadratic equations</li>
+</ul>
+<p>
+<hr>
+<p>
+
+ 
 Work through the certification notebook first, then if you are stuck the following video is a walkthrough of that assignment.<p>
 [video - Certification 2 walkthrough](https://www.youtube.com/embed/EM0yNdZBdfQ)<p>
 <p>
