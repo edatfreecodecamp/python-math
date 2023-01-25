@@ -219,8 +219,9 @@ Assignment: [Foundational Math Certification 1](https://colab.research.google.co
 <hr>
 <p> 
  
-### Project 1 - Build a multi-function calculator that does the following:<br>
- 
+### Project 1 - Build a Multi-Function Calculator<br>
+
+Your calculator should take input and do the following:<br>
 <ul>
 <li>Solve proportions</li>
 <li>Solve for x in equations</li>
@@ -229,13 +230,10 @@ Assignment: [Foundational Math Certification 1](https://colab.research.google.co
 <li>Convert fractions to decimals and percents</li>
 <li>Convert percents to decimals and fractions</li>
 </ul>
- 
 <p>
 <hr>
 <p> 
 
- 
- 
 Work through the certifation assignment first. If you are really stuck or need more guidance, this video is a walkthrough of the whole certification.<p>
 [Certification 1 walkthrough](https://www.youtube.com/embed/PdsvcZNPEEs)<p>
 <p>
@@ -358,7 +356,9 @@ Assignment: [Foundational Math Certification 2](https://colab.research.google.co
 <hr>
 <p>
  
-### Project 2 - Build a graphing calculator that does the following:
+### Project 2 - Build a Graphing Calculator
+
+Your calculator should do the following:<br>
 <ul>
 <li> Graph one or more functions</li>
 <li>Create a table of (x,y) values</li>
@@ -371,7 +371,6 @@ Assignment: [Foundational Math Certification 2](https://colab.research.google.co
 <hr>
 <p>
 
- 
 Work through the certification notebook first, then if you are stuck the following video is a walkthrough of that assignment.<p>
 [video - Certification 2 walkthrough](https://www.youtube.com/embed/EM0yNdZBdfQ)<p>
 <p>
@@ -406,7 +405,8 @@ So that you can copy the code for sliders and things here is the Colab notebook 
 <hr>
 <p>
 
-### Project 3 - Build three math games:
+### Project 3 - Build Three Math Games:
+
 <ul>
 <li>Scatter plot game<br>
  - Randomly generate points on a graph and the player has to input the (x,y) coordinates<br>
@@ -415,7 +415,7 @@ So that you can copy the code for sliders and things here is the Colab notebook 
  - Generate one-step and two-step problems with random integer values and the player has to input the answer<br>
  - Use positive and negative values. For added difficulty, make the numbers larger</li> 
 <li>Projectile game<br>
- - Display a wall with randomly genrated height and location, then player has to move sliders to adjust a parabolic path to clear the wall<br>
+ - Display a "wall" with randomly genrated height and location, then player has to move sliders to adjust a parabolic path to clear the wall<br>
  - For added difficulty, make a second level where players enter a, b, and c without sliders</li>
  </ul>
 <p>
@@ -496,6 +496,19 @@ Assignment: [Certification 3 Colab](https://colab.research.google.com/drive/1zUA
 <p>
 <hr>
 <p>
+ 
+### Project 4 - Build a Financial Calculator
+ 
+Your calculator should do the following:<br>
+<ul>
+<li>Calculate annuity with monthly or continuous growth</li>
+<li>Calculate monthly mortgage payment</li>
+<li>Estimate retirement investment balance</li>
+<li>Determine how long until an amount doubles, given the rate</li>
+<li>Solve logarithmic equations</li>
+<li>Convert to (and from) scientific notation</li>
+</ul>
+ 
 
 If you had any questions or if you wanted some deeper insight into everything in the Certification 3 notebook, here is a video of a complete walkthrough with additional comments and explanations:<p>
 [Certification 3 walkthrough video](https://www.youtube.com/embed/c2AhGd6srJ0)<p>
@@ -519,6 +532,32 @@ One more thing... This brief video will show you some of the resources available
 <hr>
 <p>
 
+ ### Project 5 - Build a Data Graph Explorer
+ 
+ Your script should do the following:<br>
+<ul>
+<li>Get a .csv file in three ways<br>
+ - uploading it from the local computer<br>
+ - getting a url from user input<br>
+ - putting the url in the code<br>
+</li>
+<li>Use the Pandas library to save the .csv as a dataframe</li>
+<li>Print headings and the first two rows</li>
+<li>Store the column names as a list</li>
+<li>Choose one or two columns and convert the data to Numpy arrays</li>
+<li>Display data as a scatter plot or a line graph</li>
+<li>Be able to do this for different column combinations, and interpret the graphs</li>
+</ul>
+<p>
+<hr>
+<p>
+
+Your home made Python Math notebook - Put all of your projects, and any other functions or formulas you want, into one Colab notebook. Be sure to make sections with headings so that you have a table of contents. Now you understand the math and the code, and you have a resource that you built. Use it to solve problems, graph data, and calculate anything you want.
+<p>
+<hr>
+<p>
+
+ 
 The next course will build upon the skills you learned here. You will learn more ways to get data and more mathematical operations to transform and analyze that data in different ways. Continue to build your personal Colab notebook, adding new formulas and functions.<p>
 [Last video](https://www.youtube.com/embed/L5hh3Og9RCU)<p>
 <p>
