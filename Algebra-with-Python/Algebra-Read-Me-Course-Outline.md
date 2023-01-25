@@ -358,7 +358,7 @@ Assignment: [Foundational Math Certification 2](https://colab.research.google.co
 <hr>
 <p>
  
- ## Project 2 - Build a graphing calculator that does the following:
+### Project 2 - Build a graphing calculator that does the following:
 <ul>
 <li> Graph one or more functions</li>
 <li>Create a table of (x,y) values</li>
