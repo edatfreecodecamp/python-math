@@ -19,6 +19,12 @@ Some videos will reference problems from textbooks, so here are the two textbook
 ## Week 1 - Ratios and Proportions<p>
 Your journey begins here as you learn the math, learn the code, and build your notebook. After the videos, you will see links to the Google Colab notebooks used in those videos. Copy and use whatever code you need to enhance your notebook. This first video includes an introduction to the course, how it will work, and how to use Google Colaboratory. The math and code content will come next.<p>
 [video 1 - Intro and set-up](https://www.youtube.com/embed/bO3Sn10-XNw)<p>
+Question:<br>
+When adding text in Google Colab, what symbol would you use to create a heading that will appear in the table of contents?<br>
+*<br>
+#<br>
+@<br>
+ %<br>
 <p>
 <hr>
 <p>
