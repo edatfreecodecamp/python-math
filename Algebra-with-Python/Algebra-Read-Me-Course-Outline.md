@@ -219,6 +219,22 @@ Assignment: [Foundational Math Certification 1](https://colab.research.google.co
 <hr>
 <p> 
  
+<b>Project 1</b> - Build a multi-function calculator that does the following:<br>
+<ul>
+<li>Solve proportions</li>
+<li>Solve for x in equations</li>
+<li>Factor square roots</li>
+<li>Convert decimals to fractions and percents</li>
+<li>Convert fractions to decimals and percents</li>
+<li>Convert percents to decimals and fractions</li>
+</ul>
+ 
+<p>
+<hr>
+<p> 
+
+ 
+ 
 Work through the certifation assignment first. If you are really stuck or need more guidance, this video is a walkthrough of the whole certification.<p>
 [Certification 1 walkthrough](https://www.youtube.com/embed/PdsvcZNPEEs)<p>
 <p>
