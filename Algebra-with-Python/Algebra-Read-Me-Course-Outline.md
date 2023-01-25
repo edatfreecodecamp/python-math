@@ -59,6 +59,16 @@ Assignment: [Practice in Colab notebook](https://colab.research.google.com/drive
  
 This next video will show you how to use proportions in other applications, such as currency exchange rates and unit conversion. It will also show you more about setting up your notebook and working throught the practice assignment.<p>
 [video 3 - Extra problems and applications](https://www.youtube.com/embed/NMVg8mTtSzw)<p>
+ 
+Question:<br>
+What is another way to write 0.9999... (repeating decimal)?<br>
+__ 99 percent<br>
+__ You can't get an exact answer<br>
+__ 1<br>
+__ almost 1<br>
+ 
+[comment]: <> (1 is correct)
+
 <p>
 <hr>
 <p>
