@@ -219,7 +219,7 @@ Assignment: [Foundational Math Certification 1](https://colab.research.google.co
 <hr>
 <p> 
  
-<b>Project 1</b> - Build a multi-function calculator that does the following:<br>
+###Project 1 - Build a multi-function calculator that does the following:<br>
 <ul>
 <li>Solve proportions</li>
 <li>Solve for x in equations</li>
