@@ -22,9 +22,11 @@ Your journey begins here as you learn the math, learn the code, and build your n
 Question:<br>
 When adding text in Google Colab, what symbol would you use to create a heading that will appear in the table of contents?<br>
 *<br>
-#<br>
+#<br> 
 @<br>
  %<br>
+ 
+[comment]: <> (# is correct)
 <p>
 <hr>
 <p>
