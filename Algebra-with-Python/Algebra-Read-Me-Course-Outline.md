@@ -405,6 +405,19 @@ So that you can copy the code for sliders and things here is the Colab notebook 
 <p>
 <hr>
 <p>
+
+### Project 3 - Build three math games:
+<ul>
+<li>Scatter plot game<br>
+ - Randomly generate points on a graph and the player has to input the (x,y) coordinates</li>
+<li>Algebra practice game<br>
+- Generate one-step and two step problems with random integer values and the player has to input the answer</li> 
+<li>Projectile game<br>
+- Display a wall with randomly genrated height and location, then player has to move sliders to adjust a parabolic path to clear the wall
+ </ul>
+<p>
+<hr>
+<p>
 <p>
 <hr>
 <p>
