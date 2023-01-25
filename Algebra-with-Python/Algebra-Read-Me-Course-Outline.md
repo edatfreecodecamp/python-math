@@ -21,10 +21,10 @@ Your journey begins here as you learn the math, learn the code, and build your n
 [video 1 - Intro and set-up](https://www.youtube.com/embed/bO3Sn10-XNw)<p>
 Question:<br>
 When adding text in Google Colab, what symbol would you use to create a heading that will appear in the table of contents?<br>
-*<br>
-#<br> 
-@<br>
- %<br>
+__ *<br>
+__ #<br> 
+__ @<br>
+__ %<br>
  
 [comment]: <> (# is correct)
 <p>
@@ -36,9 +36,9 @@ Now we get to the math content. This video will show you how to set up and solve
 
 Question:<br>
 In solving a proportion, if one numerator is zero, does the other numerator have to be zero for the statement to be true?<br>
-yes<br>
-no<br>
-sometimes<br>
+__ yes<br>
+__ no<br>
+__ sometimes<br>
 
 [comment]: <> (yes is correct)
 <p>
@@ -69,6 +69,16 @@ This next video will show you how to use proportions in other applications, such
 This unit will focus on how to solve for an unknown number (often referred to as "x") using written Algebra and Python code. This first video will show you the essence of Algebra and then how Python code does the same task in a different way.<p>
  
 [video - solving for x](https://www.youtube.com/embed/SAVDhkGst6Y)<p>
+
+Question:<br>
+In Python, what is the library you import to solve Algebra problems with variables?<br>
+__ symba<br>
+__ sympy<br>
+__ the sympsons<br>
+__ math<br>
+ 
+[comment]: <> (sympy is correct)
+
 <p>
 <hr>
 <p>
@@ -597,7 +607,7 @@ The course will be on the freeCodeCamp website soon. The video course (all of th
 <p>
 <p>
 
-Q:<br>
+Qed:<br>
 <br>
 <br>
 <br>
