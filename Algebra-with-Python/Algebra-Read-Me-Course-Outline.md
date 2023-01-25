@@ -409,11 +409,14 @@ So that you can copy the code for sliders and things here is the Colab notebook 
 ### Project 3 - Build three math games:
 <ul>
 <li>Scatter plot game<br>
- - Randomly generate points on a graph and the player has to input the (x,y) coordinates</li>
+ - Randomly generate points on a graph and the player has to input the (x,y) coordinates<br>
+ - For added difficulty, make the graph larger</li>
 <li>Algebra practice game<br>
-- Generate one-step and two step problems with random integer values and the player has to input the answer</li> 
+ - Generate one-step and two step problems with random integer values and the player has to input the answer<br>
+ - Use positive and negative values. For added difficulty, make the numbers larger</li> 
 <li>Projectile game<br>
-- Display a wall with randomly genrated height and location, then player has to move sliders to adjust a parabolic path to clear the wall
+ - Display a wall with randomly genrated height and location, then player has to move sliders to adjust a parabolic path to clear the wall<br>
+ - For added difficulty, make a second level where players enter a, b, and c without sliders</li>
  </ul>
 <p>
 <hr>
