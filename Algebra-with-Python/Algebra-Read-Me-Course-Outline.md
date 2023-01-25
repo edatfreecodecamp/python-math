@@ -415,7 +415,7 @@ So that you can copy the code for sliders and things here is the Colab notebook 
  - Generate one-step and two-step problems with random integer values and the player has to input the answer<br>
  - Use positive and negative values. For added difficulty, make the numbers larger</li> 
 <li>Projectile game<br>
- - Display a "wall" with randomly genrated height and location, then player has to move sliders to adjust a parabolic path to clear the wall<br>
+ - Display a "wall" with random height and location. Player has to move sliders to adjust a parabolic path to clear the wall<br>
  - For added difficulty, make a second level where players enter a, b, and c without sliders</li>
  </ul>
 <p>
@@ -508,7 +508,9 @@ Your calculator should do the following:<br>
 <li>Solve logarithmic equations</li>
 <li>Convert to (and from) scientific notation</li>
 </ul>
- 
+<p>
+<hr>
+<p>
 
 If you had any questions or if you wanted some deeper insight into everything in the Certification 3 notebook, here is a video of a complete walkthrough with additional comments and explanations:<p>
 [Certification 3 walkthrough video](https://www.youtube.com/embed/c2AhGd6srJ0)<p>
@@ -552,7 +554,8 @@ One more thing... This brief video will show you some of the resources available
 <hr>
 <p>
 
-Your home made Python Math notebook - Put all of your projects, and any other functions or formulas you want, into one Colab notebook. Be sure to make sections with headings so that you have a table of contents. Now you understand the math and the code, and you have a resource that you built. Use it to solve problems, graph data, and calculate anything you want.
+### Your home made Python Math notebook 
+Put all of your projects, and any other functions or formulas you want, into one Colab notebook. Be sure to make sections with headings so that you have a table of contents. Now you understand the math and the code, and you have a resource that you built. Use it to solve problems, graph data, and calculate anything you want.
 <p>
 <hr>
 <p>
