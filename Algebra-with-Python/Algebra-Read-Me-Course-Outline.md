@@ -33,6 +33,14 @@ When adding text in Google Colab, what symbol would you use to create a heading 
  
 Now we get to the math content. This video will show you how to set up and solve proportions and write code to solve for variables.<p>
 [video 2 - Solving proportions](https://www.youtube.com/embed/61A3PNx1hjY)<p>
+
+Question:<br>
+In solving a proportion, if one numerator is zero, does the other numerator have to be zero for the statement to be true?<br>
+yes<br>
+no<br>
+sometimes<br>
+
+[comment]: <> (yes is correct)
 <p>
 <hr>
 <p>
@@ -587,8 +595,16 @@ The course will be on the freeCodeCamp website soon. The video course (all of th
 <p>
 <hr>
 <p>
- 
+<p>
 
+Q:<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+ 
+[comment]: <> (-- is correct)
 
 
 
