@@ -133,6 +133,8 @@ Here is the Colab notebook to go along with extra problems. Use it to add more t
 This unit will focus on converting decimals to fractions and percents. The first video will show you how to do this on paper, and then show you how to do it with Python code.<p>
  
 [video](https://www.youtube.com/embed/hVHWr4KXZn0&t=1s)<p>
+
+[comment]: <> (video error)
 <p>
 <hr>
 <p>
@@ -151,6 +153,16 @@ Assignment: [Practice notebook](https://colab.research.google.com/drive/1qON4GYb
 The following video will show you one way to set up your Google Colaboratory notebook, so that you can continue to build your personalized Algebra calculator.<p>
  
 [video - Extra](https://www.youtube.com/embed/YHVA6cYIglM)<p>
+ 
+Question:<br>
+Which of the following languages can you not use in Google Colaboratory?<br>
+__ HTML<br>
+__ LaTex<br>
+__ English<br>
+__ Sanskrit<br>
+ 
+[comment]: <> (Sanskrit is correct)
+
 <p>
 <hr>
 <p>
@@ -599,7 +611,7 @@ One more thing... This brief video will show you some of the resources available
 <hr>
 <p>
 
-### Your home made Python Math notebook 
+### Your homemade Python Math notebook 
 Put all of your projects, and any other functions or formulas you want, into one Colab notebook. Be sure to make sections with headings so that you have a table of contents. Now you understand the math and the code, and you have a resource that you built. Use it to solve problems, graph data, and calculate anything you want.
 <p>
 <hr>
