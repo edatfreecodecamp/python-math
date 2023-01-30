@@ -179,7 +179,7 @@ Here is the Colab notebook used in the video, so you can use it as a model.<p>
 ## Week 4 - Functions<p>
 This unit will teach you about math functions. The first video will show you what it means to be a function, and then it will show you how math functions and Python functions are similar.<p>
  
-[video](https://www.youtube.com/embed/rYg12-omcGg)<p>
+[video 8](https://www.youtube.com/embed/rYg12-omcGg)<p>
 <p>
 <hr>
 <p> 
@@ -192,7 +192,7 @@ Assignment: Create Python functions for the decimal-to-fraction conversions from
  
 This next video will show you the connection between functions and graphing. Notice how the graph is a way to represent the inputs and outputs of a function. Then the video will show you how to graph a function with Python.<p> 
  
-[video](https://www.youtube.com/embed/vUefCkh8-wc)<p>
+[video 9](https://www.youtube.com/embed/vUefCkh8-wc)<p>
 <p>
 <hr>
 <p> 
@@ -204,7 +204,7 @@ Here is the Colab notebook with the function code and basic graphing code, so yo
 <p> 
  
 This video will give you a deeper dive and show you more about how to customize graphs in Python.<p>
-[video - Extra](https://www.youtube.com/embed/vUefCkh8-wc)<p>
+[video 9 - Extra](https://www.youtube.com/embed/vUefCkh8-wc)<p>
 <p>
 <hr>
 <p> 
@@ -220,13 +220,13 @@ Here is the Colab notebook from the last video, so you can copy the little detai
  
 ## Week 5 - Linear Functions<p>
 This unit will show you how to develop linear equations from two points. You will also learn how to graph linear functions and see how an equation, a graph, and a table of (x,y) values are all connected. The first video will focus on the slope of a line and how to calculate it.<p>
-[video](https://www.youtube.com/embed/nURsz7SR5aM)<p>
+[video 10](https://www.youtube.com/embed/nURsz7SR5aM)<p>
 <p>
 <hr>
 <p> 
  
 Here is a video to show you the math behind finding the y-intercept in a linear function, so you can develop the whole equation. Then the video will show you how to graph the whole function. You will also see how to do the whole process with Python code.<p>
-[video](https://www.youtube.com/embed/u0bgovPh4ME)<p>
+[video 11](https://www.youtube.com/embed/u0bgovPh4ME)<p>
 <p>
 <hr>
 <p> 
@@ -243,7 +243,7 @@ Assignment: Create your own Colab notebook to graph a function from points or fr
 <p> 
  
 This video will give you a deeper look into developing equations from word problems (so then you can write the code to solve or graph those equations). The video will also begin to look at data points as (x,y) coordinates. With this, you will begin to see the connection between Algebra and data science.<p>
-[video - Word problems](https://www.youtube.com/embed/Emeex5gi5uA)<p>
+[video 12 - Word problems](https://www.youtube.com/embed/Emeex5gi5uA)<p>
 <p>
 <hr>
 <p> 
@@ -259,13 +259,13 @@ Here is the Colab notebook to go along with the previous video. The code in it s
  
 ## Week 6 - Common Factors and Square Roots<p>
 In this unit, you will learn how to find common factors and divide them out. This will be useful when simplifying fractions and factoring square roots. The first video will show you how to do this - in writing, then in code using loops and modulus operations. The larger assignment in this unit is first Foundational Math notebook.<p>
-[video](https://www.youtube.com/embed/Puyp_-ZYA54)<p>
+[video 13](https://www.youtube.com/embed/Puyp_-ZYA54)<p>
 <p>
 <hr>
 <p> 
  
 Since that video included many little details, here is the Colab notebook so that you can copy and modify some of the code<p>
-[Factor video](https://colab.research.google.com/drive/1tB7N3QqHEbGk33v0BdTwZTVkS9ju9yn6?usp=sharing)<p>
+[Colab Notebook](https://colab.research.google.com/drive/1tB7N3QqHEbGk33v0BdTwZTVkS9ju9yn6?usp=sharing)<p>
 <p>
 <hr>
 <p> 
@@ -292,7 +292,7 @@ Your calculator should take input and do the following:<br>
 <p> 
 
 Work through the certifation assignment first. If you are really stuck or need more guidance, this video is a walkthrough of the whole certification.<p>
-[Certification 1 walkthrough](https://www.youtube.com/embed/PdsvcZNPEEs)<p>
+[Video 14 - Certification 1 Walkthrough](https://www.youtube.com/embed/PdsvcZNPEEs)<p>
 <p>
 <hr>
 <p> 
@@ -302,7 +302,7 @@ Work through the certifation assignment first. If you are really stuck or need m
  
 ## Week 7 - Graphing Systems of Equations<p>
 This unit will focus on graphing two equations on the same coordinate plane, so that you can see where the lines intersect. The first video, like usual, will show you how do do this with written math, then how to do this with code<p>
-[video](https://www.youtube.com/embed/FxSIFR4zsrE)<p>
+[video 15](https://www.youtube.com/embed/FxSIFR4zsrE)<p>
 <p>
 <hr>
 <p> 
@@ -319,7 +319,7 @@ Assignment: Add that code to the Algebra notebook you are building, and test it 
 <p> 
  
 This next video will give you a deeper dive into what you can do with graphing systems of equations, graphing inequalities, and shading above or below the line. You will also see how to download the graph to your computer or your Google Drive.<p> 
-[Extra graphing video](https://www.youtube.com/embed/q8ad1tTFqns)<p>
+[Video 16 - Extra Graphing](https://www.youtube.com/embed/q8ad1tTFqns)<p>
 <p>
 <hr>
 <p> 
@@ -335,7 +335,7 @@ So that you can go back and reference the code, here is the notebook used in the
  
 ## Week 8 - Solving Systems of Equations<p>
 In this unit, you will learn how to solve a system of two equations (with two variables) without graphing. You will see how you can factor an equation and solve eor a certain variable in Python. By the end of this unit, you will be able to solve and graph the system with one block of code. The first video will show you the math behind this process, and then how Python handlses it.<p>
-[video](https://www.youtube.com/embed/CNGUQzXfC6c)<p>
+[Video 17](https://www.youtube.com/embed/CNGUQzXfC6c)<p>
 <p>
 <hr>
 <p>
