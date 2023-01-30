@@ -132,7 +132,7 @@ Here is the Colab notebook to go along with extra problems. Use it to add more t
 ## Week 3 - Fractions, Decimals, and Percents<p>
 This unit will focus on converting decimals to fractions and percents. The first video will show you how to do this on paper, and then show you how to do it with Python code.<p>
  
-[video 6](https://www.youtube.com/embed/hVHWr4KXZn0&t=1s)<p>
+[video 6](https://youtu.be/i7vOAcUo5iA?t=4064)<p>
 
 [comment]: <> (video error)
 <p>
