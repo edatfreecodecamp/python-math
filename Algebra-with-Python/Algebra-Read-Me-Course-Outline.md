@@ -46,19 +46,19 @@ __ sometimes<br>
 <p>
  
 This is the Colab notebook to go along with the video. If you have not done it yet, set up your Algebra Colab notebook and add the following code to it.<p>
-[Link to Colab notebook](https://colab.research.google.com/drive/1Q7nCcbrnoYttkwiHB_nQ-X1JuLpUmtRD?usp=sharing)<p>
+link to Colab notebook](https://colab.research.google.com/drive/1Q7nCcbrnoYttkwiHB_nQ-X1JuLpUmtRD?usp=sharing)<p>
 <p>
 <hr>
 <p>
  
 Run the next Colab notebook to practice solving proportions. As a bonus, take a look at the code that creates these practice problems.<p>
-Assignment: [Practice in Colab notebook](https://colab.research.google.com/drive/1Gl0dofhOrO1gdyUF1VtVTARxu-uuRCon?usp=sharing)<p>
+Assignment: [practice in Colab notebook](https://colab.research.google.com/drive/1Gl0dofhOrO1gdyUF1VtVTARxu-uuRCon?usp=sharing)<p>
 <p>
 <hr>
 <p>
  
 This next video will show you how to use proportions in other applications, such as currency exchange rates and unit conversion. It will also show you more about setting up your notebook and working throught the practice assignment.<p>
-[video 3 - Extra problems and applications](https://www.youtube.com/embed/NMVg8mTtSzw)<p>
+[video 3 - extra problems and applications](https://www.youtube.com/embed/NMVg8mTtSzw)<p>
  
 Question:<br>
 What is another way to write 0.9999... (repeating decimal)?<br>
@@ -101,13 +101,13 @@ Now it's your turn to write code to solve for x. Here is the notebook used in th
 <p>
  
 Use the following Colab notebook to practice solving one-step algebra problems. As a bonus, look at the code that generates the practice problems.<p>
-Assignment: [Practice in Colab notebook](https://colab.research.google.com/drive/1XjmHoERFKcvol7FPidQE-wgdvR82HV45)<p>
+Assignment: [practice in Colab notebook](https://colab.research.google.com/drive/1XjmHoERFKcvol7FPidQE-wgdvR82HV45)<p>
 <p>
 <hr>
 <p>
  
 The next video will go deeper, with more examples of how to use SymPy solve. It will also explain how the practice functions generate the random problems.<p> 
-[video 5 - Extra problems](https://www.youtube.com/embed/lFTCVUCbNoM)<p>
+[video 5 - extra problems](https://www.youtube.com/embed/lFTCVUCbNoM)<p>
 
 Question:<br>
 If you import sympy and define x as a variable, what would be the output of sympy.solve(x**2-4,0)?<br>
@@ -122,7 +122,7 @@ __ 2, -2<br>
 <p>
  
 Here is the Colab notebook to go along with extra problems. Use it to add more to your Algebra Colab notebook that you are building.<p>  
-[Notebook link](https://colab.research.google.com/drive/1Jv6WxW93J_1GZao8DkNb4X0D93oVibbs)<p>
+[notebook link](https://colab.research.google.com/drive/1Jv6WxW93J_1GZao8DkNb4X0D93oVibbs)<p>
 <p>
 <hr>
 <p>
@@ -140,13 +140,13 @@ This unit will focus on converting decimals to fractions and percents. The first
 <p>
 Here is the Colab notebook used in the video. Use this code as a model, and write your own code to convert fractions and decimals.<p>
  
-[Fractions and Decimals notebook](https://colab.research.google.com/drive/1dgeEEODP7cwm_96_JqbjxxJhVpZcFfGe?usp=sharing#scrollTo=NkMTAVF0BlqE)<p>
+[fractions and decimals notebook](https://colab.research.google.com/drive/1dgeEEODP7cwm_96_JqbjxxJhVpZcFfGe?usp=sharing#scrollTo=NkMTAVF0BlqE)<p>
 <p>
 <hr>
 <p>
 Run the code in the following notebook to get practice converting fractions and decimals. As a bonus, look at the code used to generate the practice problems.<p>
  
-Assignment: [Practice notebook](https://colab.research.google.com/drive/1qON4GYbMkaZJA7MYd7-RcDROOkuuBJg9?usp=sharing)<p>
+Assignment: [practice notebook](https://colab.research.google.com/drive/1qON4GYbMkaZJA7MYd7-RcDROOkuuBJg9?usp=sharing)<p>
 <p>
 <hr>
 <p>
@@ -198,19 +198,19 @@ This next video will show you the connection between functions and graphing. Not
 <p> 
  
 Here is the Colab notebook with the function code and basic graphing code, so you can start making your own graphs.<p>
-[Function and graphing notebook](https://colab.research.google.com/drive/1d0e55NoKjKILIum34POv04h0OLpE_pkn)<p>
+[function and graphing notebook](https://colab.research.google.com/drive/1d0e55NoKjKILIum34POv04h0OLpE_pkn)<p>
 <p>
 <hr>
 <p> 
  
 This video will give you a deeper dive and show you more about how to customize graphs in Python.<p>
-[video 9 - Extra](https://www.youtube.com/embed/vUefCkh8-wc)<p>
+[video 9 - extra](https://www.youtube.com/embed/vUefCkh8-wc)<p>
 <p>
 <hr>
 <p> 
  
 Here is the Colab notebook from the last video, so you can copy the little details.<p>
-[Graphing notebook](https://colab.research.google.com/drive/1UYorWd9-Btf_ZQyA9YdUzxzKR8rnVrSV)<p>
+[graphing notebook](https://colab.research.google.com/drive/1UYorWd9-Btf_ZQyA9YdUzxzKR8rnVrSV)<p>
 <p>
 <hr>
 <p> 
@@ -232,7 +232,7 @@ Here is a video to show you the math behind finding the y-intercept in a linear 
 <p> 
  
 Here is the Colab notebook to to along with the videos, so you can see the formulas again.<p>
-[Linear function notebook](https://colab.research.google.com/drive/1UJ1w-XFTuCfK6FI3H2GT0lbxd2HO3tQ6?usp=sharing)<p>
+[linear function notebook](https://colab.research.google.com/drive/1UJ1w-XFTuCfK6FI3H2GT0lbxd2HO3tQ6?usp=sharing)<p>
 <p>
 <hr>
 <p> 
@@ -243,13 +243,13 @@ Assignment: Create your own Colab notebook to graph a function from points or fr
 <p> 
  
 This video will give you a deeper look into developing equations from word problems (so then you can write the code to solve or graph those equations). The video will also begin to look at data points as (x,y) coordinates. With this, you will begin to see the connection between Algebra and data science.<p>
-[video 12 - Word problems](https://www.youtube.com/embed/Emeex5gi5uA)<p>
+[video 12 - word problems](https://www.youtube.com/embed/Emeex5gi5uA)<p>
 <p>
 <hr>
 <p> 
  
 Here is the Colab notebook to go along with the previous video. The code in it should be familiar to you.<p>
-[Word problem notebook](https://colab.research.google.com/drive/1OzC7gqCNWNzwv50ziNeG2IJhbXm88-XK?usp=sharing)<p>
+[word problem notebook](https://colab.research.google.com/drive/1OzC7gqCNWNzwv50ziNeG2IJhbXm88-XK?usp=sharing)<p>
 <p>
 <hr>
 <p> 
@@ -265,7 +265,7 @@ In this unit, you will learn how to find common factors and divide them out. Thi
 <p> 
  
 Since that video included many little details, here is the Colab notebook so that you can copy and modify some of the code<p>
-[Colab Notebook](https://colab.research.google.com/drive/1tB7N3QqHEbGk33v0BdTwZTVkS9ju9yn6?usp=sharing)<p>
+[Colab notebook](https://colab.research.google.com/drive/1tB7N3QqHEbGk33v0BdTwZTVkS9ju9yn6?usp=sharing)<p>
 <p>
 <hr>
 <p> 
@@ -292,7 +292,7 @@ Your calculator should take input and do the following:<br>
 <p> 
 
 Work through the certifation assignment first. If you are really stuck or need more guidance, this video is a walkthrough of the whole certification.<p>
-[Video 14 - Certification 1 Walkthrough](https://www.youtube.com/embed/PdsvcZNPEEs)<p>
+[video 14 - Certification 1 walkthrough](https://www.youtube.com/embed/PdsvcZNPEEs)<p>
 <p>
 <hr>
 <p> 
@@ -308,7 +308,7 @@ This unit will focus on graphing two equations on the same coordinate plane, so 
 <p> 
  
 Here is the Colab notebook to go along with the video<p>
-[Graphing systems notebook](https://colab.research.google.com/drive/1N1JEZJctODxsntROnmg0VqMSHXYdIlFD?usp=sharing)<p>
+[graphing systems notebook](https://colab.research.google.com/drive/1N1JEZJctODxsntROnmg0VqMSHXYdIlFD?usp=sharing)<p>
 <p>
 <hr>
 <p> 
@@ -319,7 +319,7 @@ Assignment: Add that code to the Algebra notebook you are building, and test it 
 <p> 
  
 This next video will give you a deeper dive into what you can do with graphing systems of equations, graphing inequalities, and shading above or below the line. You will also see how to download the graph to your computer or your Google Drive.<p> 
-[Video 16 - Extra Graphing](https://www.youtube.com/embed/q8ad1tTFqns)<p>
+[video 16 - extra graphing](https://www.youtube.com/embed/q8ad1tTFqns)<p>
 <p>
 <hr>
 <p> 
@@ -335,13 +335,13 @@ So that you can go back and reference the code, here is the notebook used in the
  
 ## Week 8 - Solving Systems of Equations<p>
 In this unit, you will learn how to solve a system of two equations (with two variables) without graphing. You will see how you can factor an equation and solve eor a certain variable in Python. By the end of this unit, you will be able to solve and graph the system with one block of code. The first video will show you the math behind this process, and then how Python handlses it.<p>
-[Video 17](https://www.youtube.com/embed/CNGUQzXfC6c)<p>
+[video 17](https://www.youtube.com/embed/CNGUQzXfC6c)<p>
 <p>
 <hr>
 <p>
  
 Becuae that might be a lot, and the little details matter, here is the Colab notebook to go along with the video. Use this code as a reference.<b>
-[SymPy solve notebook](https://colab.research.google.com/drive/1UfyQiXCedAAv5kcqgi_pGYV-HkSgN8YD?usp=sharing)<p>
+[SymPy Solve notebook](https://colab.research.google.com/drive/1UfyQiXCedAAv5kcqgi_pGYV-HkSgN8YD?usp=sharing)<p>
 <p>
 <hr>
 <p>
@@ -353,13 +353,13 @@ Assignment: Create your own Colab notebook to solve and graph systems of equatio
 <p>
  
 This video will show you one way to create your super calculator that solves and graphs. It will also show you how to zoom in or zoom out on the graph and write the code to build that feature.<p>
-[Extra solving and graphing](https://www.youtube.com/embed/856p7t2V9NY)<p>
+[video 18 - extra solving and graphing](https://www.youtube.com/embed/856p7t2V9NY)<p>
 <p>
 <hr>
 <p> 
  
 Here is a sample Colab notebook to go along with the video. This will give you an example of what your notebook could look like so far, as you have some functions in there and create headings for the next few functions.<p>
-[Example notebook](https://colab.research.google.com/drive/1a_RtRtVfeO0m2528T4V-bCXozWf3HpM7?usp=sharing)<p>
+[example notebook](https://colab.research.google.com/drive/1a_RtRtVfeO0m2528T4V-bCXozWf3HpM7?usp=sharing)<p>
 <p>
 <hr>
 <p>
@@ -369,7 +369,7 @@ Here is a sample Colab notebook to go along with the video. This will give you a
  
 ## Week 9 - Applications of Linear Systems<p>
 In this unit, you will see how you can use the Algebra you learned so far to solve real world problems. The first video will look at key words that tell you what math operation to use. Then you will see how to apply some of your code to different problems.<p>
-[video](https://www.youtube.com/embed/3ZM3XMn1QYo)<p>
+[video 19](https://www.youtube.com/embed/3ZM3XMn1QYo)<p>
 <p>
 <hr>
 <p>
@@ -380,13 +380,13 @@ This unit does not have an extra Colab notebook because it's all about how to us
 <p>
  
 For additional practice, use the Colab calculator you are building to solve application problems.<p>
-Assignment: Problems from textbook 1 pages 63, 75, 85, 118, problems from textbook 2 pages 304, 308, 321<p>
+Assignment: problems from textbook 1 pages 63, 75, 85, 118, problems from textbook 2 pages 304, 308, 321<p>
 <p>
 <hr>
 <p>
  
 The next video contains more examples of how to set up equations and use your Colab notebook to solve them.<p>
-[video](https://www.youtube.com/embed/ZtypoUnNdAY)<p>
+[video 20](https://www.youtube.com/embed/ZtypoUnNdAY)<p>
 <p>
 <hr>
 <p>
@@ -396,13 +396,13 @@ The next video contains more examples of how to set up equations and use your Co
  
 ## Week 10 - Quadratic Equations<p>
 This unit will go beyond linear equations, to work with exponents and graph parabolas. You will learn how to find key points in parabolas and how to solve quadratic equations. This video will also explain the coefficients ("A," "B," and "C") in the standard form and how to use them to find the roots and vertex.<p>
-[video](https://www.youtube.com/embed/pPLBL3L0OGg)<p>
+[video 21](https://www.youtube.com/embed/pPLBL3L0OGg)<p>
 <p>
 <hr>
 <p>
  
 Here is the Colab notebook to go along with video:<p>
-[Quadratic notebook](https://colab.research.google.com/drive/1jr_k4awSSW1CBs9ma9oS_WnDblDjX3pc?usp=sharing)<p>
+[quadratic notebook](https://colab.research.google.com/drive/1jr_k4awSSW1CBs9ma9oS_WnDblDjX3pc?usp=sharing)<p>
 <p>
 <hr>
 <p>
@@ -429,7 +429,7 @@ Your calculator should do the following:<br>
 <p>
 
 Work through the certification notebook first, then if you are stuck the following video is a walkthrough of that assignment.<p>
-[video - Certification 2 walkthrough](https://www.youtube.com/embed/EM0yNdZBdfQ)<p>
+[video 22 - Certification 2 walkthrough](https://www.youtube.com/embed/EM0yNdZBdfQ)<p>
 <p>
 <hr>
 <p>
@@ -439,25 +439,25 @@ Work through the certification notebook first, then if you are stuck the followi
 
 ## Week 11 - Parent Graphs and Polynomials<p>
 This unit will show you many different types of "parent" graphs, the basic patterns that make up more complicated graphs. Polynomials are mathematical expressions with "multiple things" - the more complicated equations that are built with basic patterns. You will see what these graphs look like, how to modify them, and how to do this all with Python code.<p>
-[video](https://www.youtube.com/embed/6S2QhY8rIcw)<p>
+[video 23](https://www.youtube.com/embed/6S2QhY8rIcw)<p>
 <p>
 <hr>
 <p>
  
 Here is the Colab notebook to go along with the video:<p>
-[Parent graph notebook](https://colab.research.google.com/drive/1uwKuaHCC2WCUFKmXW-5NqWUlEP9ak7Pz?usp=sharing)<p>
+[parent graph notebook](https://colab.research.google.com/drive/1uwKuaHCC2WCUFKmXW-5NqWUlEP9ak7Pz?usp=sharing)<p>
 <p>
 <hr>
 <p>
  
 This next video will show you how to add sliders to your graphs, to see them change in real time. You will also see ways to use loops to find the roots of a graph, and how this method is different from factoring.<p>
-[video](https://www.youtube.com/embed/YDlXmmRgQJI)<p>
+[video 24](https://www.youtube.com/embed/YDlXmmRgQJI)<p>
 <p>
 <hr>
 <p>
  
 So that you can copy the code for sliders and things here is the Colab notebook to go along with the last video:<p>
-[Sliders and loops notebook](https://colab.research.google.com/drive/1bspkmQVcKOXUuk-Orb0Mwl0GUGbqMpka?usp=sharing)<p>
+[sliders and loops notebook](https://colab.research.google.com/drive/1bspkmQVcKOXUuk-Orb0Mwl0GUGbqMpka?usp=sharing)<p>
 <p>
 <hr>
 <p>
@@ -484,7 +484,7 @@ So that you can copy the code for sliders and things here is the Colab notebook 
   
 ## Week 12 - Business Applications<p>
 This unit will show you how to apply your solving and graphing skills to find cost, revenue, and profit. You will write code to develop a demand function from two points. You will see how price affects the profit graph and how all of these equations relate to each other.<p>
-[video](https://www.youtube.com/embed/8PIZmiMFmfk)<p>
+[video 25](https://www.youtube.com/embed/8PIZmiMFmfk)<p>
 <p>
 <hr>
 <p>
@@ -494,13 +494,13 @@ This unit will show you how to apply your solving and graphing skills to find co
 <hr>
 <p>
 
-Assignment: Practice problems from textbook 1 pages 155 and 163<p>
+Assignment: practice problems from textbook 1 pages 155 and 163<p>
 <p>
 <hr>
 <p>
 
 Here is a video showing you some economics applications, creating graphs and formulas:<p>
-[video](https://www.youtube.com/embed/9n_ZybF0Phc)<p> 
+[video 26](https://www.youtube.com/embed/9n_ZybF0Phc)<p> 
 <p>
 <hr>
 <p>
@@ -510,7 +510,7 @@ Here is a video showing you some economics applications, creating graphs and for
 
 ## Week 13 - Simple and Compound Interest<p>
 This unit will show you how to calculate interest, loan payments, and the estimated value of investments. You will see the math formula and turn that into code. Because these formulas tend to get complicated, you will appreciate having the code where you can just modify a few values. First, you will get to understand the equations and what it all means.<p>
-[video](https://www.youtube.com/embed/iMPFK7wXNPg)<p>
+[video 27](https://www.youtube.com/embed/iMPFK7wXNPg)<p>
 <p>
 <hr>
 <p>
@@ -521,13 +521,13 @@ This unit will show you how to calculate interest, loan payments, and the estima
 <p>
 
 Here is a Colab notebook that shows you one way to put many of these interest and payment forumals into Python functions. Also you will see an example of using some formulas to output results, notice a trend, and follow up with other formulas to analyze patterns:<p> 
-[Interest formulas with sliders](https://colab.research.google.com/drive/1-HWYmzKn6HmEUWMBv7G525CpoQpm8TnN?usp=sharing)<p>
+[interest formulas with sliders](https://colab.research.google.com/drive/1-HWYmzKn6HmEUWMBv7G525CpoQpm8TnN?usp=sharing)<p>
 <p>
 <hr>
 <p>
 
 Here is a detour from the Python code, as this video shows you how to create mortgage payment amortization tables in Google Sheets. You will also learn about how to use a very similar setup to estimate retirement account investment returns. This is the video that shows you where your money is going.<p>
-[Video](https://www.youtube.com/embed/2cbrstoKNSc)<p>
+[video 28](https://www.youtube.com/embed/2cbrstoKNSc)<p>
 <p>
 <hr>
 <p>
@@ -537,7 +537,7 @@ Here is a detour from the Python code, as this video shows you how to create mor
 
 ## Week 14 - Exponents and Logarithms<p>
 This unit will show you how exponents and logarithms are inverse functions, and how you can use these functions in various applications<p>
-[video](https://www.youtube.com/embed/LhzmzugFFu8)<p>
+[video 29](https://www.youtube.com/embed/LhzmzugFFu8)<p>
 <p>
 <hr>
 <p>
@@ -549,7 +549,7 @@ Here is the notebook so that you can reference the code from the video:<p>
 <p>
 
 Now you are ready for the Foundational Math Certification 3<p>
-Assignment: [Certification 3 Colab](https://colab.research.google.com/drive/1zUAVAkwyjat4Z-8nfrajM1ut9UcO18We?usp=sharing)<p>
+Assignment: [Foundational Math Certification 3](https://colab.research.google.com/drive/1zUAVAkwyjat4Z-8nfrajM1ut9UcO18We?usp=sharing)<p>
 <p>
 <hr>
 <p>
@@ -570,7 +570,7 @@ Your calculator should do the following:<br>
 <p>
 
 If you had any questions or if you wanted some deeper insight into everything in the Certification 3 notebook, here is a video of a complete walkthrough with additional comments and explanations:<p>
-[Certification 3 walkthrough video](https://www.youtube.com/embed/c2AhGd6srJ0)<p>
+[video 30 - Certification 3 walkthrough](https://www.youtube.com/embed/c2AhGd6srJ0)<p>
 <p>
 <hr>
 <p>
@@ -580,13 +580,13 @@ If you had any questions or if you wanted some deeper insight into everything in
 
 ## Week 15 - Conclusion and Additional Resources<p>
 This will be the last unit in this course. Let's look at how you can connect your Math and Python knowledge with external data. This video will show you how to get data from other sources, then transform it so that you can graph it and interpret it:<p>
-[Graphing external data video](https://www.youtube.com/embed/JH9Uk2mi3Dc)<p>
+[video 31 - graphing external data](https://www.youtube.com/embed/JH9Uk2mi3Dc)<p>
 <p>
 <hr>
 <p>
 
 One more thing... This brief video will show you some of the resources available to you in Google Colab notebooks. <p>
-[Link to video](https://www.youtube.com/embed/HNFrRHqpck4)<p>
+[video 32](https://www.youtube.com/embed/HNFrRHqpck4)<p>
 <p>
 <hr>
 <p>
@@ -619,7 +619,7 @@ Put all of your projects, and any other functions or formulas you want, into one
 
  
 The next course will build upon the skills you learned here. You will learn more ways to get data and more mathematical operations to transform and analyze that data in different ways. Continue to build your personal Colab notebook, adding new formulas and functions.<p>
-[Last video](https://www.youtube.com/embed/L5hh3Og9RCU)<p>
+[video 33 - end of course](https://www.youtube.com/embed/L5hh3Og9RCU)<p>
 <p>
 <hr>
 <p>
