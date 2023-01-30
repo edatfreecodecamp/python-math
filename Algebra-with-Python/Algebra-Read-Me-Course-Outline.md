@@ -78,7 +78,7 @@ __ almost 1<br>
 ## Week 2 - Solving for X<p>
 This unit will focus on how to solve for an unknown number (often referred to as "x") using written Algebra and Python code. This first video will show you the essence of Algebra and then how Python code does the same task in a different way.<p>
  
-[video - solving for x](https://www.youtube.com/embed/SAVDhkGst6Y)<p>
+[video 4 - solving for x](https://www.youtube.com/embed/SAVDhkGst6Y)<p>
 
 Question:<br>
 In Python, what is the library you import to solve Algebra problems with variables?<br>
@@ -107,7 +107,7 @@ Assignment: [Practice in Colab notebook](https://colab.research.google.com/drive
 <p>
  
 The next video will go deeper, with more examples of how to use SymPy solve. It will also explain how the practice functions generate the random problems.<p> 
-[video - Extra problems](https://www.youtube.com/embed/lFTCVUCbNoM)<p>
+[video 5 - Extra problems](https://www.youtube.com/embed/lFTCVUCbNoM)<p>
 
 Question:<br>
 If you import sympy and define x as a variable, what would be the output of sympy.solve(x**2-4,0)?<br>
@@ -132,7 +132,7 @@ Here is the Colab notebook to go along with extra problems. Use it to add more t
 ## Week 3 - Fractions, Decimals, and Percents<p>
 This unit will focus on converting decimals to fractions and percents. The first video will show you how to do this on paper, and then show you how to do it with Python code.<p>
  
-[video](https://www.youtube.com/embed/hVHWr4KXZn0&t=1s)<p>
+[video 6](https://www.youtube.com/embed/hVHWr4KXZn0&t=1s)<p>
 
 [comment]: <> (video error)
 <p>
@@ -152,7 +152,7 @@ Assignment: [Practice notebook](https://colab.research.google.com/drive/1qON4GYb
 <p>
 The following video will show you one way to set up your Google Colaboratory notebook, so that you can continue to build your personalized Algebra calculator.<p>
  
-[video - Extra](https://www.youtube.com/embed/YHVA6cYIglM)<p>
+[video 7](https://www.youtube.com/embed/YHVA6cYIglM)<p>
  
 Question:<br>
 Which of the following languages can you not use in Google Colaboratory?<br>
