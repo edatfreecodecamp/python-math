@@ -116,7 +116,7 @@ __ (x + 2)(x - 2)<br>
 __ sqrt(2)<br>
 __ 2, -2<br>
  
-[comment]: <> (x+2 x-2 is correct)
+[comment]: <> (2,-2 is correct)
 <p>
 <hr>
 <p>
