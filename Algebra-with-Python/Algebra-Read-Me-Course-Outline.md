@@ -204,7 +204,7 @@ Here is the Colab notebook with the function code and basic graphing code, so yo
 <p> 
  
 This video will give you a deeper dive and show you more about how to customize graphs in Python.<p>
-[video 9 - extra](https://www.youtube.com/embed/vUefCkh8-wc)<p>
+[video 10](https://www.youtube.com/embed/vUefCkh8-wc)<p>
 <p>
 <hr>
 <p> 
@@ -220,13 +220,13 @@ Here is the Colab notebook from the last video, so you can copy the little detai
  
 ## Week 5 - Linear Functions<p>
 This unit will show you how to develop linear equations from two points. You will also learn how to graph linear functions and see how an equation, a graph, and a table of (x,y) values are all connected. The first video will focus on the slope of a line and how to calculate it.<p>
-[video 10](https://www.youtube.com/embed/nURsz7SR5aM)<p>
+[video 11](https://www.youtube.com/embed/nURsz7SR5aM)<p>
 <p>
 <hr>
 <p> 
  
 Here is a video to show you the math behind finding the y-intercept in a linear function, so you can develop the whole equation. Then the video will show you how to graph the whole function. You will also see how to do the whole process with Python code.<p>
-[video 11](https://www.youtube.com/embed/u0bgovPh4ME)<p>
+[video 12](https://www.youtube.com/embed/u0bgovPh4ME)<p>
 <p>
 <hr>
 <p> 
@@ -243,7 +243,7 @@ Assignment: Create your own Colab notebook to graph a function from points or fr
 <p> 
  
 This video will give you a deeper look into developing equations from word problems (so then you can write the code to solve or graph those equations). The video will also begin to look at data points as (x,y) coordinates. With this, you will begin to see the connection between Algebra and data science.<p>
-[video 12 - word problems](https://www.youtube.com/embed/Emeex5gi5uA)<p>
+[video 13 - word problems](https://www.youtube.com/embed/Emeex5gi5uA)<p>
 <p>
 <hr>
 <p> 
@@ -259,7 +259,7 @@ Here is the Colab notebook to go along with the previous video. The code in it s
  
 ## Week 6 - Common Factors and Square Roots<p>
 In this unit, you will learn how to find common factors and divide them out. This will be useful when simplifying fractions and factoring square roots. The first video will show you how to do this - in writing, then in code using loops and modulus operations. The larger assignment in this unit is first Foundational Math notebook.<p>
-[video 13](https://www.youtube.com/embed/Puyp_-ZYA54)<p>
+[video 14](https://www.youtube.com/embed/Puyp_-ZYA54)<p>
 <p>
 <hr>
 <p> 
@@ -292,7 +292,7 @@ Your calculator should take input and do the following:<br>
 <p> 
 
 Work through the certifation assignment first. If you are really stuck or need more guidance, this video is a walkthrough of the whole certification.<p>
-[video 14 - Certification 1 walkthrough](https://www.youtube.com/embed/PdsvcZNPEEs)<p>
+[video 15 - Certification 1 walkthrough](https://www.youtube.com/embed/PdsvcZNPEEs)<p>
 <p>
 <hr>
 <p> 
@@ -302,7 +302,7 @@ Work through the certifation assignment first. If you are really stuck or need m
  
 ## Week 7 - Graphing Systems of Equations<p>
 This unit will focus on graphing two equations on the same coordinate plane, so that you can see where the lines intersect. The first video, like usual, will show you how do do this with written math, then how to do this with code<p>
-[video 15](https://www.youtube.com/embed/FxSIFR4zsrE)<p>
+[video 16](https://www.youtube.com/embed/FxSIFR4zsrE)<p>
 <p>
 <hr>
 <p> 
@@ -319,7 +319,7 @@ Assignment: Add that code to the Algebra notebook you are building, and test it 
 <p> 
  
 This next video will give you a deeper dive into what you can do with graphing systems of equations, graphing inequalities, and shading above or below the line. You will also see how to download the graph to your computer or your Google Drive.<p> 
-[video 16 - extra graphing](https://www.youtube.com/embed/q8ad1tTFqns)<p>
+[video 17](https://www.youtube.com/embed/q8ad1tTFqns)<p>
 <p>
 <hr>
 <p> 
@@ -335,7 +335,7 @@ So that you can go back and reference the code, here is the notebook used in the
  
 ## Week 8 - Solving Systems of Equations<p>
 In this unit, you will learn how to solve a system of two equations (with two variables) without graphing. You will see how you can factor an equation and solve eor a certain variable in Python. By the end of this unit, you will be able to solve and graph the system with one block of code. The first video will show you the math behind this process, and then how Python handlses it.<p>
-[video 17](https://www.youtube.com/embed/CNGUQzXfC6c)<p>
+[video 18](https://www.youtube.com/embed/CNGUQzXfC6c)<p>
 <p>
 <hr>
 <p>
@@ -353,7 +353,7 @@ Assignment: Create your own Colab notebook to solve and graph systems of equatio
 <p>
  
 This video will show you one way to create your super calculator that solves and graphs. It will also show you how to zoom in or zoom out on the graph and write the code to build that feature.<p>
-[video 18 - extra solving and graphing](https://www.youtube.com/embed/856p7t2V9NY)<p>
+[video 19](https://www.youtube.com/embed/856p7t2V9NY)<p>
 <p>
 <hr>
 <p> 
@@ -369,7 +369,7 @@ Here is a sample Colab notebook to go along with the video. This will give you a
  
 ## Week 9 - Applications of Linear Systems<p>
 In this unit, you will see how you can use the Algebra you learned so far to solve real world problems. The first video will look at key words that tell you what math operation to use. Then you will see how to apply some of your code to different problems.<p>
-[video 19](https://www.youtube.com/embed/3ZM3XMn1QYo)<p>
+[video 20](https://www.youtube.com/embed/3ZM3XMn1QYo)<p>
 <p>
 <hr>
 <p>
@@ -386,7 +386,7 @@ Assignment: problems from textbook 1 pages 63, 75, 85, 118, problems from textbo
 <p>
  
 The next video contains more examples of how to set up equations and use your Colab notebook to solve them.<p>
-[video 20](https://www.youtube.com/embed/ZtypoUnNdAY)<p>
+[video 21](https://www.youtube.com/embed/ZtypoUnNdAY)<p>
 <p>
 <hr>
 <p>
@@ -396,7 +396,7 @@ The next video contains more examples of how to set up equations and use your Co
  
 ## Week 10 - Quadratic Equations<p>
 This unit will go beyond linear equations, to work with exponents and graph parabolas. You will learn how to find key points in parabolas and how to solve quadratic equations. This video will also explain the coefficients ("A," "B," and "C") in the standard form and how to use them to find the roots and vertex.<p>
-[video 21](https://www.youtube.com/embed/pPLBL3L0OGg)<p>
+[video 22](https://www.youtube.com/embed/pPLBL3L0OGg)<p>
 <p>
 <hr>
 <p>
@@ -429,7 +429,7 @@ Your calculator should do the following:<br>
 <p>
 
 Work through the certification notebook first, then if you are stuck the following video is a walkthrough of that assignment.<p>
-[video 22 - Certification 2 walkthrough](https://www.youtube.com/embed/EM0yNdZBdfQ)<p>
+[video 23 - Certification 2 walkthrough](https://www.youtube.com/embed/EM0yNdZBdfQ)<p>
 <p>
 <hr>
 <p>
@@ -439,7 +439,7 @@ Work through the certification notebook first, then if you are stuck the followi
 
 ## Week 11 - Parent Graphs and Polynomials<p>
 This unit will show you many different types of "parent" graphs, the basic patterns that make up more complicated graphs. Polynomials are mathematical expressions with "multiple things" - the more complicated equations that are built with basic patterns. You will see what these graphs look like, how to modify them, and how to do this all with Python code.<p>
-[video 23](https://www.youtube.com/embed/6S2QhY8rIcw)<p>
+[video 24](https://www.youtube.com/embed/6S2QhY8rIcw)<p>
 <p>
 <hr>
 <p>
@@ -451,7 +451,7 @@ Here is the Colab notebook to go along with the video:<p>
 <p>
  
 This next video will show you how to add sliders to your graphs, to see them change in real time. You will also see ways to use loops to find the roots of a graph, and how this method is different from factoring.<p>
-[video 24](https://www.youtube.com/embed/YDlXmmRgQJI)<p>
+[video 25](https://www.youtube.com/embed/YDlXmmRgQJI)<p>
 <p>
 <hr>
 <p>
@@ -484,7 +484,7 @@ So that you can copy the code for sliders and things here is the Colab notebook 
   
 ## Week 12 - Business Applications<p>
 This unit will show you how to apply your solving and graphing skills to find cost, revenue, and profit. You will write code to develop a demand function from two points. You will see how price affects the profit graph and how all of these equations relate to each other.<p>
-[video 25](https://www.youtube.com/embed/8PIZmiMFmfk)<p>
+[video 26](https://www.youtube.com/embed/8PIZmiMFmfk)<p>
 <p>
 <hr>
 <p>
@@ -500,7 +500,7 @@ Assignment: practice problems from textbook 1 pages 155 and 163<p>
 <p>
 
 Here is a video showing you some economics applications, creating graphs and formulas:<p>
-[video 26](https://www.youtube.com/embed/9n_ZybF0Phc)<p> 
+[video 27](https://www.youtube.com/embed/9n_ZybF0Phc)<p> 
 <p>
 <hr>
 <p>
@@ -510,7 +510,7 @@ Here is a video showing you some economics applications, creating graphs and for
 
 ## Week 13 - Simple and Compound Interest<p>
 This unit will show you how to calculate interest, loan payments, and the estimated value of investments. You will see the math formula and turn that into code. Because these formulas tend to get complicated, you will appreciate having the code where you can just modify a few values. First, you will get to understand the equations and what it all means.<p>
-[video 27](https://www.youtube.com/embed/iMPFK7wXNPg)<p>
+[video 28](https://www.youtube.com/embed/iMPFK7wXNPg)<p>
 <p>
 <hr>
 <p>
@@ -527,7 +527,7 @@ Here is a Colab notebook that shows you one way to put many of these interest an
 <p>
 
 Here is a detour from the Python code, as this video shows you how to create mortgage payment amortization tables in Google Sheets. You will also learn about how to use a very similar setup to estimate retirement account investment returns. This is the video that shows you where your money is going.<p>
-[video 28](https://www.youtube.com/embed/2cbrstoKNSc)<p>
+[video 29](https://www.youtube.com/embed/2cbrstoKNSc)<p>
 <p>
 <hr>
 <p>
@@ -537,7 +537,7 @@ Here is a detour from the Python code, as this video shows you how to create mor
 
 ## Week 14 - Exponents and Logarithms<p>
 This unit will show you how exponents and logarithms are inverse functions, and how you can use these functions in various applications<p>
-[video 29](https://www.youtube.com/embed/LhzmzugFFu8)<p>
+[video 30](https://www.youtube.com/embed/LhzmzugFFu8)<p>
 <p>
 <hr>
 <p>
@@ -570,7 +570,7 @@ Your calculator should do the following:<br>
 <p>
 
 If you had any questions or if you wanted some deeper insight into everything in the Certification 3 notebook, here is a video of a complete walkthrough with additional comments and explanations:<p>
-[video 30 - Certification 3 walkthrough](https://www.youtube.com/embed/c2AhGd6srJ0)<p>
+[video 31 - Certification 3 walkthrough](https://www.youtube.com/embed/c2AhGd6srJ0)<p>
 <p>
 <hr>
 <p>
@@ -580,13 +580,13 @@ If you had any questions or if you wanted some deeper insight into everything in
 
 ## Week 15 - Conclusion and Additional Resources<p>
 This will be the last unit in this course. Let's look at how you can connect your Math and Python knowledge with external data. This video will show you how to get data from other sources, then transform it so that you can graph it and interpret it:<p>
-[video 31 - graphing external data](https://www.youtube.com/embed/JH9Uk2mi3Dc)<p>
+[video 32 - graphing external data](https://www.youtube.com/embed/JH9Uk2mi3Dc)<p>
 <p>
 <hr>
 <p>
 
 One more thing... This brief video will show you some of the resources available to you in Google Colab notebooks. <p>
-[video 32](https://www.youtube.com/embed/HNFrRHqpck4)<p>
+[video 33](https://www.youtube.com/embed/HNFrRHqpck4)<p>
 <p>
 <hr>
 <p>
@@ -619,7 +619,7 @@ Put all of your projects, and any other functions or formulas you want, into one
 
  
 The next course will build upon the skills you learned here. You will learn more ways to get data and more mathematical operations to transform and analyze that data in different ways. Continue to build your personal Colab notebook, adding new formulas and functions.<p>
-[video 33 - end of course](https://www.youtube.com/embed/L5hh3Og9RCU)<p>
+[video 34 - end of course](https://www.youtube.com/embed/L5hh3Og9RCU)<p>
 <p>
 <hr>
 <p>
