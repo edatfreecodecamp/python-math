@@ -110,13 +110,18 @@ The next video will go deeper, with more examples of how to use SymPy solve. It 
 [video 5 - extra problems](https://www.youtube.com/embed/lFTCVUCbNoM)<p>
 
 Question:<br>
-If you import sympy and define x as a variable, what would be the output of sympy.solve(x**2-4,0)?<br>
-__ x<sup>2</sup> - 4<br>
-__ (x + 2)(x - 2)<br>
-__ sqrt(2)<br>
-__ 2, -2<br>
+If you import sympy and define x as a variable,  what would be the input from the following code?<br>
+  example = 3*x - 12<br>
+  equation = Eq(example,0)<br>
+  solution = solve(equation,x)<br>
+  print(solution)<br>
+ <br>
+__ 3<br>
+__ 4<br>
+__ [4]<br>
+__ x = 4<br>
  
-[comment]: <> (2,-2 is correct)
+[comment]: <> (4 with brackets is correct)
 <p>
 <hr>
 <p>
