@@ -139,7 +139,14 @@ This unit will focus on converting decimals to fractions and percents. The first
  
 [video 6](https://youtu.be/i7vOAcUo5iA?t=4064)<p>
 
-[comment]: <> (video error)
+Question<br>
+Which of the following correctly represents "three hundreths" as a decimal?<br>
+__ 0.3<br>
+__ 0.03<br>
+__ 0.003<br>
+__ 100.3<br>
+<br>
+[comment]: <> (0.03 is correct)<br>
 <p>
 <hr>
 <p>
