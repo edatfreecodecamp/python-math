@@ -216,7 +216,7 @@ Here is the Colab notebook with the function code and basic graphing code, so yo
 <p> 
  
 This video will give you a deeper dive and show you more about how to customize graphs in Python.<p>
-[video 10](https://www.youtube.com/embed/vUefCkh8-wc)<p>
+[video 10](https://www.youtube.com/embed/N7Fh1xKrIM4)<p>
 <p>
 <hr>
 <p> 
