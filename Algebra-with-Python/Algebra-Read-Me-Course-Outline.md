@@ -145,10 +145,8 @@ __ 0.3<br>
 __ 0.03<br>
 __ 0.003<br>
 __ 100.3<br>
-<br>
  
-[comment]: <> (0.03 is correct)<br>
- 
+[comment]: <> (0.03 is correct)
 <p>
 <hr>
 <p>
