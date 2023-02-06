@@ -192,6 +192,16 @@ Here is the Colab notebook used in the video, so you can use it as a model.<p>
 This unit will teach you about math functions. The first video will show you what it means to be a function, and then it will show you how math functions and Python functions are similar.<p>
  
 [video 8](https://www.youtube.com/embed/rYg12-omcGg)<p>
+
+Question<br>
+After defining a function in Python, indent each line of the function how many spaces?<br>
+__ 2<br>
+__ 3<br>
+__ 4<br>
+__ 5<br>
+
+[comment]: <> (4 is the correct answer)
+
 <p>
 <hr>
 <p> 
@@ -205,6 +215,16 @@ Assignment: Create Python functions for the decimal-to-fraction conversions from
 This next video will show you the connection between functions and graphing. Notice how the graph is a way to represent the inputs and outputs of a function. Then the video will show you how to graph a function with Python.<p> 
  
 [video 9](https://www.youtube.com/embed/vUefCkh8-wc)<p>
+ 
+Question<br>
+Which of the following would put a blue line on a graph?<br>
+__ plt.plot([0,0],[10,10],'b-')<br>
+__ plt.plot([0,0],[10,10],'bo')<br>
+__ plt.plot([0,10],[0,10],'b')<br>
+__ plt.plot([10,10],[10,10],'b^')<br>
+
+[comment]: <> (third option is correct)
+
 <p>
 <hr>
 <p> 
@@ -217,6 +237,16 @@ Here is the Colab notebook with the function code and basic graphing code, so yo
  
 This video will give you a deeper dive and show you more about how to customize graphs in Python.<p>
 [video 10](https://www.youtube.com/embed/N7Fh1xKrIM4)<p>
+ 
+Question<br>
+What Python library would you import to create arrays that you can graph?<br>
+__ nimby<br>
+__ numpy<br>
+__ math<br>
+__ graph<br>
+
+[comment]: <> (numpy is correct)
+
 <p>
 <hr>
 <p> 
@@ -233,12 +263,32 @@ Here is the Colab notebook from the last video, so you can copy the little detai
 ## Week 5 - Linear Functions<p>
 This unit will show you how to develop linear equations from two points. You will also learn how to graph linear functions and see how an equation, a graph, and a table of (x,y) values are all connected. The first video will focus on the slope of a line and how to calculate it.<p>
 [video 11](https://www.youtube.com/embed/nURsz7SR5aM)<p>
+ 
+Question<br>
+If you have already defined these variables, wWhich of the follwing is the correct slope formula?<br>
+__ slope = (x1 - x2) / (y1 - y2)<br>
+__ slope = (x2 - x1) / (y2 - y1)<br>
+__ slope = (x1 - y1) / (x2 - y2)<br>
+__ slope = (y2 - y1) / (x2 - x1)<br>
+
+[comment]: <> (y2 - y1, the last option, is correct)
+
 <p>
 <hr>
 <p> 
  
 Here is a video to show you the math behind finding the y-intercept in a linear function, so you can develop the whole equation. Then the video will show you how to graph the whole function. You will also see how to do the whole process with Python code.<p>
 [video 12](https://www.youtube.com/embed/u0bgovPh4ME)<p>
+
+Question<br>
+If you know the slope ("m") and you have one (x,y) coordinate point, which of the following equations could you use to find "b," representing the y-intercept in Python?<br>
+__ y = mx +b<br>
+__ b = y - m*x<br>
+__ ax + by = c<br>
+__ (y2-y1)/(x2-x1)=m<br>
+
+[comment]: <> (b=y-m*x is correct)
+ 
 <p>
 <hr>
 <p> 
@@ -256,6 +306,16 @@ Assignment: Create your own Colab notebook to graph a function from points or fr
  
 This video will give you a deeper look into developing equations from word problems (so then you can write the code to solve or graph those equations). The video will also begin to look at data points as (x,y) coordinates. With this, you will begin to see the connection between Algebra and data science.<p>
 [video 13 - word problems](https://www.youtube.com/embed/Emeex5gi5uA)<p>
+
+Question<br>
+Which of the following would you not use when displaying a graph?<br>
+__ ax.set_xlabel("x values")<br>
+__ ax.set_ylabel("y values")<br>
+__ ax.grid(True)<br>
+__ ax.set_table()<br>
+
+[comment]: <> (ax.set_table is correct)
+
 <p>
 <hr>
 <p> 
@@ -272,6 +332,16 @@ Here is the Colab notebook to go along with the previous video. The code in it s
 ## Week 6 - Common Factors and Square Roots<p>
 In this unit, you will learn how to find common factors and divide them out. This will be useful when simplifying fractions and factoring square roots. The first video will show you how to do this - in writing, then in code using loops and modulus operations. The larger assignment in this unit is first Foundational Math notebook.<p>
 [video 14](https://www.youtube.com/embed/Puyp_-ZYA54)<p>
+
+Question<br>
+What does the modulus(%) operator do in Python?<br>
+__ returns the percent<br>
+__ divides<br>
+__ returns the remainder when dividing<br>
+__ creates a space<br>
+
+[comment]: <> (returns the remainder when dividing is correct)
+
 <p>
 <hr>
 <p> 
@@ -305,6 +375,16 @@ Your calculator should take input and do the following:<br>
 
 Work through the certifation assignment first. If you are really stuck or need more guidance, this video is a walkthrough of the whole certification.<p>
 [video 15 - Certification 1 walkthrough](https://www.youtube.com/embed/PdsvcZNPEEs)<p>
+
+Question<br>
+What is a number that only has one and itself as factors?<br>
+__ prime<br>
+__ composite<br>
+__ rare<br>
+__ natural<br>
+
+[comment]: <> (prime is correct)
+
 <p>
 <hr>
 <p> 
