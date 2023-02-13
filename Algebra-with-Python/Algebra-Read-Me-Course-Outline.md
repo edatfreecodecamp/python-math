@@ -426,7 +426,7 @@ So that you can go back and reference the code, here is the notebook used in the
 <p> 
  
 ## Week 8 - Solving Systems of Equations<p>
-In this unit, you will learn how to solve a system of two equations (with two variables) without graphing. You will see how you can factor an equation and solve eor a certain variable in Python. By the end of this unit, you will be able to solve and graph the system with one block of code. The first video will show you the math behind this process, and then how Python handlses it.<p>
+In this unit, you will first learn how to solve a system of two equations (with two variables) without graphing. You will then see how you can factor an equation and solve for a certain variable in Python. By the end of this video, you will be able to solve and graph a system of equations with one block of code. This video will show you the math behind this process, and then how Python handlses it.<p>
 [video 18](https://www.youtube.com/embed/CNGUQzXfC6c)<p>
 <p>
 <hr>
