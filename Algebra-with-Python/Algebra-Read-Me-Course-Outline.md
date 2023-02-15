@@ -139,7 +139,7 @@ This unit will focus on converting decimals to fractions and percents. The first
  
 [video 6](https://youtu.be/i7vOAcUo5iA?t=4064)<p>
 
-Question<br>
+Question:<br>
 Which of the following correctly represents "three hundreths" as a decimal?<br>
 __ 0.3<br>
 __ 0.03<br>
@@ -193,7 +193,7 @@ This unit will teach you about math functions. The first video will show you wha
  
 [video 8](https://www.youtube.com/embed/rYg12-omcGg)<p>
 
-Question<br>
+Question:<br>
 After defining a function in Python, indent each line of the function how many spaces?<br>
 __ 2<br>
 __ 3<br>
@@ -216,7 +216,7 @@ This next video will show you the connection between functions and graphing. Not
  
 [video 9](https://www.youtube.com/embed/vUefCkh8-wc)<p>
  
-Question<br>
+Question:<br>
 Which of the following would put a blue line on a graph?<br>
 __ plt.plot([0,0],[10,10],'b-')<br>
 __ plt.plot([0,0],[10,10],'bo')<br>
@@ -238,7 +238,7 @@ Here is the Colab notebook with the function code and basic graphing code, so yo
 This video will give you a deeper dive and show you more about how to customize graphs in Python.<p>
 [video 10](https://www.youtube.com/embed/N7Fh1xKrIM4)<p>
  
-Question<br>
+Question:<br>
 What Python library would you import to create arrays that you can graph?<br>
 __ nimby<br>
 __ numpy<br>
@@ -264,7 +264,7 @@ Here is the Colab notebook from the last video, so you can copy the little detai
 This unit will show you how to develop linear equations from two points. You will also learn how to graph linear functions and see how an equation, a graph, and a table of (x,y) values are all connected. The first video will focus on the slope of a line and how to calculate it.<p>
 [video 11](https://www.youtube.com/embed/nURsz7SR5aM)<p>
  
-Question<br>
+Question:<br>
 If you have already defined these variables, wWhich of the follwing is the correct slope formula?<br>
 __ slope = (x1 - x2) / (y1 - y2)<br>
 __ slope = (x2 - x1) / (y2 - y1)<br>
@@ -280,7 +280,7 @@ __ slope = (y2 - y1) / (x2 - x1)<br>
 Here is a video to show you the math behind finding the y-intercept in a linear function, so you can develop the whole equation. Then the video will show you how to graph the whole function. You will also see how to do the whole process with Python code.<p>
 [video 12](https://www.youtube.com/embed/u0bgovPh4ME)<p>
 
-Question<br>
+Question:<br>
 If you know the slope ("m") and you have one (x,y) coordinate point, which of the following equations could you use to find "b," representing the y-intercept in Python?<br>
 __ y = mx +b<br>
 __ b = y - m*x<br>
@@ -307,7 +307,7 @@ Assignment: Create your own Colab notebook to graph a function from points or fr
 This video will give you a deeper look into developing equations from word problems (so then you can write the code to solve or graph those equations). The video will also begin to look at data points as (x,y) coordinates. With this, you will begin to see the connection between Algebra and data science.<p>
 [video 13 - word problems](https://www.youtube.com/embed/Emeex5gi5uA)<p>
 
-Question<br>
+Question:<br>
 Which of the following would you not use when displaying a graph?<br>
 __ ax.set_xlabel("x values")<br>
 __ ax.set_ylabel("y values")<br>
@@ -333,7 +333,7 @@ Here is the Colab notebook to go along with the previous video. The code in it s
 In this unit, you will learn how to find common factors and divide them out. This will be useful when simplifying fractions and factoring square roots. The first video will show you how to do this - in writing, then in code using loops and modulus operations. The larger assignment in this unit is first Foundational Math notebook.<p>
 [video 14](https://www.youtube.com/embed/Puyp_-ZYA54)<p>
 
-Question<br>
+Question:<br>
 What does the modulus(%) operator do in Python?<br>
 __ returns the percent<br>
 __ divides<br>
@@ -376,7 +376,7 @@ Your calculator should take input and do the following:<br>
 Work through the certifation assignment first. If you are really stuck or need more guidance, this video is a walkthrough of the whole certification.<p>
 [video 15 - Certification 1 walkthrough](https://www.youtube.com/embed/PdsvcZNPEEs)<p>
 
-Question<br>
+Question:<br>
 What is a number that only has one and itself as factors?<br>
 __ prime<br>
 __ composite<br>
@@ -396,7 +396,7 @@ __ natural<br>
 This unit will focus on graphing two equations on the same coordinate plane, so that you can see where the lines intersect. The first video, like usual, will show you how do do this with written math, then how to do this with code<p>
 [video 16](https://www.youtube.com/embed/FxSIFR4zsrE)<p>
  
-Question<br> 
+Question:<br> 
 The numpy linspace() function takes three arguments to create an array. Which of the following arguments does it not take?<br>
 __ Minimum value<br>
 __ Maximum value<br>
@@ -424,7 +424,7 @@ Assignment: Add that code to the Algebra notebook you are building, and test it 
 This next video will give you a deeper dive into what you can do with graphing systems of equations, graphing inequalities, and shading above or below the line. You will also see how to download the graph to your computer or your Google Drive.<p> 
 [video 17](https://www.youtube.com/embed/q8ad1tTFqns)<p>
  
-Question<br> 
+Question:<br> 
 If you want to create an interactive plot with a slider to zoom in and out, where does most of the graphing code appear?<br>
 __ Within the interactive() function<br>
 __ In the slider<br>
@@ -451,7 +451,7 @@ So that you can go back and reference the code, here is the notebook used in the
 In this unit, you will first learn how to solve a system of two equations (with two variables) without graphing. You will then see how you can factor an equation and solve for a certain variable in Python. By the end of this video, you will be able to solve and graph a system of equations with one block of code. This video will show you the math behind this process, and then how to do it all with Python code.<p>
 [video 18](https://www.youtube.com/embed/CNGUQzXfC6c)<p>
  
-Question<br>
+Question:<br>
 Which of the following can SymPy do that matplotlib can't do?<br>
 __ Solve for a variable<br>
 __ Display an x-y axis<br>
@@ -480,7 +480,7 @@ Assignment: Create your own Colab notebook to solve and graph systems of equatio
 This video will show you one way to create your super calculator that solves and graphs. It will also show you how to zoom in or zoom out on the graph and write the code to build that feature.<p>
 [video 19](https://www.youtube.com/embed/856p7t2V9NY)<p>
  
-Question<br> 
+Question:<br> 
 Which of the following is not true?<br>
 __ When graphing, you can adjust your tic marks on each axis<br>
 __ The nonlinsolve() function can solve linear equations<br>
@@ -507,7 +507,7 @@ Here is a sample Colab notebook to go along with the video. This will give you a
 In this unit, you will see how you can use the Algebra you learned so far to solve real world problems. The first video will look at key words that tell you what math operation to use. Then you will see how to apply some of your code to different problems.<p>
 [video 20](https://www.youtube.com/embed/3ZM3XMn1QYo)<p>
 
-Question<br>
+Question:<br>
 Which of the following key words indicate subtraction?<br>
 __ plus, more, increase, up<br>
 __ difference, less, decrease, down<br>
@@ -535,7 +535,7 @@ Assignment: problems from textbook 1 pages 63, 75, 85, 118, problems from textbo
 The next video contains more examples of how to set up equations and use your Colab notebook to solve them.<p>
 [video 21](https://www.youtube.com/embed/ZtypoUnNdAY)<p>
 
-Question<br>
+Question:<br>
 How can you make use of a Colab notebook to solve practical business problems?<br>
 __ Modify the equations in the code you already wrote<br>
 __ Copy your existing code and then modify it as necessary<br>
@@ -556,7 +556,7 @@ __ All of the above<br>
 This unit will go beyond linear equations, to work with exponents and graph parabolas. You will learn how to find key points in parabolas and how to solve quadratic equations. This video will also explain the coefficients ("A," "B," and "C") in the standard form and how to use them to find the roots and vertex.<p>
 [video 22](https://www.youtube.com/embed/pPLBL3L0OGg)<p>
 
-Question<br>
+Question:<br>
 In Python code, what is the formula for the x value of the vertex?<br>
 __ x = -b/2a<br>
 __ x = -b/(2 &ast; a)<br>
@@ -599,6 +599,13 @@ Your calculator should do the following:<br>
 
 Work through the certification notebook first, then if you are stuck the following video is a walkthrough of that assignment.<p>
 [video 23 - Certification 2 walkthrough](https://www.youtube.com/embed/EM0yNdZBdfQ)<p>
+ 
+Question:<br>
+Have you completed Project 2?<br>
+__ Yes<br>
+__ No<br>
+<br>
+
 <p>
 <hr>
 <p>
@@ -609,6 +616,17 @@ Work through the certification notebook first, then if you are stuck the followi
 ## Week 11 - Parent Graphs and Polynomials<p>
 This unit will show you many different types of "parent" graphs, the basic patterns that make up more complicated graphs. Polynomials are mathematical expressions with "multiple things" - the more complicated equations that are built with basic patterns. You will see what these graphs look like, how to modify them, and how to do this all with Python code.<p>
 [video 24](https://www.youtube.com/embed/6S2QhY8rIcw)<p>
+
+Question:<br>
+In numpy, what is the cube root of x?<br>
+__ cbrt(x)<br>
+__ cube_root(x)<br>
+__ root3(x)<br>
+__ root(x,3)<br>
+<br>
+
+[comment]: <> (first option is correct)
+
 <p>
 <hr>
 <p>
@@ -621,6 +639,17 @@ Here is the Colab notebook to go along with the video:<p>
  
 This next video will show you how to add sliders to your graphs, to see them change in real time. You will also see ways to use loops to find the roots of a graph, and how this method is different from factoring.<p>
 [video 25](https://www.youtube.com/embed/YDlXmmRgQJI)<p>
+ 
+Question:<br>
+How many sliders would you add to change the coefficients in a quadratic graph?<br>
+__ 1<br>
+__ 2<br>
+__ 3<br>
+__ 4<br>
+<br>
+
+[comment]: <> (3 is correct)
+
 <p>
 <hr>
 <p>
