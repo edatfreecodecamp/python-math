@@ -559,7 +559,7 @@ This unit will go beyond linear equations, to work with exponents and graph para
 Question<br>
 In Python code, what is the formula for the x value of the vertex?<br>
 __ x = -b/2a<br>
-__ x = -b/(2\*a)<br>
+__ x = -b/(2 &ast; a)<br>
 __ x = b/2a<br>
 __ x = -b/2*a<br>
 <br>
