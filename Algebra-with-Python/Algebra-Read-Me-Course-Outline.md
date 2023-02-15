@@ -46,7 +46,7 @@ __ sometimes<br>
 <p>
  
 This is the Colab notebook to go along with the video. If you have not done it yet, set up your Algebra Colab notebook and add the following code to it.<p>
-link to Colab notebook](https://colab.research.google.com/drive/1Q7nCcbrnoYttkwiHB_nQ-X1JuLpUmtRD?usp=sharing)<p>
+[link to Colab notebook](https://colab.research.google.com/drive/1Q7nCcbrnoYttkwiHB_nQ-X1JuLpUmtRD?usp=sharing)<p>
 <p>
 <hr>
 <p>
