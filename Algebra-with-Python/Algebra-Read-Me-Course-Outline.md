@@ -395,6 +395,17 @@ __ natural<br>
 ## Week 7 - Graphing Systems of Equations<p>
 This unit will focus on graphing two equations on the same coordinate plane, so that you can see where the lines intersect. The first video, like usual, will show you how do do this with written math, then how to do this with code<p>
 [video 16](https://www.youtube.com/embed/FxSIFR4zsrE)<p>
+ 
+Question<br> 
+The numpy linspace() function takes three arguments to create an array. Which of the following arguments does it not take?<br>
+__ Minimum value<br>
+__ Maximum value<br>
+__ Number of items in the array<br>
+__ Formula to generate each item<br>
+<br>
+
+[comment]: <> (last option is correct)
+
 <p>
 <hr>
 <p> 
@@ -412,6 +423,17 @@ Assignment: Add that code to the Algebra notebook you are building, and test it 
  
 This next video will give you a deeper dive into what you can do with graphing systems of equations, graphing inequalities, and shading above or below the line. You will also see how to download the graph to your computer or your Google Drive.<p> 
 [video 17](https://www.youtube.com/embed/q8ad1tTFqns)<p>
+ 
+Question<br> 
+If you want to create an interactive plot with a slider to zoom in and out, where does most of the graphing code appear?<br>
+__ Within the interactive() function<br>
+__ In the slider<br>
+__ Within the function that the interactive() calls<br>
+__ Before all of the functions<br>
+<br>
+
+[comment]: <> (third option is correct)
+
 <p>
 <hr>
 <p> 
@@ -428,6 +450,17 @@ So that you can go back and reference the code, here is the notebook used in the
 ## Week 8 - Solving Systems of Equations<p>
 In this unit, you will first learn how to solve a system of two equations (with two variables) without graphing. You will then see how you can factor an equation and solve for a certain variable in Python. By the end of this video, you will be able to solve and graph a system of equations with one block of code. This video will show you the math behind this process, and then how to do it all with Python code.<p>
 [video 18](https://www.youtube.com/embed/CNGUQzXfC6c)<p>
+ 
+Question<br>
+Which of the following can SymPy do that matplotlib can't do?<br>
+__ Solve for a variable<br>
+__ Display an x-y axis<br>
+__ Graph an equation or two<br>
+__ Show tic marks on the graph<br>
+<br>
+
+[comment]: <> (first answer is correct)
+
 <p>
 <hr>
 <p>
@@ -446,6 +479,17 @@ Assignment: Create your own Colab notebook to solve and graph systems of equatio
  
 This video will show you one way to create your super calculator that solves and graphs. It will also show you how to zoom in or zoom out on the graph and write the code to build that feature.<p>
 [video 19](https://www.youtube.com/embed/856p7t2V9NY)<p>
+ 
+Question<br> 
+Which of the following is not true?<br>
+__ When graphing, you can adjust your tic marks on each axis<br>
+__ The nonlinsolve() function can solve linear equations<br>
+__ The linsolve() function can solve nonlinear equations<br>
+__ To zoom in or out on a graph, an interactive slider is useful<br>
+<br>
+
+[comment]: <> (the third option is correct)
+
 <p>
 <hr>
 <p> 
@@ -462,6 +506,17 @@ Here is a sample Colab notebook to go along with the video. This will give you a
 ## Week 9 - Applications of Linear Systems<p>
 In this unit, you will see how you can use the Algebra you learned so far to solve real world problems. The first video will look at key words that tell you what math operation to use. Then you will see how to apply some of your code to different problems.<p>
 [video 20](https://www.youtube.com/embed/3ZM3XMn1QYo)<p>
+
+Question<br>
+Which of the following key words indicate subtraction?<br>
+__ plus, more, increase, up<br>
+__ difference, less, decrease, down<br>
+__ of, by, factor, area, times<br>
+__ out of, per, divided, quotient<br>
+<br>
+
+[comment]: <> (the second option is correct)
+
 <p>
 <hr>
 <p>
@@ -479,6 +534,17 @@ Assignment: problems from textbook 1 pages 63, 75, 85, 118, problems from textbo
  
 The next video contains more examples of how to set up equations and use your Colab notebook to solve them.<p>
 [video 21](https://www.youtube.com/embed/ZtypoUnNdAY)<p>
+
+Question<br>
+How can you make use of a Colab notebook to solve practical business problems?<br>
+__ Modify the equations in the code you already wrote<br>
+__ Copy your existing code and then modify it as necessary<br>
+__ Write new code based on the functions you already know<br>
+__ All of the above<br>
+<br>
+
+[comment]: <> (the second option is correct)
+
 <p>
 <hr>
 <p>
@@ -489,6 +555,17 @@ The next video contains more examples of how to set up equations and use your Co
 ## Week 10 - Quadratic Equations<p>
 This unit will go beyond linear equations, to work with exponents and graph parabolas. You will learn how to find key points in parabolas and how to solve quadratic equations. This video will also explain the coefficients ("A," "B," and "C") in the standard form and how to use them to find the roots and vertex.<p>
 [video 22](https://www.youtube.com/embed/pPLBL3L0OGg)<p>
+
+Question<br>
+In Python code, what is the formula for the x value of the vertex?<br>
+__ x = -b/2a<br>
+__ x = -b/(2*a)<br>
+__ x = b/2a<br>
+__ x = -b/2*a<br>
+<br>
+
+[comment]: <> (the second option is correct)
+
 <p>
 <hr>
 <p>
@@ -729,19 +806,6 @@ The course will be on the freeCodeCamp website soon. The video course (all of th
 <hr>
 <p>
 <p>
-
-Qed:<br>
-<br>
-<br>
-<br>
-<br>
-<br>
- 
-[comment]: <> (-- is correct)
-
-
-
-      
       
       
       
