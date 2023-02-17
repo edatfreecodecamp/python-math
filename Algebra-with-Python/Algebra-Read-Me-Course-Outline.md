@@ -110,7 +110,7 @@ The next video will go deeper, with more examples of how to use SymPy solve. It 
 [video 5 - extra problems](https://www.youtube.com/embed/lFTCVUCbNoM)<p>
 
 Question:<br>
-If you import sympy and define x as a variable,  what would be the input from the following code?<br>
+If you import sympy and define x as a variable,  what would be the output from the following code?<br>
   example = 3*x - 12<br>
   equation = Eq(example,0)<br>
   solution = solve(equation,x)<br>
