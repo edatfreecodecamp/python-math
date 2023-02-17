@@ -334,7 +334,7 @@ In this unit, you will learn how to find common factors and divide them out. Thi
 [video 14](https://www.youtube.com/embed/Puyp_-ZYA54)<p>
 
 Question:<br>
-What does the modulus(%) operator do in Python?<br>
+What does the modulus (%) operator do in Python?<br>
 __ returns the percent<br>
 __ divides<br>
 __ returns the remainder when dividing<br>
