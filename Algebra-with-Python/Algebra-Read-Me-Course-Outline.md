@@ -217,7 +217,7 @@ This next video will show you the connection between functions and graphing. Not
 [video 9](https://www.youtube.com/embed/vUefCkh8-wc)<p>
  
 Question:<br>
-Which of the following would put a blue line on a graph?<br>
+Which of the following would put a solid blue line on a graph?<br>
 __ plt.plot([0,0],[10,10],'b-')<br>
 __ plt.plot([0,0],[10,10],'bo')<br>
 __ plt.plot([0,10],[0,10],'b')<br>
