@@ -265,7 +265,7 @@ This unit will show you how to develop linear equations from two points. You wil
 [video 11](https://www.youtube.com/embed/nURsz7SR5aM)<p>
  
 Question:<br>
-If you have already defined these variables, wWhich of the follwing is the correct slope formula?<br>
+If you have already defined these variables, which of the follwing is the correct slope formula?<br>
 __ slope = (x1 - x2) / (y1 - y2)<br>
 __ slope = (x2 - x1) / (y2 - y1)<br>
 __ slope = (x1 - y1) / (x2 - y2)<br>
