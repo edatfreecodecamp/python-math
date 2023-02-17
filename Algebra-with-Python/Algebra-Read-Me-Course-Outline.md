@@ -683,6 +683,17 @@ So that you can copy the code for sliders and things here is the Colab notebook 
 ## Week 12 - Business Applications<p>
 This unit will show you how to apply your solving and graphing skills to find cost, revenue, and profit. You will write code to develop a demand function from two points. You will see how price affects the profit graph and how all of these equations relate to each other.<p>
 [video 26](https://www.youtube.com/embed/8PIZmiMFmfk)<p>
+ 
+Question:<br>
+Which of the following business equations is not correct?<br>
+__ Profit = Revenue - Cost<br>
+__ Revenue = Price * Demand<br>
+__ Cost = Fixed Expenses + Variable Expenses<br>
+__ Marginal Revenue = Margins + Revenue<br>
+<br>
+
+[comment]: <> (the fourth option is correct)
+
 <p>
 <hr>
 <p>
@@ -699,6 +710,17 @@ Assignment: practice problems from textbook 1 pages 155 and 163<p>
 
 Here is a video showing you some economics applications, creating graphs and formulas:<p>
 [video 27](https://www.youtube.com/embed/9n_ZybF0Phc)<p> 
+ 
+Question:<br>
+Which of the following is not true of supply and demand graphs?<br>
+__ The supply curve has a positive slope<br>
+__ The demand curve has a negative slope<br>
+__ The supply curve and demand curve will intersect<br>
+__ The supply curve and demand curve will always be straight lines<br>
+<br>
+
+[comment]: <> (the fourth option is correct)
+
 <p>
 <hr>
 <p>
@@ -709,6 +731,17 @@ Here is a video showing you some economics applications, creating graphs and for
 ## Week 13 - Simple and Compound Interest<p>
 This unit will show you how to calculate interest, loan payments, and the estimated value of investments. You will see the math formula and turn that into code. Because these formulas tend to get complicated, you will appreciate having the code where you can just modify a few values. First, you will get to understand the equations and what it all means.<p>
 [video 28](https://www.youtube.com/embed/iMPFK7wXNPg)<p>
+ 
+Question:
+In percent increase formulas, what does the "principle" refer to?<br>
+__ the main amount<br>
+__ the ending amount<br>
+__ the starting amount<br>
+__ the (1 + rate) multiplier<br>
+<br>
+
+[comment]: <> (the third option is correct)
+
 <p>
 <hr>
 <p>
@@ -726,6 +759,17 @@ Here is a Colab notebook that shows you one way to put many of these interest an
 
 Here is a detour from the Python code, as this video shows you how to create mortgage payment amortization tables in Google Sheets. You will also learn about how to use a very similar setup to estimate retirement account investment returns. This is the video that shows you where your money is going.<p>
 [video 29](https://www.youtube.com/embed/2cbrstoKNSc)<p>
+ 
+Question:
+What marker do you use to attach a formula to a cell in a spreadsheet?<br>
+__ ()<br>
+__ =<br>
+__ ==<br>
+__ formula()<br>
+<br>
+
+[comment]: <> (the second option is correct)
+
 <p>
 <hr>
 <p>
