@@ -780,6 +780,17 @@ __ formula()<br>
 ## Week 14 - Exponents and Logarithms<p>
 This unit will show you how exponents and logarithms are inverse functions, and how you can use these functions in various applications<p>
 [video 30](https://www.youtube.com/embed/LhzmzugFFu8)<p>
+
+Question:<br>
+What is log<sub>5</sub>(25)?<br>
+__ 0<br>
+__ 1<br>
+__ 2<br>
+__ 5<br>
+<br>
+
+[comment]: <> (the third option is correct)
+
 <p>
 <hr>
 <p>
@@ -813,6 +824,13 @@ Your calculator should do the following:<br>
 
 If you had any questions or if you wanted some deeper insight into everything in the Certification 3 notebook, here is a video of a complete walkthrough with additional comments and explanations:<p>
 [video 31 - Certification 3 walkthrough](https://www.youtube.com/embed/c2AhGd6srJ0)<p>
+ 
+Question:<br>
+Have you completed building your financial calculator?<br>
+__ Yes<br>
+__ No<br>
+<br>
+
 <p>
 <hr>
 <p>
@@ -823,12 +841,34 @@ If you had any questions or if you wanted some deeper insight into everything in
 ## Week 15 - Conclusion and Additional Resources<p>
 This will be the last unit in this course. Let's look at how you can connect your Math and Python knowledge with external data. This video will show you how to get data from other sources, then transform it so that you can graph it and interpret it:<p>
 [video 32 - graphing external data](https://www.youtube.com/embed/JH9Uk2mi3Dc)<p>
+ 
+Question:<br>
+What library helps you to read data from a .csv and store it as a dataframe where you can select columns?<br>
+__ Math<br>
+__ Pandas<br>
+__ Data<br>
+__ Matplotlib<br>
+<br>
+
+[comment]: <> (the second option is correct)
+
 <p>
 <hr>
 <p>
 
 One more thing... This brief video will show you some of the resources available to you in Google Colab notebooks. <p>
 [video 33](https://www.youtube.com/embed/HNFrRHqpck4)<p>
+ 
+Question:<br>
+Which code snippets are available in the Google Colaboratory?<br>
+__ Camera capture<br>
+__ Adding form fields<br>
+__ Importing data from Google Sheets<br>
+__ All of the above<br>
+<br>
+
+[comment]: <> (the fourth option is correct)
+
 <p>
 <hr>
 <p>
