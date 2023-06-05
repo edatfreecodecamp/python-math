@@ -178,7 +178,7 @@ def step18(code):
     import re
     print(" ")
     code_count=0
-    #code = In[-1].split('# Only change code above this line')[0];
+    code = In[-1].split('# Only change code above this line')[0];
 
     # if n % (maybe_factor**2) == 0:
     if re.search("if n\s*\%\s*\(maybe\_factor\*\*2\)\s*\=\=\s*0\:", code):
