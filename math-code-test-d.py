@@ -263,7 +263,7 @@ def step20(code):
     print(" ")
     code_count = 0
     # sideA/math.sin(radian_angle)
-    if sideC==0:
+    if re.search("sideC\s*=\s*0", code):
         print("Now write the code to solve for sideC")
     elif re.search("sideA\/math\.sin\(radian\_angle\)", code):
         print("Code test passed")
@@ -277,7 +277,7 @@ def step21(code):
     print(" ")
     code_count = 0
     # sideA/math.cos(radian_angle)
-    if sideC==0:
+    if re.search("sideC\s*=\s*0", code):
         print("Now write the code to solve for the diagonal force")
     elif re.search("sideA\/math\.cos\(radian\_angle\)", code):
         print("Code test passed")
@@ -291,7 +291,7 @@ def step22(code):
     print(" ")
     code_count = 0
     # sideA/math.tan(radian_angle)
-    if sideB==0:
+    if re.search("sideB\s*=\s*0", code):
         print("Now write the code to solve for the distance")
         print(" ")
     elif re.search("sideA\/math\.tan\(radian\_angle\)", code):
@@ -306,7 +306,7 @@ def step23(code):
     print(" ")
     code_count = 0
     # side_B = math.sin(math.radians(angle_B))*sideA/math.sin(math.radians(angleA))
-    if sideB==0:
+    if re.search("sideB\s*=\s*0", code):
         print("Now write the code to solve for side b")
         print(" ")
     elif re.search("side\_B\s*\=\s*math\.sin\(math\.radians\(angle\_B\)\)\*sideA\/math\.sin\(math\.radians\(angleA\)\)", code):
@@ -322,7 +322,7 @@ def step24(code):
     code_count = 0
     # almost = sideA**2 + sideB**2 - 2*sideA*sideB*math.cos(math.radians(angle_C))
     # side_C = math.sqrt(almost)
-    if side_C==0:
+    if re.search("sideC\s*=\s*0", code):
         print("Now write the code to solve for side c")
         print(" ")
     elif re.search("sideA\*\*2\s*\+\s*sideB\*\*2\s*\-\s*2\*sideA\*sideB\*math\.cos\(math\.radians\(angle\_C\)\)", code):
@@ -337,7 +337,7 @@ def step25(code):
     print(" ")
     code_count = 0
     # area = 0.5*sideA*sideB*math.sin(math.radians(angleC))
-    if area==0:
+    if re.search("area\s*=\s*0", code):
         print("Now write the code to find the area")
         print(" ")
     elif re.search("area\s*\=\s*0\.5\*sideA\*sideB\*math\.sin\(math\.radians\(angleC\)\)", code):
