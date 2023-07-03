@@ -237,15 +237,16 @@ def step19(code):
     import re
     print(" ")
     code_count = 0
-    if re.search("side\_b\s*\=\s*0", code):
+    # cos_value
+    if re.search("cos\_value\s*\=\s*0", code):
         print("Scroll up to see the example, then write the code to solve for b")
     elif re.search("\=\s*round\(math\.cos\(math\.radians\(rangle\)\)\,\s*4\)", code):
         code_count = code_count + 1
     else:
         print("Your code should include cos_value = round(math.cos(math.radians(rangle)), 4)")
 
-    # side_b = round(sideC*cos_value,2)
-    if side_b==0:
+    # side_b
+    if re.search("side\_b\s*\=\s*0", code):
         print(" ")
     elif re.search("side\_b\s*\=\s*round\(sideC\*cos\_value\,2\)", code):
         code_count = code_count + 1
