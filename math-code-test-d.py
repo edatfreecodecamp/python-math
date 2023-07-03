@@ -237,8 +237,7 @@ def step19(code):
     import re
     print(" ")
     code_count = 0
-    # = round(math.cos(math.radians(rangle)), 4)
-    if side_b==0:
+    if re.search("side\_b\s*\=\s*0", code):
         print("Scroll up to see the example, then write the code to solve for b")
     elif re.search("\=\s*round\(math\.cos\(math\.radians\(rangle\)\)\,\s*4\)", code):
         code_count = code_count + 1
