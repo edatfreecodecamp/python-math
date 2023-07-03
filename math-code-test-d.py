@@ -173,31 +173,31 @@ def step14(code):
     print(" ")
     code_count = 0
     # cosA_actual = round(b/c,4)
-    if re.search("cosA\_actual\s*\=\s*round\(b\/c\,4\)", code):
+    if re.search("cosA\_actual\s*\=\s*round\(b\/c\,\s*4\)", code):
         code_count = code_count + 1
     else:
         print("You should use cosA_actual = round(b/c,4) in your code")
 
     # tanA_actual = round(a/b,4)
-    if re.search("tanA\_actual\s*\=\s*round\(a\/b\,4\)", code):
+    if re.search("tanA\_actual\s*\=\s*round\(a\/b\,\s*4\)", code):
         code_count = code_count + 1
     else:
         print("You should use tanA_actual = round(a/b,4) in your code")
 
     # sinB_actual = round(b/c,4)
-    if re.search("sinB\_actual\s*\=\s*round\(b\/c\,4\)", code):
+    if re.search("sinB\_actual\s*\=\s*round\(b\/c\,\s*4\)", code):
         code_count = code_count + 1
     else:
         print("You should use sinB_actual = round(b/c,4) in your code")
 
     # cosB_actual = round(a/c,4)
-    if re.search("cosB\_actual\s*\=\s*round\(a\/c\,4\)", code):
+    if re.search("cosB\_actual\s*\=\s*round\(a\/c\,\s*4\)", code):
         code_count = code_count + 1
     else:
         print("You should use cosB_actual = round(a/c,4) in your code")
 
     # tanB_actual = round(b/a,4)
-    if re.search("tanB\_actual\s*\=\s*round\(b\/a\,4\)", code):
+    if re.search("tanB\_actual\s*\=\s*round\(b\/a\,\s*4\)", code):
         code_count = code_count + 1
     else:
         print("You should use tanB_actual = round(b/a,4) in your code")
