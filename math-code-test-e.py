@@ -40,7 +40,7 @@ def step04(code):
     # next_number = a_list[n-1]*2+3
     if re.search("next\_number\s*=\s*0", code):
         print("Now just change the \'next_number = 0\' line")
-    elif re.search("next\_number\s*=\s*a\_list\[n\-1\]\*2\+3", code):
+    elif re.search("next\_number\s*=\s*a\_list\[n\-1\]\s*\*2\s*\+\s*3", code):
         print("Code test passed")
     else:
         print("You should use next_number = a_list[n-1]*2+3 in your code")
@@ -109,7 +109,7 @@ def step09(code):
     # print(math.factorial(number),
     if re.search("print\(number\,\s*\"\!\s*\=\s*\"\)", code):
         print("Now change the first print statement to include math.factorial()")
-    elif re.search("print\(number\,\s*\"\!\s*\=\s*\"\,math\.factorial\(number\)\)", code):
+    elif re.search("print\(number\,\s*\"\!\s*\=\s*\"\,\s*math\.factorial\(number\)\)", code):
         print("Code test passed")
         print("Go on to the next step")
     else:
