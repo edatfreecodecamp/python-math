@@ -186,12 +186,10 @@ def step18(code):
         print("Your code should include if n % (maybe_factor**2) == 0:")
 
     # max_factor = maybe_factor
-    if re.search("max\_factor\s*\=\s*maybe\_factor.", code):
-        print("Your code should include max_factor = maybe_factor")
-    elif re.search("max\_factor\s*\=\s*maybe\_factor", code):
+    if re.search("max\_factor\s*\=\s*maybe\_factor\*\*2", code):
         code_count = code_count + 1
     else:
-        print("Your code should include max_factor = maybe_factor")
+        print("Your code should include max_factor = maybe_factor**2")
 
     if code_count==2:
         print("Code test passed")
